@@ -19,7 +19,6 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
   - [🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques](#-12-nouvelles-possibilités--extension-des-capacités-biologiques)
   - [🎭 1.3 Pensée magique et technique : Les premiers "algorithmes" mentaux](#-13-pensée-magique-et-technique--les-premiers-algorithmes-mentaux)
 - [8. Réferences :](#8-réferences-)
-    - [Kahneman, 2011](#kahneman-2011)
 
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
@@ -29,7 +28,7 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
-L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi ([Kahneman, 2011](#kahneman-2011)). Cette dualité explique notre tendance naturelle à **externaliser les tâches cognitives coûteuses** en énergie.   
+L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi ([Kahneman, 2011](#kahneman2011)). Cette dualité explique notre tendance naturelle à **externaliser les tâches cognitives coûteuses** en énergie.   
 
 |🕐 Période    |      🔧 Innovation       |          💡 Impact cognitif        |
 |--------------|---------------------------|-------------------------------------|
@@ -425,5 +424,5 @@ Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shann
 
 # 8. Réferences : 
 
-### Kahneman, 2011
+<a name="kahneman2011"></a>
 Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
