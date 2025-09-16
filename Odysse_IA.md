@@ -426,7 +426,7 @@ Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shann
 
 <a name="bergson1907"></a>
 - Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.
-- <a name="kahneman2011"></a>
+<a name="kahneman2011"></a>
 - Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.
 <a name="mithen1996"></a>
 - Mithen, S. (1996). _The prehistory of the mind: The cognitive origins of art, religion and science_ . London: Thames & Hudson.
