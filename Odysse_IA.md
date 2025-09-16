@@ -1,26 +1,21 @@
-# 🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains
+# 🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains <!-- omit in toc -->
 _Romuald COURTOIS, 29/08/2025_
 
 Document de recherche académique avec références scientifiques
 
-# 📋 Résumé exécutif
+# 📋 Résumé exécutif <!-- omit in toc -->
 Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle depuis ses racines anthropologiques jusqu'aux développements contemporains, démontrant que l'IA constitue l'aboutissement d'une quête humaine millénaire plutôt qu'une rupture technologique récente.
 
-## 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques.
+## 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques. <!-- omit in toc -->
 
-# 🎯 Objectifs de recherche
+# 🎯 Objectifs de recherche <!-- omit in toc -->
 
 - Identifier les premières manifestations conceptuelles de l'IA
 - Établir la continuité historique entre mythes antiques et réalisations modernes
 - Analyser les motivations anthropologiques constantes
 - Projeter les évolutions futures basées sur les tendances historiques
 
-# Table des matières
-- [🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains](#-lodyssée-de-lintelligence-artificielle--des-origines-anthropologiques-aux-horizons-contemporains)
-- [📋 Résumé exécutif](#-résumé-exécutif)
-  - [💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques.](#-thèse-principale--lintelligence-artificielle-nest-pas-une-innovation-du-xxe-siècle-mais-laboutissement-de-40-000-ans-de-recherche-humaine-pour-créer-des-extensions-de-nos-capacités-cognitives-et-physiques)
-- [🎯 Objectifs de recherche](#-objectifs-de-recherche)
-- [Table des matières](#table-des-matières)
+# Table des matières <!-- omit in toc -->
 - [🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs](#-1-la-base-de-lhomme--fondements-anthropologiques-et-cognitifs)
   - [⚡ 1.1 Économie d'énergie : Le principe de moindre action](#-11-économie-dénergie--le-principe-de-moindre-action)
   - [🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques](#-12-nouvelles-possibilités--extension-des-capacités-biologiques)
