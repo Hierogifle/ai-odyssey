@@ -1,7 +1,5 @@
 # 🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains <!-- omit in toc -->
-_Romuald COURTOIS, 29/08/2025_
-
-Document de recherche académique avec références scientifiques
+_Romuald COURTOIS, 29/08/2025_ - Document de recherche académique avec références scientifiques
 
 # 📋 Résumé exécutif <!-- omit in toc -->
 Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle depuis ses racines anthropologiques jusqu'aux développements contemporains, démontrant que l'IA constitue l'aboutissement d'une quête humaine millénaire plutôt qu'une rupture technologique récente.
@@ -24,8 +22,8 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
 
-_"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_
-Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
+> _"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_
+> Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
