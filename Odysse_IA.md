@@ -18,13 +18,13 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
   - [⚡ 1.1 Économie d'énergie : Le principe de moindre action](#-11-économie-dénergie--le-principe-de-moindre-action)
   - [🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques](#-12-nouvelles-possibilités--extension-des-capacités-biologiques)
   - [🎭 1.3 Pensée magique et technique : Les premiers "algorithmes" mentaux](#-13-pensée-magique-et-technique--les-premiers-algorithmes-mentaux)
-- [8. Réferences :](#8-réferences-)
+- [📚 8. Bibliographie](#-8-bibliographie)
 
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
 
 > _"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_
-> Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
+> Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ ([Bergson, 1907](#bergson1907)).
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
@@ -37,7 +37,7 @@ L'optimisation énergétique constitue un principe fondamental de l'évolution h
 |  -10 000 ans |               Agriculture |    Automatisation de la subsistance |
 |   -5 000 ans |                  Écriture | Stockage permanent de l'information |
 
-Steven Mithen, archéologue cognitif, identifie dans _The Prehistory of the Mind_ (1996) trois étapes cruciales (Mithen, S. (1996). The prehistory of the mind: The cognitive origins of art, religion and science. London: Thames & Hudson.) :
+Steven Mithen, archéologue cognitif, identifie dans _The Prehistory of the Mind_ (1996) trois étapes cruciales ([Mithen, 1996](#mithen1996)) :
 
 - **Intelligence technique** : Fabrication d'outils
 - **Intelligence sociale** : Coopération complexe
@@ -422,7 +422,14 @@ Paradigme comportementaliste pour l'IA
 ⚡ Conférence de Dartmouth (1956) : Acte de naissance officiel
 Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon, cette conférence baptise officiellement l'intelligence artificielle.
 
-# 8. Réferences : 
+# 📚 8. Bibliographie
+
+<a name="bergson1907"></a>
+Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.
+
+<a name="mithen1996"></a>
+- Mithen, S. (1996). _The prehistory of the mind: The cognitive origins of art, religion and science_ . London: Thames & Hudson.
 
 <a name="kahneman2011"></a>
-Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
+- Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.
+
