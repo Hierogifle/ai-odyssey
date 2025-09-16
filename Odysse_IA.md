@@ -431,5 +431,5 @@ Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shann
 <a name="mithen1996"></a>
 - Mithen, S. (1996). _The prehistory of the mind: The cognitive origins of art, religion and science_ . London: Thames & Hudson.
 <a name="wynn2012"></a>
-- Wynn, T., & Coolidge, F. L. (2012). _How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic_. Oxford University Press.
+- Wynn, T., & Coolidge, F. L. (2012). How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic. _Oxford University Press_.
 
