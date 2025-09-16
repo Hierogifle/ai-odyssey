@@ -28,7 +28,7 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
-L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi ([Kahneman, 2011](#kahneman2011)). Cette dualité explique notre tendance naturelle à **externaliser les tâches cognitives coûteuses** en énergie.   
+L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi, et par conséquent plus couteuse en énergie ([Kahneman, 2011](#kahneman2011)). Cette dualité explique notre tendance naturelle à **externaliser les tâches cognitives coûteuses** en énergie.   
 
 |🕐 Période    |      🔧 Innovation       |          💡 Impact cognitif        |
 |--------------|---------------------------|-------------------------------------|
@@ -47,7 +47,7 @@ Ces étapes préfigurent les trois piliers de l'IA moderne : manipulation, inter
 
 **🔬 Focus scientifique : Le cerveau comme première "machine"**  
 
-Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. Wynn & Coolidge (2012) (Wynn, T., & Coolidge, F. L. (2012). How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic. Oxford University Press.) démontrent que les Néandertaliens possédaient déjà des capacités de **mémoire de travail** sophistiquées, base neurologique de tout raisonnement artificiel futur.
+Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. ([Wynn & Coolidge (2012)](#wynn2012)) démontrent que les Néandertaliens possédaient déjà des capacités de **mémoire de travail** sophistiquées, base neurologique de tout raisonnement artificiel futur.
 
 ## 🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques
 La _théorie de l'esprit étendu_ d'Andy Clark et David Chalmers (1998) (Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19. https://doi.org/10.1093/analys/58.1.7) révolutionne notre compréhension de la cognition. Selon eux, nos outils ne sont pas de simples auxiliaires mais des extensions authentiques de notre appareil cognitif.
@@ -425,11 +425,11 @@ Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shann
 # 📚 8. Bibliographie
 
 <a name="bergson1907"></a>
-Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.
-
+- Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.
+- <a name="kahneman2011"></a>
+- Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.
 <a name="mithen1996"></a>
 - Mithen, S. (1996). _The prehistory of the mind: The cognitive origins of art, religion and science_ . London: Thames & Hudson.
-
-<a name="kahneman2011"></a>
-- Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.
+<a name="wynn2012"></a>
+- Wynn, T., & Coolidge, F. L. (2012). _How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic_. Oxford University Press.
 
