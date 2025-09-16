@@ -18,27 +18,41 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
 
-"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit." Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’Homo faber (cf. Bergson, L’Évolution créatrice, 1907).
+_"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_ - Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
 
-⚡ 1.1 Économie d'énergie : Le principe de moindre action
-L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi (Kahneman, 2011). Cette dualité explique notre tendance naturelle à externaliser les tâches cognitives coûteuses en énergie.
-🕐 Période🔧 Innovation💡 Impact cognitif-2,8M annéesPremiers outils (Oldowan)Extension de la main-40 000 ansArt rupestreExternalisation de la mémoire-10 000 ansAgricultureAutomatisation de la subsistance-5 000 ansÉcritureStockage permanent de l'information
+## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
+
+L'optimisation énergétique constitue un principe fondamental de l'évolution humaine. Daniel Kahneman, prix Nobel d'économie, démontre dans ses recherches que notre cerveau fonctionne selon deux systèmes : l'un rapide et automatique, l'autre lent et réfléchi (Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.). Cette dualité explique notre tendance naturelle à **externaliser les tâches cognitives coûteuses** en énergie.   
+
+|🕐 Période    |      🔧 Innovation       |          💡 Impact cognitif        |
+|--------------|---------------------------|-------------------------------------|
+| -2,8M années | Premiers outils (Oldowan) |                Extension de la main |
+|  -40 000 ans |              Art rupestre |       Externalisation de la mémoire |
+|  -10 000 ans |               Agriculture |    Automatisation de la subsistance |
+|   -5 000 ans |                  Écriture | Stockage permanent de l'information |
+
 Steven Mithen, archéologue cognitif, identifie dans The Prehistory of the Mind (1996) trois étapes cruciales :
 
-Intelligence technique : Fabrication d'outils
-Intelligence sociale : Coopération complexe
-Intelligence symbolique : Représentation abstraite
+- **Intelligence technique** : Fabrication d'outils
+- **Intelligence sociale** : Coopération complexe
+- **Intelligence symbolique** : Représentation abstraite
 
 Ces étapes préfigurent les trois piliers de l'IA moderne : manipulation, interaction, et représentation des connaissances.
-🔬 Focus scientifique : Le cerveau comme première "machine"
-Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. Wynn & Coolidge (2012) démontrent que les Néandertaliens possédaient déjà des capacités de mémoire de travail sophistiquées, base neurologique de tout raisonnement artificiel futur.
-🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques
+
+**🔬 Focus scientifique : Le cerveau comme première "machine"**
+Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. Wynn & Coolidge (2012) démontrent que les Néandertaliens possédaient déjà des capacités de **mémoire de travail** sophistiquées, base neurologique de tout raisonnement artificiel futur.
+
+## 🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques
 La théorie de l'esprit étendu d'Andy Clark et David Chalmers (1998) révolutionne notre compréhension de la cognition. Selon eux, nos outils ne sont pas de simples auxiliaires mais des extensions authentiques de notre appareil cognitif.
-📊 Évolution des extensions cognitives
+
+**📊 Évolution des extensions cognitives**
+
 Mémoire biologique → Peintures rupestres → Écriture → Livres → Ordinateurs → IA
      (limitée)        (spatiale)      (linéaire)  (massive)  (interactive)  (autonome)
-Lambros Malafouris, dans How Things Shape the Mind (2013), développe le concept d'enaction matérielle : nos pensées ne sont pas uniquement dans notre tête, mais distribuées dans notre environnement technologique. Cette approche annonce l'IA comme prolongement naturel de l'évolution cognitive humaine.
-🎭 1.3 Pensée magique et technique : Les premiers "algorithmes" mentaux
+
+Lambros Malafouris, dans How Things Shape the Mind (2013), développe le concept d'**enaction matérielle** : nos pensées ne sont pas uniquement dans notre tête, mais distribuées dans notre environnement technologique. Cette approche annonce l'IA comme prolongement naturel de l'évolution cognitive humaine.
+
+## 🎭 1.3 Pensée magique et technique : Les premiers "algorithmes" mentaux
 L'animisme primitif révèle une intuition profonde : attribuer de l'intelligence à l'inerte. Cette projection cognitive, loin d'être une erreur, constitue le modèle mental fondamental qui permettra plus tard de concevoir des machines pensantes.
 Exemples ethnologiques :
 
@@ -400,3 +414,5 @@ Paradigme comportementaliste pour l'IA
 
 ⚡ Conférence de Dartmouth (1956) : Acte de naissance officiel
 Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon, cette conférence baptise officiellement l'intelligence artificielle.
+
+Réferences : 
