@@ -15,10 +15,22 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 - Analyser les motivations anthropologiques constantes
 - Projeter les évolutions futures basées sur les tendances historiques
 
+# Table des matières
+- [🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains](#-lodyssée-de-lintelligence-artificielle--des-origines-anthropologiques-aux-horizons-contemporains)
+- [📋 Résumé exécutif](#-résumé-exécutif)
+  - [💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques.](#-thèse-principale--lintelligence-artificielle-nest-pas-une-innovation-du-xxe-siècle-mais-laboutissement-de-40-000-ans-de-recherche-humaine-pour-créer-des-extensions-de-nos-capacités-cognitives-et-physiques)
+- [🎯 Objectifs de recherche](#-objectifs-de-recherche)
+- [Table des matières](#table-des-matières)
+- [🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs](#-1-la-base-de-lhomme--fondements-anthropologiques-et-cognitifs)
+  - [⚡ 1.1 Économie d'énergie : Le principe de moindre action](#-11-économie-dénergie--le-principe-de-moindre-action)
+  - [🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques](#-12-nouvelles-possibilités--extension-des-capacités-biologiques)
+  - [🎭 1.3 Pensée magique et technique : Les premiers "algorithmes" mentaux](#-13-pensée-magique-et-technique--les-premiers-algorithmes-mentaux)
+
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
 
-_"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_ - Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
+_"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_
+Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ (Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.).
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
@@ -31,7 +43,7 @@ L'optimisation énergétique constitue un principe fondamental de l'évolution h
 |  -10 000 ans |               Agriculture |    Automatisation de la subsistance |
 |   -5 000 ans |                  Écriture | Stockage permanent de l'information |
 
-Steven Mithen, archéologue cognitif, identifie dans The Prehistory of the Mind (1996) trois étapes cruciales :
+Steven Mithen, archéologue cognitif, identifie dans _The Prehistory of the Mind_ (1996) trois étapes cruciales (Mithen, S. (1996). The prehistory of the mind: The cognitive origins of art, religion and science. London: Thames & Hudson.) :
 
 - **Intelligence technique** : Fabrication d'outils
 - **Intelligence sociale** : Coopération complexe
@@ -39,16 +51,17 @@ Steven Mithen, archéologue cognitif, identifie dans The Prehistory of the Mind 
 
 Ces étapes préfigurent les trois piliers de l'IA moderne : manipulation, interaction, et représentation des connaissances.
 
-**🔬 Focus scientifique : Le cerveau comme première "machine"**
-Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. Wynn & Coolidge (2012) démontrent que les Néandertaliens possédaient déjà des capacités de **mémoire de travail** sophistiquées, base neurologique de tout raisonnement artificiel futur.
+**🔬 Focus scientifique : Le cerveau comme première "machine"**  
+
+Les neurosciences modernes révèlent que notre cerveau traite l'information selon des principes computationnels. Wynn & Coolidge (2012) (Wynn, T., & Coolidge, F. L. (2012). How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic. Oxford University Press.) démontrent que les Néandertaliens possédaient déjà des capacités de **mémoire de travail** sophistiquées, base neurologique de tout raisonnement artificiel futur.
 
 ## 🚀 1.2 Nouvelles possibilités : Extension des capacités biologiques
-La théorie de l'esprit étendu d'Andy Clark et David Chalmers (1998) révolutionne notre compréhension de la cognition. Selon eux, nos outils ne sont pas de simples auxiliaires mais des extensions authentiques de notre appareil cognitif.
+La _théorie de l'esprit étendu_ d'Andy Clark et David Chalmers (1998) (Clark, A., & Chalmers, D. (1998). The extended mind. Analysis, 58(1), 7–19. https://doi.org/10.1093/analys/58.1.7) révolutionne notre compréhension de la cognition. Selon eux, nos outils ne sont pas de simples auxiliaires mais des extensions authentiques de notre appareil cognitif.
 
 **📊 Évolution des extensions cognitives**
 
 Mémoire biologique → Peintures rupestres → Écriture → Livres → Ordinateurs → IA
-     (limitée)        (spatiale)      (linéaire)  (massive)  (interactive)  (autonome)
+   (limitée)            (spatiale)        (linéaire) (massive)(interactive)(autonome)
 
 Lambros Malafouris, dans How Things Shape the Mind (2013), développe le concept d'**enaction matérielle** : nos pensées ne sont pas uniquement dans notre tête, mais distribuées dans notre environnement technologique. Cette approche annonce l'IA comme prolongement naturel de l'évolution cognitive humaine.
 
