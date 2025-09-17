@@ -23,15 +23,24 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
   - [2. Préhistoire \& Antiquité : du mythe aux premières machines logiques](#2-préhistoire--antiquité--du-mythe-aux-premières-machines-logiques)
 - [📚 8. Bibliographie](#-8-bibliographie)
 
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <p align="center"> _ L'Éternel Fainéant Ambitieux_ </p>
 <p align="center"> De l’économie d’énergie à l’extension des possibles </p>
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # PARTIE I : Fondations anthropologiques et mythologiques
 ## 1. L'éternel fainéant ambitieux : économie d'énergie cognitive et paresse créative
