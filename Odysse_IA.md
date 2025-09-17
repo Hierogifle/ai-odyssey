@@ -1,17 +1,22 @@
 # 🚀 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains <!-- omit in toc -->
 _Romuald COURTOIS, 29/08/2025_ - Document de recherche académique avec références scientifiques
 
-# 📋 Résumé exécutif <!-- omit in toc -->
-Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle depuis ses racines anthropologiques jusqu'aux développements contemporains, démontrant que l'IA constitue l'aboutissement d'une quête humaine millénaire plutôt qu'une rupture technologique récente.
+# 🎯 Objectif <!-- omit in toc -->
+
+Retracer l’évolution de l’intelligence artificielle, depuis les fondements anthropologiques et cognitifs de l’Homme jusqu’aux perspectives futures, afin de comprendre comment la quête d’optimisation et de simplification a façonné les outils, les machines et, aujourd’hui, l’IA.
+
+# 🔑 Idée directrice <!-- omit in toc -->
+
+L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux »_ : l’Homme, en cherchant à économiser son énergie, a sans cesse inventé de nouvelles solutions techniques, ouvrant ainsi des possibilités inédites. Cette logique d’extension et de délégation culmine dans les technologies d’intelligence artificielle contemporaines.
+
+# 🚀 Valeur ajoutée <!-- omit in toc -->
+
+- Approche chronologique et conceptuelle, reliant innovations techniques, contexte culturel et impact sociétal.
+- Mise en lumière du fil rouge anthropologique : la paresse comme moteur d’innovation.
+- Ouverture sur les défis futurs : éthique, gouvernance, durabilité.
 
 ## 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques. <!-- omit in toc -->
 
-# 🎯 Objectifs de recherche <!-- omit in toc -->
-
-- Identifier les premières manifestations conceptuelles de l'IA
-- Établir la continuité historique entre mythes antiques et réalisations modernes
-- Analyser les motivations anthropologiques constantes
-- Projeter les évolutions futures basées sur les tendances historiques
 
 # Table des matières <!-- omit in toc -->
 - [🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs](#-1-la-base-de-lhomme--fondements-anthropologiques-et-cognitifs)
@@ -23,8 +28,12 @@ Cette étude retrace l'évolution conceptuelle de l'intelligence artificielle de
 
 # 🧠 1. LA BASE DE L'HOMME : Fondements Anthropologiques et Cognitifs
 
-> _"L'homme est un animal qui fabrique des outils, et l'outil le plus sophistiqué qu'il puisse créer est une extension de son propre esprit."_
-> Citation générée par le modèle de langage Claude (Anthropic), inspirée du concept d’_Homo faber_ ([Bergson, 1907](#bergson1907)).
+> _"L'Éternel Fainéant Ambitieux"_ - De l'Économie d'Énergie à l'Extension des Possibles
+
+
+
+
+
 
 ## ⚡ 1.1 Économie d'énergie : Le principe de moindre action  
 
@@ -84,7 +93,6 @@ Mithen, S. (1996). The Prehistory of the Mind: The Cognitive Origins of Art and 
 Wynn, T., & Coolidge, F. L. (2012). How to Think Like a Neandertal. Oxford University Press.
 Clark, A., & Chalmers, D. (1998). "The Extended Mind". Analysis, 58(1), 7-19.
 Malafouris, L. (2013). How Things Shape the Mind: A Theory of Material Engagement. MIT Press.
-
 
 🏛️ 2. L'ANTIQUITÉ : Premiers Automates et Concepts Logiques
 
@@ -433,3 +441,12 @@ Organisée par John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shann
 <a name="wynn2012"></a>
 - Wynn, T., & Coolidge, F. L. (2012). How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic. _Oxford University Press_.
 
+
+
+
+8 éléments clés
+3 aspects / problématique --> lien entre les parties
+Voiture autonome 
+Analyse du comportement occulaires
+LLM !
+Moloch de l'IA
