@@ -1,5 +1,9 @@
 # 🌌 L'Odyssée de l'Intelligence Artificielle : Des Origines Anthropologiques aux Horizons Contemporains <!-- omit in toc -->
 _Romuald COURTOIS, 29/08/2025_ 
+<br>
+<br>
+<br>
+<br>
 
 # 🎯 Objectif <!-- omit in toc -->
 
@@ -14,8 +18,14 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 - Approche chronologique et conceptuelle, reliant innovations techniques, contexte culturel et impact sociétal.
 - Mise en lumière du fil rouge anthropologique : la paresse comme moteur d’innovation.
 - Ouverture sur les défis futurs : éthique, gouvernance, durabilité.
+<br>
+<br>
 
 ### 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques. <!-- omit in toc -->
+<br>
+<br>
+<br>
+<br>
 
 # Table des matières <!-- omit in toc -->
 - [PARTIE I : Fondations anthropologiques et mythologiques](#partie-i--fondations-anthropologiques-et-mythologiques)
@@ -47,19 +57,15 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 
 **Le principe d'économie d'énergie : une constante anthropologique**
 
-<p style="text-align: justify;">
 L'histoire de l'intelligence artificielle trouve ses racines les plus profondes dans une caractéristique fondamentale de l'espèce humaine : sa tendance naturelle à l'économie d'énergie cognitive. Cette propension, loin d'être un défaut moral, constitue un mécanisme adaptatif essentiel qui a guidé l'évolution technologique de l'humanité depuis ses origines ([Kahneman, 2011](#kahneman2011)).Le cerveau humain, bien qu'il ne représente que 2% du poids corporel, consomme près de 20% de notre énergie métabolique totale ([Raichle & Gusnard, 2002](#raichle2022)). 
 
 Des études récentes en neurosciences confirment cette tendance. Cheval et al. (2018) ont démontré que l’évitement de l’inactivité physique nécessite un investissement accru des ressources cérébrales. “Nos cerveaux sont câblés pour préférer rester sur le canapé”, une caractéristique héritée de nos ancêtres chasseurs-cueilleurs pour qui l’économie d’énergie était vitale pour la survie ([Cheval et al., 2018](#cheval2018)).
-</p>
 
 **Préhistoire lointaine : Émergence de l’intelligence (−7 Ma → −300 000 ans)**
 <div align="center">
    <img src="images/partie1/bifaces_acheuleens.jpg" alt="Bifaces Acheuléens (−1,6 Ma)" style="width: 40%; max-width: 600px;">
 </div>
-<p style="text-align: justify;">
 La “paresse créative” s’exprime dès l’invention des premiers outils lithiques. Les choppers oldowayens (−2,7 Ma) et bifaces acheuléens (−1,6 Ma) sont autant d’illustrations de l’externalisation technologique d’une fonction biologique : prolonger la main pour économiser l’effort physique direct (Harmand et al., 2015). L’évolution vers des outils Levallois plus sophistiqués témoigne d’une anticipation et d’une planification accrues, toujours guidées par la recherche d’efficacité maximale avec un minimum d’effort (Leroi-Gourhan, 1964).
-</p>
 
 ## 2. Préhistoire & Antiquité : du mythe aux premières machines logiques
 - Symbolisme, automates conceptuels, Héron d'Alexandrie, Machine d'Anticythère
