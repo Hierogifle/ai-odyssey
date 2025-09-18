@@ -31,7 +31,7 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 <br>
 <br>
 <br>
-<p align="center"><em>L'Éternel Fainéant Ambitieux</em></p>
+<h1 align="center"><em>L'Éternel Fainéant Ambitieux</em></h1>
 <p align="center"> De l’économie d’énergie à l’extension des possibles </p>
 <br>
 <br>
