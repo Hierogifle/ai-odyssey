@@ -15,7 +15,7 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 - Mise en lumière du fil rouge anthropologique : la paresse comme moteur d’innovation.
 - Ouverture sur les défis futurs : éthique, gouvernance, durabilité.
 
-## 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques. <!-- omit in toc -->
+### 💡 Thèse principale : L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques. <!-- omit in toc -->
 
 # Table des matières <!-- omit in toc -->
 - [PARTIE I : Fondations anthropologiques et mythologiques](#partie-i--fondations-anthropologiques-et-mythologiques)
@@ -32,7 +32,7 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 <br>
 <br>
 <h1 align="center"><em>L'Éternel Fainéant Ambitieux</em></h1>
-<p align="center"> De l’économie d’énergie à l’extension des possibles </p>
+<h1 align="center"> De l’économie d’énergie à l’extension des possibles </h1>
 <br>
 <br>
 <br>
@@ -45,10 +45,18 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
 # PARTIE I : Fondations anthropologiques et mythologiques
 ## 1. L'éternel fainéant ambitieux : économie d'énergie cognitive et paresse créative
 
-Le principe d'économie d'énergie : une constante anthropologique
-L'histoire de l'intelligence artificielle trouve ses racines les plus profondes dans une caractéristique fondamentale de l'espèce humaine : sa tendance naturelle à l'économie d'énergie cognitive. Cette propension, loin d'être un défaut moral, constitue un mécanisme adaptatif essentiel qui a guidé l'évolution technologique de l'humanité depuis ses origines (Kahneman, 2011).
+**Le principe d'économie d'énergie : une constante anthropologique**
 
-Le cerveau humain, bien qu'il ne représente que 2% du poids corporel, consomme près de 20% de notre énergie métabolique totale (Raichle & Gusnard, 2002). Cette disproportion énergétique a façonné nos stratégies cognitives, nous poussant instinctivement vers ce que Daniel Kahneman nomme le "Système 1" : une pensée rapide, automatique et économe en ressources mentales, par opposition au "Système 2", plus lent mais plus coûteux énergétiquement (Kahneman, 2011).
+L'histoire de l'intelligence artificielle trouve ses racines les plus profondes dans une caractéristique fondamentale de l'espèce humaine : sa tendance naturelle à l'économie d'énergie cognitive. Cette propension, loin d'être un défaut moral, constitue un mécanisme adaptatif essentiel qui a guidé l'évolution technologique de l'humanité depuis ses origines ([Kahneman, 2011](#kahneman2011)).Le cerveau humain, bien qu'il ne représente que 2% du poids corporel, consomme près de 20% de notre énergie métabolique totale ([Raichle & Gusnard, 2002](#raichle2022)). 
+
+Des études récentes en neurosciences confirment cette tendance. Cheval et al. (2018) ont démontré que l’évitement de l’inactivité physique nécessite un investissement accru des ressources cérébrales. “Nos cerveaux sont câblés pour préférer rester sur le canapé”, une caractéristique héritée de nos ancêtres chasseurs-cueilleurs pour qui l’économie d’énergie était vitale pour la survie ([Cheval et al., 2018](#cheval2018)).
+
+**Préhistoire lointaine : Émergence de l’intelligence (−7 Ma → −300 000 ans)**
+
+![Bifaces Acheuléens (−1,6 Ma)](images/partie1/bifaces_acheuleens.jpg "Bifaces Acheuléens (−1,6 Ma)")
+
+La “paresse créative” s’exprime dès l’invention des premiers outils lithiques. Les choppers oldowayens (−2,7 Ma) et bifaces acheuléens (−1,6 Ma) sont autant d’illustrations de l’externalisation technologique d’une fonction biologique : prolonger la main pour économiser l’effort physique direct (Harmand et al., 2015). L’évolution vers des outils Levallois plus sophistiqués témoigne d’une anticipation et d’une planification accrues, toujours guidées par la recherche d’efficacité maximale avec un minimum d’effort (Leroi-Gourhan, 1964).
+
 
 ## 2. Préhistoire & Antiquité : du mythe aux premières machines logiques
 - Symbolisme, automates conceptuels, Héron d'Alexandrie, Machine d'Anticythère
@@ -146,12 +154,12 @@ Nouvelles formes de coévolution cognitive homme-machine
 
 # 📚 8. Bibliographie
 
-<a name="bergson1907"></a>
-- Bergson, H. (1907). _L’évolution créatrice_. Paris : Félix Alcan.
+<a name="cheval2018"></a>
+- Cheval, B., Tipura, E., Burra, N., Frossard, J., Chanal, J., Orsholits, D., Radel, R., & Boisgontier, M. P. (2018). Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study. Neuropsychologia, 119, 68–80. https://doi.org/10.1016/j.neuropsychologia.2018.07.029
 <a name="kahneman2011"></a>
 - Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux.
-<a name="mithen1996"></a>
-- Mithen, S. (1996). _The prehistory of the mind: The cognitive origins of art, religion and science_ . London: Thames & Hudson.
+<a name="raichle2022"></a>
+- Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain’s energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237–10239. https://doi.org/10.1073/pnas.172399499
 <a name="wynn2012"></a>
 - Wynn, T., & Coolidge, F. L. (2012). How to think like a Neanderthal: The cognitive archaeology of the Middle Paleolithic. _Oxford University Press_.
 
