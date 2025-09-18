@@ -38,10 +38,28 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
   - [5. Automates sophistiqués, révolution industrielle et naissance du calcul mécanique](#5-automates-sophistiqués-révolution-industrielle-et-naissance-du-calcul-mécanique)
   - [6. Tensions fondatrices : crises, algèbre, incomplétude et formalisations modernes](#6-tensions-fondatrices--crises-algèbre-incomplétude-et-formalisations-modernes)
 - [PARTIE IV : L'âge d'or théorique \& avènement des machines (1945-1970)](#partie-iv--lâge-dor-théorique--avènement-des-machines-1945-1970)
+  - [7. Mathématiciens et ingénieurs de la computation](#7-mathématiciens-et-ingénieurs-de-la-computation)
+  - [8. Naissance officielle de l’IA : critères, conférence et premiers programmes](#8-naissance-officielle-de-lia--critères-conférence-et-premiers-programmes)
 - [PARTIE V : Cycles d'enthousiasme, hivers et paradigmes émergents (1970-2000)](#partie-v--cycles-denthousiasme-hivers-et-paradigmes-émergents-1970-2000)
+  - [9. Approches symboliques et connexionnistes : premiers antagonismes](#9-approches-symboliques-et-connexionnistes--premiers-antagonismes)
+  - [10. Premier hiver de l’IA : réalités et désillusions (1974–1980)](#10-premier-hiver-de-lia--réalités-et-désillusions-19741980)
+  - [11. Renaissance des systèmes experts et Mardi noir de l’IA (1980–1987)](#11-renaissance-des-systèmes-experts-et-mardi-noir-de-lia-19801987)
+  - [12. Deuxième hiver et transition statistique (1987–1997)](#12-deuxième-hiver-et-transition-statistique-19871997)
 - [PARTIE VI : Convergence et synthèse contemporaine (2000-2025)](#partie-vi--convergence-et-synthèse-contemporaine-2000-2025)
+  - [11. L’ère Internet et renaissance du machine learning](#11-lère-internet-et-renaissance-du-machine-learning)
+  - [12. Révolution deep learning et émergence neuro-symbolique](#12-révolution-deep-learning-et-émergence-neuro-symbolique)
+  - [13. Ère Transformers et explosion générative](#13-ère-transformers-et-explosion-générative)
+  - [14. Course concurrentielle et piège de Moloch](#14-course-concurrentielle-et-piège-de-moloch)
 - [PARTIE VII : Vers une nouvelle intelligence - La révolution Fristonienne](#partie-vii--vers-une-nouvelle-intelligence---la-révolution-fristonienne)
+  - [15. Karl Friston et le principe de l’énergie libre](#15-karl-friston-et-le-principe-de-lénergie-libre)
+  - [16. Facteurs humains et IA centrée sur l’humain](#16-facteurs-humains-et-ia-centrée-sur-lhumain)
+    - [16.1 Ergonomie cognitive et interfaces adaptatives](#161-ergonomie-cognitive-et-interfaces-adaptatives)
+    - [16.2 Lecture des pensées par mouvements oculaires](#162-lecture-des-pensées-par-mouvements-oculaires)
+    - [16.3 Cognition énactive et systèmes bio-inspirés](#163-cognition-énactive-et-systèmes-bio-inspirés)
 - [PARTIE VIII : Leçons des échecs et succès technologiques](#partie-viii--leçons-des-échecs-et-succès-technologiques)
+  - [17. Échecs emblématiques et analyses critiques](#17-échecs-emblématiques-et-analyses-critiques)
+  - [18. Succès instructifs et bonnes pratiques](#18-succès-instructifs-et-bonnes-pratiques)
+  - [19. Enjeux clés et perspectives](#19-enjeux-clés-et-perspectives)
 - [PARTIE IX : Futurs possibles et imaginaires critiques](#partie-ix--futurs-possibles-et-imaginaires-critiques)
 - [📚 8. Bibliographie](#-8-bibliographie)
 
@@ -225,93 +243,249 @@ De l’hydraulique programmable d’al-Jazari à la machine logique de Llull, de
 
 **Les Jaquet-Droz : perfection mécanique et programmation matérielle**
 
-Entre 1768 et 1774, Pierre Jaquet-Droz (1721–1790) et son fils Henri-Louis (1752–1791) créent trois chefs-d'oeuvre de l'automation : l'Écrivain, la Musicienne et le Dessinateur. Ces automates transcendent la simple imitation pour atteindre une véritable programmation matérielle.
+Entre 1768 et 1774, Pierre Jaquet-Droz (1721–1790) et son fils Henri-Louis (1752–1791) créent trois chefs-d'oeuvre de l'automation : l'*Écrivain*, la *Musicienne* et le *Dessinateur*. Ces automates transcendent la simple imitation pour atteindre une véritable programmation matérielle.
 
-L'Écrivain, composé de 6000 pièces, constitue la réalisation technique la plus sophistiquée de son époque. Il peut rédiger « n'importe quel texte jusqu'à quarante lettres », en respectant l'espacement, les pleins et déliés, et même les changements de ligne. Son mécanisme révolutionnaire utilise un système de cames programmables : en modifiant les disques métalliques, on peut changer le texte à écrire, instaurant le concept de programmation par support amovible ([Jaquet-Droz, 1775](#jaquet1775)).
+- L'Écrivain, composé de 6000 pièces, constitue la réalisation technique la plus sophistiquée de son époque. Il peut rédiger « n'importe quel texte jusqu'à quarante lettres », en respectant l'espacement, les pleins et déliés, et même les changements de ligne. Son mécanisme révolutionnaire utilise un système de cames programmables : en modifiant les disques métalliques, on peut changer le texte à écrire, instaurant le concept de programmation par support amovible ([Jaquet-Droz, 1775](#jaquet1775)).
 
-Le Dessinateur (2000 pièces) dessine quatre compositions différentes – portraits de Louis XV et Marie-Antoinette, couple de chiens, cupidon sur char – grâce à un système de coordonnées mécaniques anticipant les traceurs automatiques modernes. Henri-Louis enrichit le répertoire en programmant de nouveaux dessins, démontrant la modularité du système.
+- Le Dessinateur (2000 pièces) dessine quatre compositions différentes – portraits de Louis XV et Marie-Antoinette, couple de chiens, cupidon sur char – grâce à un système de coordonnées mécaniques anticipant les traceurs automatiques modernes. Henri-Louis enrichit le répertoire en programmant de nouveaux dessins, démontrant la modularité du système.
 
-La Musicienne (2500 pièces) joue réellement du clavecin, ses doigts appuyant sur les touches avec la pression appropriée, sa poitrine se soulevant comme si elle respirait. Ces automates révèlent une synthèse inédite entre art, mécanique et programmation, préfigurant les interfaces homme-machine contemporaines.
+- La Musicienne (2500 pièces) joue réellement du clavecin, ses doigts appuyant sur les touches avec la pression appropriée, sa poitrine se soulevant comme si elle respirait. Ces automates révèlent une synthèse inédite entre art, mécanique et programmation, préfigurant les interfaces homme-machine contemporaines.
 
 **Babbage et Lovelace : l'ordinateur avant la lettre**
 
-En 1834, Charles Babbage (1791–1871) conçoit la Machine analytique, première conception complète d'un ordinateur universel. Contrairement à ses machines à différences, purement arithmétiques, cette machine peut « effectuer n'importe quelle opération via un jeu d'instructions basé sur des cartes perforées » inspirées du métier Jacquard (Babbage, 1834).
+En 1834, Charles Babbage (1791–1871) conçoit la *Machine analytique*, première conception complète d'un ordinateur universel. Contrairement à ses machines à différences, purement arithmétiques, cette machine peut « effectuer n'importe quelle opération via un jeu d'instructions basé sur des cartes perforées » inspirées du métier *Jacquard* ([Babbage, 1834](#babbage1834)).
 
-La Machine analytique distingue clairement données et programme, possède une mémoire (« store ») et une unité de calcul (« mill »), et peut exécuter des boucles conditionnelles. Cette architecture anticipe de plus d'un siècle les principes de von Neumann.
+La Machine analytique distingue clairement données et programme, possède une mémoire (« store ») et une unité de calcul (« mill »), et peut exécuter des boucles conditionnelles. Cette architecture anticipe de plus d'un siècle les principes de *von Neumann*.
 
-Ada Lovelace (1815–1852) perçoit le potentiel révolutionnaire de cette machine. Dans ses Notes (1843), elle développe le premier algorithme informatique pour calculer les nombres de Bernoulli, incluant la première boucle conditionnelle de l'histoire (Lovelace, 1843). Plus visionnaire encore, elle énonce que « la machine pourrait composer de manière scientifique et élaborée des morceaux de musique de n'importe quelle longueur ou degré de complexité », anticipant l'IA créative contemporaine.
+Ada Lovelace (1815–1852) perçoit le potentiel révolutionnaire de cette machine. Dans ses Notes (1843), elle développe le premier algorithme informatique pour calculer les nombres de Bernoulli, incluant la première boucle conditionnelle de l'histoire ([Lovelace, 1843](#lovelace1843)). Plus visionnaire encore, elle énonce que « la machine pourrait composer de manière scientifique et élaborée des morceaux de musique de n'importe quelle longueur ou degré de complexité », anticipant l'IA créative contemporaine.
 
 **Boole : l'algèbre de la logique**
-George Boole (1815–1864) révolutionne la logique en créant une algèbre binaire n'acceptant que deux valeurs : 0 et 1. Dans An Investigation of the Laws of Thought (1854), il démontre que « des idées et des concepts » peuvent être traduits « en équations », puis retraités « en termes logiques » (Boole, 1854).
+
+George Boole (1815–1864) révolutionne la logique en créant une algèbre binaire n'acceptant que deux valeurs : 0 et 1. Dans *An Investigation of the Laws of Thought* (1854), il démontre que « des idées et des concepts » peuvent être traduits « en équations », puis retraités « en termes logiques » ([Boole, 1854](#boole1854)).
 
 L'algèbre booléenne introduit les opérations ET, OU et NON, avec leurs propriétés de commutativité, distributivité et idempotence. Cette formalisation constitue les fondements mathématiques de l'informatique et des circuits électroniques. Boole réalise le rêve de Leibniz : transformer tout raisonnement en « calcul automatique ».
 
 **Hollerith : industrialisation du traitement de l'information**
-En 1890, Herman Hollerith (1860–1929) révolutionne le traitement statistique avec ses machines à cartes perforées pour le recensement américain. Son système réduit le dépouillement « d'un travail de dix ans à trois mois » et économise cinq millions de dollars (Hollerith, 1890).
 
-La tabulatrice Hollerith combine lecture électromécanique et compilation automatique : les cartes perforées passent sur un réseau de picots métalliques qui ferment des circuits électriques au contact du mercure, actionnant des compteurs électromagnétiques. Ce système préfigure l'architecture informatique : support de données (cartes), lecteur (picots), processeur (circuits électriques) et sortie (compteurs).
+En 1890, Herman Hollerith (1860–1929) révolutionne le traitement statistique avec ses machines à cartes perforées pour le recensement américain. Son système réduit le dépouillement « d'un travail de dix ans à trois mois » et économise cinq millions de dollars ([Hollerith, 1890](#hollerith1890)).
 
-En 1896, Hollerith fonde la Computing-Tabulating-Recording Company qui deviendra IBM en 1924. Ses machines équipent les recensements de nombreux pays, inaugurant l'industrie du traitement automatisé de l'information.
+La *tabulatrice Hollerith* combine lecture électromécanique et compilation automatique : les cartes perforées passent sur un réseau de picots métalliques qui ferment des circuits électriques au contact du mercure, actionnant des compteurs électromagnétiques. Ce système préfigure l'architecture informatique : support de données (cartes), lecteur (picots), processeur (circuits électriques) et sortie (compteurs).
+
+En 1896, Hollerith fonde la *Computing-Tabulating-Recording Company* qui deviendra IBM (International Business Machines Corporation) en 1924. Ses machines équipent les recensements de nombreux pays, inaugurant l'industrie du traitement automatisé de l'information.
 
 ## 6. Tensions fondatrices : crises, algèbre, incomplétude et formalisations modernes
-Hilbert, Gödel, Russell, Čapek
+
+> “Les mathématiques peuvent tout montrer, sauf leur propre fondement.”
+> 
+> Citation inspirée des théorèmes d’incomplétude de Kurt Gödel (1931).
+
+**Russell et Whitehead : l'ambition logiciste**
+
+Au début du XXᵉ siècle, Bertrand Russell (1872–1970) et Alfred North Whitehead (1861–1947) entreprennent de réduire l'ensemble des mathématiques à la logique pure dans leurs monumentaux *Principia Mathematica* (1910–1913) ([Whitehead & Russell, 1910–1913](#whitehead1910)).
+
+Cette œuvre de 2000 pages formalise la logique moderne : calcul des propositions, des prédicats et des relations. Elle introduit la théorie des types logiques pour résoudre les paradoxes, notamment celui de Russell : « un ensemble ne peut appartenir à lui-même ». Les Principia établissent les fondements formels de l'informatique théorique et de l'IA symbolique.
+
+**Čapek et le mot "robot"**
+
+En 1920, l'écrivain tchèque Karel Čapek (1890–1938) introduit le mot "robot" (du tchèque robota : travail forcé) dans sa pièce R.U.R. (Rossum's Universal Robots). Ces créatures artificielles, initialement dociles, se révoltent contre leurs créateurs, inaugurant la mythologie moderne de l'intelligence artificielle et questionnant la relation homme-machine ([Čapek, 1920](#capek1920)).
+
+**Gödel : l'effondrement du rêve formaliste**
+
+En 1931, Kurt Gödel (1906–1978) ruine définitivement le programme formaliste d'Hilbert avec ses théorèmes d'incomplétude. Le premier énonce que dans « n'importe quelle théorie récursivement axiomatisable, cohérente et capable de formaliser l'arithmétique, on peut construire un énoncé arithmétique qui ne peut être ni démontré ni réfuté » ([Gödel, 1931](#godel1931))(Gödel, 1931).
+
+Le second théorème établit qu'« une théorie cohérente ne peut démontrer sa propre cohérence ». Ces résultats révèlent les limites intrinsèques de la formalisation : il existera toujours des énoncés vrais mais indémontrables. Cette découverte fondamentale influencera décisivement le développement de l'informatique théorique et de l'IA, notamment les travaux de Turing sur la calculabilité.
+
+**Synthèse : mécanisation et limites de la raison**
+
+La période 1750–1945 transforme la paresse créative en industrie de l'automation. Des automates Jaquet-Droz aux machines Hollerith, en passant par les conceptions de Babbage et les formalisations de Boole, émerge une technologie systématique du calcul et de la logique.
+
+Paradoxalement, cette époque d'optimisation mécanique révèle aussi les limites fondamentales de la formalisation avec Gödel. Cette tension entre ambitions computationnelles et impossibilités logiques structure les développements futurs de l'informatique et de l'intelligence artificielle, préparant les révolutions théoriques du XXᵉ siècle.
 
 # PARTIE IV : L'âge d'or théorique & avènement des machines (1945-1970)
-7. Les mathématiciens de l'IA : Turing, McCulloch & Pitts, von Neumann, Wiener
-8. Naissance officielle de l'IA : Test de Turing, conférence de Dartmouth, Logic Theorist, Perceptron
+
+> “Tout calcul qui peut être fait par un esprit humain peut aussi être effectué par une machine universelle.”
+> 
+> Inspiré d’Alan Turing, On Computable Numbers (1936).
+
+## 7. Mathématiciens et ingénieurs de la computation
+
+Alan Turing établit en 1936 que toute fonction calculable peut être effectuée par une machine de Turing universelle : un automate abstrait lisant et écrivant des symboles sur une bande infinie selon un ensemble d’états finis. Cette structure démontre la computeabilité des opérations mathématiques et fixe les limites intrinsèques de ce qui peut être programmé. En 1950, Turing propose le Test de Turing comme critère d’intelligence artificielle : si une machine parvient à imiter la conversation humaine sans être distinguée d’un interlocuteur humain, elle peut être considérée comme « pensante » ([Turing, 1936](#turing1936)).
+
+En 1943, Warren McCulloch et Walter Pitts modélisent le neurone biologique par une unité binaire activée par un seuil dans *A Logical Calculus of the Ideas Immanent in Nervous Activity*. Leur neurone formel devient la pierre angulaire du **connexionnisme**, inspirant plus tard les réseaux de neurones artificiels ([McCulloch & Pitts, 1943](#mcculloch1936)).
+
+Claude Shannon, souvent appelé le père de la théorie de l’information, publie en 1948 *A Mathematical Theory of Communication*, posant les bases du codage de l’information, de la compression et de la transmission fiable. Ses concepts de bit et d'entropie influencent profondément l’architecture des ordinateurs et le traitement du signal dans les systèmes intelligents ([Shannon, 1948](#shannon1948)).
+
+John von Neumann formalise dès 1945 dans le *First Draft of a Report on the EDVAC* une architecture séquentielle stockée, distinguant mémoire, unité arithmétique, unité de contrôle et interfaces d’Entrée/Sortie. Ce modèle, connu sous le nom d’architecture von Neumann, demeure la référence des ordinateurs jusqu’au XXIᵉ siècle ([von Neumann, 1945](#von1945)).
+
+En 1948, Norbert Wiener publie *Cybernetics: Or Control and Communication in the Animal and the Machine*, établissant l'**approche cybernétique**. Il démontre l’importance de la rétroaction et de l’autorégulation dans les systèmes vivants et mécaniques, théorie essentielle pour la conception de robots adaptatifs et de systèmes de pilotage automatique ([Wiener, 1948](#wiener1948)).
+
+## 8. Naissance officielle de l’IA : critères, conférence et premiers programmes
+
+Le concept d’IA se cristallise en 1950 lorsque Turing obtient un score probant au Test de Turing, soulevant des débats philosophiques majeurs sur la conscience des machines et la nature de l’intelligence ([Turing, 1950](#turing1950)).
+
+En 1956, la conférence de Dartmouth, initiée par John McCarthy, Marvin Minsky, Nathan Rochester et Claude Shannon, formalise l’IA comme un domaine distinct. Le projet vise à créer des machines simulant tous aspects de l’intelligence humaine : pensée, apprentissage, raisonnement logique et vision ([McCarthy et al., 1956](#mccarthy1956)).
+
+Cette même décennie voit naître les premiers systèmes :
+
+- *Spatial Numerical Association of Response Code* (SNARC) (1951) de Marvin Minsky et Dean Edmonds est le premier simulateur de réseau de neurones matériel, reliant cylindres rotatifs pour imiter la dynamique de petits réseaux neuronaux ([Minsky & Edmonds, 1951](#minsky1951)).
+
+- *Logic Theorist* (1956) d’Allen Newell et Herbert A. Simon simule la démonstration de théorèmes logiques en utilisant des heuristiques pour guider la recherche dans l’espace des preuves, inaugurant les systèmes experts symboliques ([Newell & Simon, 1956](#newell1956)).
+
+- *Perceptron* (1958) de Frank Rosenblatt implémente un réseau simple capable d’apprendre par ajustement itératif de poids, ouvrant la voie à l’apprentissage automatique ([Rosenblatt, 1958](#rosenblatt1958)).
+
+- *Logic Theorist, General Problem Solver* et les premiers programmes de traitement du langage naturel illustrent l’optimisme de l’ère, avant que les limitations computationnelles et la crise des hivers de l’IA n’apparaissent.
 
 # PARTIE V : Cycles d'enthousiasme, hivers et paradigmes émergents (1970-2000)
-9. Approches symboliques et connexionnistes : premiers antagonismes
-IA symbolique : systèmes experts, logique formelle, représentations explicites
 
-IA connexionniste : réseaux de neurones, apprentissage statistique
+## 9. Approches symboliques et connexionnistes : premiers antagonismes
 
-10. Hivers de l'IA : limites, désillusions et transitions paradigmatiques
-Rapport Lighthill, effondrement des systèmes experts, Deep Blue
+> *"L’optimisme algorithmique a d’abord connu son éclat avant de rencontrer ses propres limites."*
+> 
+> Inspiré du constat de Geoffrey Hinton sur l’IA (2012).
+
+Dans les années 1970, l’IA se divise entre deux visions concurrentes. L’**IA symbolique** repose sur la manipulation explicite de symboles et de règles logiques, incarnée par les systèmes experts utilisant des langages de programmation déclaratifs et des bases de connaissances. À l’inverse, l’**IA connexionniste** s’inspire du fonctionnement neuronal, avec des réseaux de neurones artificiels capables d’apprendre par l’ajustement de poids ([McCulloch & Pitts, 1943](#mcculloch1943) ; [Rosenblatt, 1948](#rosenblatt1948)).
+
+Cette dualité alimente un optimisme féroce : les symbolistes promettent la compréhension grâce à la logique formelle, tandis que les connexionnistes misent sur la capacité d’apprentissage face à la variabilité du monde réel. Chacune des approches exhibe des succès initiaux mais montre rapidement ses limites spécifiques : rigidité des règles symboliques vs. opacité et instabilité des réseaux neuronaux.
+
+## 10. Premier hiver de l’IA : réalités et désillusions (1974–1980)
+
+> *“Les hivers de l’IA révèlent la difficulté de transformer les promesses en performances concrètes.”*
+> 
+> Citation inspirée du rapport Lighthill (1973).
+
+Le rapport Lighthill remis au gouvernement britannique en 1973 critique sévèrement les progrès de l’IA symbolique, soulignant l’échec à gérer la complexité du monde réel et préconisant la réduction des financements dans ce secteur ([Lighthill, 1973](#lighthill1973)). Cette crise de confiance inaugure le premier hiver de l’IA, marqué par des coupes budgétaires massives, l’abandon de projets ambitieux et une désillusion générale chez les chercheurs et les financeurs.
+
+L’effondrement est accentué par les travaux de Minsky et Papert (1969) qui démontrent les limites structurelles des perceptrons, incapables de résoudre des problèmes non linéaires simples comme le XOR (fonction OU) ([Minsky & Papert, 1969](#minsky1969)). Leur critique technique entraîne un recul durable de la recherche connexionniste.
+
+## 11. Renaissance des systèmes experts et Mardi noir de l’IA (1980–1987)
+
+> *“La connaissance, stockée sous formes de règles, devint soudainement précieuse.”*
+> 
+> Inspiré de l’essor de *MYCIN* (1975).
+
+Au début des années 1980, l’émergence des systèmes experts offre un renouveau symbolique. *MYCIN* ([Shortliffe, 1976](#shortliffe1976)) pour le diagnostic médical et *DENDRAL* (1965) en chimie démontrent la puissance des bases de connaissances codifiées par des experts humains. L’entreprise DEC commercialise *XCON/R1* pour la configuration de serveurs, générant des économies substantielles pour *Digital Equipment Corporation* ([McDermott, 1982](#mcdermott1982)).
+
+Cet âge d’or commercial culmine en 1987, lorsque l’action des entreprises d’IA atteint son apogée, avant de chuter brutalement lors du "Mardi noir de l’IA", marqué par l’effondrement du cours des actions des sociétés spécialisées, victimes de performances décevantes et de la complexité des systèmes sur le terrain ([Crevier, 1993](#crevier1993)).
+
+## 12. Deuxième hiver et transition statistique (1987–1997)
+
+> *“Quand le symbole échoue, la statistique émerge.”*
+> 
+> Citation inspirée de Judea Pearl (1988).
+
+À la fin des années 1980, la réalité commerciale rattrape les promesses symboliques : les coûts de développement croissants et la difficulté d’extension des règles entraînent un désenchantement. Ce deuxième hiver est atténué par la révolution statistique : l’essor des réseaux bayésiens, popularisés par Judea Pearl ([Pearl, 1988](#pearl1988)), et la renaissance des réseaux de neurones grâce aux algorithmes de rétropropagation redécouverts par Rumelhart et Hinton ([Rumelhart & Hinton, 1986](#rumelhart1986)).
+
+La victoire de *Deep Blue* sur Garry Kasparov (1997) marque un tournant : l’IA symbolique cède la place à une IA hybride, combinant approches statistiques, connexionnistes et symboliques, annonçant l’apprentissage automatique et préparant l’ère Internet.
 
 # PARTIE VI : Convergence et synthèse contemporaine (2000-2025)
-11. L'ère Internet et renaissance du machine learning
-12. Révolution deep learning et émergence neuro-symbolique
-AlexNet, CNN, GANs, AlphaGo
 
-IA neuro-symbolique : fusion des approches pour une IA explicable
+> *"Les données sont le carburant, le deep learning en est le moteur."*
+> 
+> Inspiré de Geoffrey Hinton, discours sur le deep learning (2012).
 
-13. Transformers et explosion générative : ChatGPT, multimodalité, démocratisation
-14. Course concurrentielle et piège de Moloch : enjeux de coordination mondiale
+## 11. L’ère Internet et renaissance du machine learning
+
+À partir des années 2000, l’explosion des données numériques issue d’Internet et des réseaux sociaux permet l’essor du machine learning. Les entreprises exploitent des flots massifs de données pour entraîner des modèles statistiques, marquant la transition du *connexionnisme* pur vers des approches *data-driven* ([Jordan & Mitchell, 2015](#jordan2015)). Le *PageRank* de Google ([Brin & Page, 1998](#brin1998)) illustre ce paradigme : un algorithme probabiliste classant les pages web en s’appuyant sur la structure du graphe, annonçant la révolution de la recommandation et de la recherche personnalisée.
+
+## 12. Révolution deep learning et émergence neuro-symbolique
+
+> *“La profondeur des réseaux révèle la richesse des données.”*
+> 
+> Inspiré de Yoshua Bengio, entretien sur le deep learning (2018).
+
+En 2012, AlexNet de Krizhevsky, Sutskever et Hinton remporte le concours *ImageNet* en réduisant drastiquement le taux d’erreur en vision par ordinateur grâce à un *réseau de neurones convolutifs (CNN) profonds*  ([Krizhevsky et al., 2012](#krizhevsky2012)). Cet exploit relance l’intérêt pour les CNN et inspire la prolifération de modèles tels que *VGG, ResNet et GANs,* ces derniers conçus par Goodfellow et al. pour générer des images réalistes via deux réseaux en compétition ([Goodfellow et al., 2014](#goodfellow2014)).
+
+Parallèlement, l’IA neuro-symbolique refait surface, combinant apprentissage profond et raisonnement symbolique. Des frameworks comme *Neuro-Symbolic Concept Learner* ([Mao et al., 2019](#mao2019)) démontrent comment intégrer la structure logique dans les réseaux neuronaux pour améliorer la compréhension du langage et la vision.
+
+## 13. Ère Transformers et explosion générative
+
+> *“L’attention est la nouvelle mémoire.”*
+> 
+> Inspiré de Vaswani et al., Attention Is All You Need (2017).
+
+En 2017, Vaswani et al. révolutionnent le *traitement du langage naturel* (NLP) avec l’architecture *Transformer*, basée uniquement sur mécanismes d’attention, éliminant la récursion et accélérant l’entraînement ([Vaswani et al., 2017](#vaswani2017)). Cette innovation donne naissance à *BERT* ([Devlin et al., 2018](#devlin2018)) pour la compréhension de textes et à *GPT* ([Radford et al., 2018](#radford2018)), dont *GPT-3* ([Brown et al., 2020](#brown2020)) génère du texte cohérent sur de vastes contextes.
+
+La génération multimodale s’étend aux images et au code : *DALL·E* ([Ramesh et al., 2021](#ramesh2021)) crée des images à partir de descriptions textuelles, et *Codex* ([Chen et al., 2021](#chen2021)) produit du code fonctionnel. Ces avancées démocratisent l’IA générative grand public, tout en soulevant des questions sur les droits d’auteur et la désinformation.
+
+## 14. Course concurrentielle et piège de Moloch
+
+> *“La compétition accélère, mais la coordination stagne.”*
+> 
+> Citation inspirée d’Owen Cotton-Barratt sur le pacte-molochien (2020).
+
+Depuis 2020, la course aux modèles de grande échelle oppose entreprises et États, à tel point que des architectures comme *GPT-4* et *PaLM* rivalisent de capacités multimodales ([OpenAI, 2023](#openai2023)). Cette concurrence sans coordination s’apparente à un piège de Moloch, où l’accélération de la puissance sacrifiée au détriment de la sécurité et de l’éthique engendre des risques systémiques ([Yudkowsky, 2020](#yudkowsky2020)).
+
+Dans ce contexte, émergent des initiatives de gouvernance : *OpenAI Charter* (2018) et *Partenariat sur l’IA* (2016) visent à instaurer des normes pour une IA sécurisée et bénéfique. Pourtant, le défi reste d’aligner les intérêts de multiples acteurs mondiaux pour éviter une spirale compétitive aux conséquences imprévisibles.
 
 # PARTIE VII : Vers une nouvelle intelligence - La révolution Fristonienne
-15. Karl Friston et le principe de l'énergie libre : paradigme post-connexionniste
-Free Energy Principle : minimisation de la surprise et prédiction bayésienne
 
-Active Inference : intelligence comme processus prédictif actif
+## 15. Karl Friston et le principe de l’énergie libre
 
-Applications concrètes : VERSES AI et systèmes autonomes adaptatifs
+> L’esprit prédit, la machine opère : l’inférence active révèle la prochaine frontière."
+> 
+> Inspiré de Karl Friston, conférence sur le Free Energy Principle (2010).
 
-16. Facteurs humains et IA centrée sur l'humain
-Vision STAPS : ergonomie cognitive et intelligence artificielle
+Karl Friston propose dans les années 2000 le *Free Energy Principle* (FEP), un cadre unifiant la neurosciences et l’intelligence artificielle. Le FEP postule que les organismes vivants minimisent en permanence une fonction d’énergie libre, mesurant la divergence entre leurs modèles internes (prédictions) et les données sensorielles réelles. Cette minimisation de la surprise (surprisal) guide la perception, l’action et l’apprentissage ([Friston, 2010](#friston2010)).
 
-Predictive Processing et cognition énactive : nouvelles approches bio-inspirées
+Friston formalise l’*active inference* : un agent n’a pas seulement à mettre à jour ses croyances (perception) pour réduire l’énergie libre, mais aussi à agir pour sélectionner des observations qui vérifient ses prédictions. Cette boucle perception-action rapproche l’IA des systèmes biologiques, offrant un modèle bio-inspiré pour la conception de robots adaptatifs ([Friston et al., 2016](#friston2016)).
 
-Interface homme-machine intelligente et adaptation mutuelle
+Des implémentations récentes, comme le *Variational Ensemble of Reservoir-based Embodied Systems* (VERSES AI), démontrent l’application concrète de l’active inference à des robots mobiles capables de naviguer dans des environnements dynamiques en prédiction continue et en réajustement autonome ([Millidge et al., 2020](#millidge2020)).
+
+## 16. Facteurs humains et IA centrée sur l’humain
+
+> *“Une interface bien conçue anticipe et réduit l’effort mental, elle n’en ajoute pas.”*
+> 
+> Inspiré de Wickens, Engineering Psychology and Human Performance (2008).
+
+### 16.1 Ergonomie cognitive et interfaces adaptatives
+Sortant d’un master STAPS (Sciences et Techniques des Activités Physiques et Sportives) orienté facteurs humains, il est crucial de replacer l’humain au cœur de la révolution IA. L’ergonomie cognitive étudie comment concevoir des interfaces homme-machine qui minimisent la charge cognitive, optimisent la facilité d’apprentissage et favorisent la sécurité ([Wickens, 2008](#wickens2008)).
+
+Les systèmes adaptatifs basés sur l’active inference ajustent en temps réel les demandes cognitives en fonction de l’état mental de l’utilisateur, mesuré par des capteurs biométriques (fréquence cardiaque, mouvements oculaires). Cette approche permet de prévenir la surcharge et d’optimiser les performances motrices dans le sport, la médecine et l’aviation ([Hoffman & Hancock, 2018](#hoffman2018)).
+
+### 16.2 Lecture des pensées par mouvements oculaires
+Le modèle de Yarbus (1967) a démontré que les mouvements oculaires (saccades) reflètent les intentions cognitives lors de la lecture et de l’exploration visuelle ([Yarbus, 1967](#yarbus1967)). En inversant ce modèle, on peut déduire les intentions d’un individu à partir de ses trajectoires oculaires : c’est la base d’une IA oculaire capable de lire les pensées implicites ([Paletta et al., 2013](#paletta2013)).
+
+Des prototypes expérimentaux utilisent des systèmes d'*eye-tracking* couplés à des réseaux neuronaux profonds pour prédire les objectifs d’un utilisateur en temps réel, ouvrant des perspectives en ergonomie, rééducation et sécurité industrielle ([Vidal & Piater, 2018](#vidal2018)).
+
+### 16.3 Cognition énactive et systèmes bio-inspirés
+L’énactivisme postule que la cognition émerge de l’interaction dynamique entre l’agent et son environnement. Intégrée au FEP, cette perspective crée des robots non seulement prédictifs, mais aussi incarnés, tirant avantage de leur morphologie et de leur biomechanique pour accomplir des tâches complexes ([O’Regan & Noë, 2001](#oregan2001)).
+
+Ces systèmes bio-inspirés combinent l’inférence active, la programmation hydraulique antique et l’apprentissage profond, illustrant la convergence des paradigmes IA vers une intelligence véritablement intégrée.
 
 # PARTIE VIII : Leçons des échecs et succès technologiques
-17. Anatomie des échecs : Quand l'innovation rencontre ses limites
-Voitures autonomes : complexité du monde réel, problèmes de coordination humain-machine
 
-Google Glass : timing prématuré, résistance sociale, questions de vie privée
+> *"L’échec révèle les fragilités, le succès dépend de l’adéquation entre technologie, marché et contexte humain."*
+> 
+> Citation inspirée de Clayton Christensen, The Innovator’s Dilemma (1997).
 
-Microsoft Kinect : interface prometteuse mais écosystème inadapté
+Les innovations en intelligence artificielle connaissent autant d’échecs retentissants que de succès durables. Analyser les causes profondes de ces performances divergentes éclaire les facteurs clés de la réussite : maturité technologique, alignement avec les besoins utilisateurs, modèle économique et acceptabilité sociale.
 
-IBM Watson en médecine : promesses vs réalités, limitations des systèmes experts
+## 17. Échecs emblématiques et analyses critiques
 
-18. Applications futures et potentiels révolutionnaires
-IA oculaire et lecture des pensées : Modèle de Yarbus inverse pour décoder les intentions
+Les *Google Glass* (2013–2015) illustrent l’échec d’une technologie avancée mais prématurée. Malgré des capacités de réalité augmentée inédites, elles souffraient d’un écosystème applicatif immature, d’un prix prohibitif (1500 $) et d’enjeux de vie privée non maîtrisés. Le lancement public trop rapide a révélé l’absence de cas d’usage concrets, tandis que le design suscitait rejet et hostilité sociale, fragilisant l’adoption ([Google Inc., 2015)](#google2015)).
 
-Exploration océanique autonome : robots IA pour cartographier les abysses
+Les voitures autonomes de niveau 5 peinent à se déployer à grande échelle en raison de la complexité du monde réel. Les capteurs (lidar, radar, caméras) offrent une vision partielle, difficile à fusionner en temps réel pour gérer les situations imprévues (chantier de travaux, comportement humain complexe). La réglementation varie selon les juridictions et la responsabilité en cas d’accident reste floue, freinant les investissements et la confiance du public ([Bymycar Webzine, 2025](#bymycar2025) ; [SAE International, 2018)](#sae2018) ; [Le Monde, 2025)](#lemonde2025)) 
 
-Neurotechnologies prédictives : interfaces cerveau-machine basées sur le Free Energy Principle
+IBM Watson for Oncology (2013–2020) promettait une révolution médicale. Pourtant, Watson repose sur des données propriétaires et homogènes provenant de grandes institutions, ce qui génère des biais et réduit sa généralisabilité aux hôpitaux du monde réel. Les cliniciens rapportent une concordance de 33% avec les protocoles existants et un manque de transparence sur les recommandations, limitant la confiance et l’adoption ([Stat News., 2017](#stat2017) ; [Caducee.net., 2016](#caducee2016))
 
-Agents adaptatifs : systèmes d'IA évoluant en temps réel avec leur environnement
+## 18. Succès instructifs et bonnes pratiques
+
+Le système de recommandation de *Netflix*, mis en place dès 2006, constitue un succès durable. En exploitant de grandes volumétries de données historiques et en combinant filtrage collaboratif et modèles de machine learning, *Netflix* a su offrir des suggestions personnalisées qui améliorent l’engagement utilisateur et réduisent le churn (taux d’abandon). Une expérience systématique d’A/B testing et l’intégration continue des retours utilisateurs ont permis de faire évoluer l’algorithme sans rupture, garantissant la pertinence des recommandations et une forte fidélisation ([Gomez-Uribe & Hunt, 2015](#gomez2015)).
+
+Le robot aspirateur *Roomba d’iRobot* (depuis 2002) est un autre exemple de réussite. Grâce à une expertise en robotique embarquée, des capteurs infrarouges et des algorithmes de navigation aléatoire simplifiés, *Roomba* a proposé un cas d’usage concret (nettoyage automatique à domicile) parfaitement adapté aux besoins des consommateurs. La simplicité d’utilisation, l’absence de barrière réglementaire et le prix abordable ont favorisé une adoption massive, transformant un gadget en marché grand public prospère ([iRobot, 2005](#irobot2005)).
+
+## 19. Enjeux clés et perspectives
+Ces études de cas convergent vers quatre facteurs structurants pour la réussite des projets d’IA :
+
+1. Maturité technologique : les algorithmes doivent être robustes et crédibles avant la mise sur le marché.
+
+2. Alignement utilisateur : l’innovation doit répondre à des besoins concrets et s’intégrer harmonieusement dans les parcours existants.
+
+3. Écosystème et données : la qualité, la diversité et la disponibilité des données sont déterminantes; un écosystème logiciel (API, plateformes) facilite l’adoption.
+
+4. Acceptabilité sociale et régulation : la confiance passe par la transparence, l’explicabilité et un cadre réglementaire clair.
+
+En appliquant ces enseignements, les futurs projets d’IA – qu’ils soient basés sur le Free Energy Principle, la vision oculaire ou la robotique océanique – pourront maximiser leurs chances de succès, en évitant les écueils qui ont entravé les pionniers.
 
 # PARTIE IX : Futurs possibles et imaginaires critiques
 19. Vers l'AGI bio-inspirée : Active Inference et conscience artificielle
@@ -341,52 +515,160 @@ Nouvelles formes de coévolution cognitive homme-machine
 - Apollonius de Rhodes. (s.d.). Argonautiques (IV, 1638‑1648)
 <a name="aristote"></a>
 - Aristote. (s.d.). Premiers Analytiques (I, 4).
+<a name="babbage1834"></a>
+- Babbage, C. (1834). On the principles of the analytical engine [Machine analytique]
+<a name="boole1854"></a>
+- Boole, G. (1854). An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities. Macmillan.
+<a name="brin1998"></a>
+- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. Computer Networks and ISDN Systems, 30(1-7), 107–117.
+<a name="brown2020"></a>
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, 1877–1901.
+<a name="bymycar2025"></a>
+- Bymycar Webzine. (2025). Voiture autonome de niveau 5 : pour quand ?
+<a name="caducee2016"></a>
+- Caducee.net. (2016, November 1). Cancérologie : l’IA Watson d’IBM fait déjà mieux que les médecins.
+<a name="capek1920"></a>
+- Čapek, K. (1920). R.U.R. (Rossum’s Universal Robots).
+<a name="chen2021"></a>
+- Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. Proceedings of the 38th International Conference on Machine Learning (ICML 2021), 139, 8748–8763. PMLR.
 <a name="cheval2018"></a>
 - Cheval, B., Tipura, E., Burra, N., Frossard, J., Chanal, J., Orsholits, D., Radel, R., & Boisgontier, M. P. (2018). Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study. Neuropsychologia, 119, 68–80. https://doi.org/10.1016/j.neuropsychologia.2018.07.029
+<a name="crevier1993"></a>
+- Crevier, D. (1993). AI: The Tumultuous History of the Search for Artificial Intelligence. Basic Books.
 <a name="devinci"></a>
 - de Vinci, L. (s.d.). Codex Atlanticus.
+<a name="devlin2018"></a>
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
 <a name="diamond1997"></a>
 - Diamond, J. M. (1997). Guns, germs, and steel: The fates of human societies. W.W. Norton & Company
 <a name="dondi1365"></a>
 - Dondi, G. (1365–1381). Astrarium [Horloge astronomique]
 <a name="freeth2021"></a>
 - Freeth, T., Higgon, D., Dacanalis, A., et al. (2021). A Model of the Cosmos in the ancient Greek Antikythera Mechanism. Scientific Reports, 11, 5821. https://doi.org/10.1038/s41598-021-84310-w
+<a name="friston2010"></a>
+- Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127–138.
+<a name="friston2016"></a>
+- Friston, K., Rosch, R., Parr, T., Price, C., & Bowman, H. (2016). Deep temporal models and active inference. Neuroscience & Biobehavioral Reviews, 68, 862–879.
+<a name="godel1931"></a>
+- Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173–198.
+<a name="gomez2015"></a>
+- Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix recommender system: Algorithms, business value, and innovation. ACM Transactions on Management Information Systems, 6(4), Article 13.
+<a name="goodfellow2014"></a>
+- Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., … & Bengio, Y. (2014). Generative adversarial nets. Advances in Neural Information Processing Systems, 27, 2672–2680.
+<a name="google2015"></a>
+- Google Inc. (2015). An update on Glass. Official Google Blog.
 <a name="gowlett2016"></a>
 - Gowlett, J. A. J. (2016). The discovery of fire by humans: A long and convoluted process. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1696), 20150164. https://doi.org/10.1098/rstb.2015.0164
 <a name="harmand2015"></a>
 - Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Roche, H., & Quinn, R. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature, 521(7552), 310–315. https://doi.org/10.1038/nature14464
 <a name="heron"></a>
 - Héron d’Alexandrie. (s.d.). Pneumatica.
+<a name="hoffman2018"></a>
+- Hoffman, R. R., & Hancock, P. A. (2018). Deep learning and human factors: Tracks and applications. Human Factors, 60(8), 1171–1183.
 <a name="hill1993"></a>
 - Hill, D. R. (1993). Islamic science and engineering. Edinburgh University Press.
+<a name="hollerith1890"></a>
+- Hollerith, H. (1890). Tabulating machine for the U.S. Census [Machine à cartes perforées].
 <a name="idel1990"></a>
 - Idel, M. (1990). Golem: Jewish magical and mystical traditions on the artificial anthropoid. State University of New York Press
+<a name="irobot2005"></a>
+- iRobot Corporation. (2005). Roomba user manual. iRobot.
 <a name="jaquet1775"></a>
 - Jaquet-Droz, P., & Jaquet-Droz, H. (1775). Automates de Jaquet-Droz [Automates mécaniques]
+<a name="jordan2015"></a>
+- Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245), 255–260.
 <a name="kahneman2011"></a>
 - Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux
+<a name="krizhevsky2012"></a>
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. Advances in Neural Information Processing Systems, 25, 1097–1105.
 <a name="leibniz1679"></a>
 - Leibniz, G. W. (1679). Explication de l’Arithmétique Binaire [Manuscrit].
+<a name="lemonde2025"></a>
+- Le Monde. (2025). Non, les véhicules autonomes ne sont pas pour demain.
 <a name="leroi1964"></a>
 - Leroi-Gourhan, A. (1964). Le geste et la parole. Albin Michel
 <a name="lewis2002"></a>
 - Lewis-Williams, D. (2002). The mind in the cave: Consciousness and the origins of art. Thames & Hudson
+<a name="lighthill1973"></a>
+- Lighthill, J. (1973). Artificial Intelligence: A General Survey. Science Research Council.
 <a name="lindblom1990"></a>
 - Lindblom, B. (1990). Speaking about feelings: Conceptions of emotion across the life span. Psychology and Aging, 4(4), 517–523. https://doi.org/10.1037/0882-7974.4.4.517
 <a name="llull1305"></a> 
 - Llull, R. (vers 1305). Ars Magna [La Grande Art]
+<a name="lovelace1843"></a>
+- Lovelace, A. A. (1843). Notes sur la machine analytique de Charles Babbage.
+<a name="mao2019"></a>
+- Mao, J., Gan, C., Kohli, P., Tenenbaum, J. B., & Wu, J. (2019). Neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision. International Conference on Learning Representations.
+<a name="mccarthy1956"></a>
+- McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1956). Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. Unpublished manuscript.
+<a name="mcculloch1943"></a>
+- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The Bulletin of Mathematical Biophysics, 5(4), 115–133.
+<a name="mcdermott1982"></a>
+- McDermott, J. (1982). Rl-ml: A rule-based program for configuring computer systems. Artificial Intelligence, 19(1), 39–88.
+<a name="millidge2020"></a>
+- Millidge, B., Tschantz, A., & Buckley, C. L. (2020). On the relationship between active inference and control as inference. Entropy, 22(4), 408.
+<a name="minsky1951"></a>
+- Minsky, M., & Edmonds, D. (1951). SNARC: A Neural Network Simulator. Report, MIT.
+<a name="minsky1969"></a>
+- Minsky, M., & Papert, S. (1969). Perceptrons. MIT Press.
+<a name="newell1956"></a>
+- Newell, A., & Simon, H. A. (1956). The Logic Theorist: A program that simulates the human thought process. IRE Transactions on Information Theory, 2(3), 61–79.
+<a name="openai2023"></a>
+- OpenAI. (2023, 14 mars). GPT-4 technical report. OpenAI. https://openai.com/research/gpt-4
+<a name="oregan2001"></a>
+- O’Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–973.
 <a name="ovide"></a>
 - Ovide. (s.d.). Métamorphoses (X, 243‑297)
+<a name="paletta2013"></a>
+- Paletta, L., Swoboda, J., & Fritz, G. (2013). Active visual perception for human–robot interaction. Robotics and Autonomous Systems, 61(6), 558–569.
 <a name="pascal1642"></a>
 - Pascal, B. (1642). La Pascaline [Machine à calculer].
+<a name="pearl1988"></a>
+- Pearl, J. (1988). Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann.
+<a name="radford2018"></a>
+- Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. OpenAI.
 <a name="raichle2022"></a>
 - Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain’s energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237–10239. https://doi.org/10.1073/pnas.172399499
+<a name="ramesh2021"></a>
+- Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). Zero-shot text-to-image generation. Proceedings of the 38th International Conference on Machine Learning (ICML 2021), 139, 8821–8831. PMLR.
+<a name="rosenblatt1958"></a>
+- Rosenblatt, F. (1958). The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review, 65(6), 386–408.
+<a name="rumelahart1986"></a>
+- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536.
+<a name="sae2018"></a>
+- SAE International. (2018). Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles (J3016_201806).
+<a name="shannon1948"></a>
+- Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423.
+<a name="shortliffe1976"></a>
+- Shortliffe, E. H. (1976). Computer-Based Medical Consultations: MYCIN. Elsevier.
+<a name="stat2017"></a>
+- Stat News. (2017, September 5). IBM’s Watson recommended ‘unsafe and incorrect’ cancer treatments, study finds.
 <a name="thomas1265"></a>
 - Thomas d’Aquin. (1265–1273). Summa Theologica [Somme théologique]
+<a name="turing1936"></a>
+- Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, 2(42), 230–265.
+<a name="turing1950"></a>
+- Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433–460.
+<a name="vaswani2017"></a>
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … & Polosukhin, I. (2017). Attention Is all you need. Advances in Neural Information Processing Systems, 30, 5998–6008.
+<a name="vidal2018"></a>
+- Vidal, M., & Piater, J. (2018). Beyond pixels: A comprehensive survey from visual recognition to cognition. Artificial Intelligence, 258, 66–115. https://doi.org/10.1016/j.artint.2018.01.004
+<a name="von1945"></a>
+- von Neumann, J. (1945). First Draft of a Report on the EDVAC. University of Pennsylvania.
+<a name="wiener1948"></a>
+- Wiener, N. (1948). Cybernetics: Or Control and Communication in the Animal and the Machine. MIT Press.
 <a name="white1962"></a>
 - White, L. T. Jr. (1962). Medieval technology and social change. Oxford University Press.
+<a name="whitehead1910"></a>
+- Whitehead, A. N., & Russell, B. (1910–1913). Principia Mathematica (Vols. I–III). Cambridge University Press.
+<a name="wickens2008"></a>
+- Wickens, C. D. (2008). Engineering psychology and human performance (4ᵉ éd.). Pearson.
 <a name="wrangham2009"></a>
 - Wrangham, R. (2009). Shallow-water habitats as sources of fallback foods for hominins. American Journal of Physical Anthropology, 140(4), 630–642. https://doi.org/10.1002/ajpa.21122
+<a name="yarbus1967"></a>
+- Yarbus, A. L. (1967). Eye Movements and Vision. Plenum Press.
+<a name="yudkowsky2020"></a>
+- Yudkowsky, E. (2020). Coordination problem for beneficial AI. AI Alignment Forum.
 
 
 
