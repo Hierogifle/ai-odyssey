@@ -61,6 +61,12 @@ L’histoire de l’IA est l’histoire de l’_« éternel fainéant ambitieux 
   - [18. Succès instructifs et bonnes pratiques](#18-succès-instructifs-et-bonnes-pratiques)
   - [19. Enjeux clés et perspectives](#19-enjeux-clés-et-perspectives)
 - [PARTIE IX : Futurs possibles et imaginaires critiques](#partie-ix--futurs-possibles-et-imaginaires-critiques)
+  - [20. Vers l’AGI bio-inspirée : Active Inference et conscience artificielle](#20-vers-lagi-bio-inspirée--active-inference-et-conscience-artificielle)
+  - [21. Black Mirror et prospective critique : dystopies et coopérations](#21-black-mirror-et-prospective-critique--dystopies-et-coopérations)
+  - [22. L’odyssée inachevée : vers une intelligence augmentée et collaborative](#22-lodyssée-inachevée--vers-une-intelligence-augmentée-et-collaborative)
+- [PARTIE X : Évolution de l’éthique de l’IA](#partie-x--évolution-de-léthique-de-lia)
+  - [23. Évolution de l’éthique de l’IA](#23-évolution-de-léthique-de-lia)
+- [Conclusion](#conclusion)
 - [📚 8. Bibliographie](#-8-bibliographie)
 
 <br>
@@ -343,7 +349,7 @@ Cette même décennie voit naître les premiers systèmes :
 > 
 > Inspiré du constat de Geoffrey Hinton sur l’IA (2012).
 
-Dans les années 1970, l’IA se divise entre deux visions concurrentes. L’**IA symbolique** repose sur la manipulation explicite de symboles et de règles logiques, incarnée par les systèmes experts utilisant des langages de programmation déclaratifs et des bases de connaissances. À l’inverse, l’**IA connexionniste** s’inspire du fonctionnement neuronal, avec des réseaux de neurones artificiels capables d’apprendre par l’ajustement de poids ([McCulloch & Pitts, 1943](#mcculloch1943) ; [Rosenblatt, 1948](#rosenblatt1948)).
+Dans les années 1970, l’IA se divise entre deux visions concurrentes. L’**IA symbolique** repose sur la manipulation explicite de symboles et de règles logiques, incarnée par les systèmes experts utilisant des langages de programmation déclaratifs et des bases de connaissances. À l’inverse, l’**IA connexionniste** s’inspire du fonctionnement neuronal, avec des réseaux de neurones artificiels capables d’apprendre par l’ajustement de poids ([McCulloch & Pitts, 1943](#mcculloch1943) ; [Rosenblatt, 1958](#rosenblatt1958)).
 
 Cette dualité alimente un optimisme féroce : les symbolistes promettent la compréhension grâce à la logique formelle, tandis que les connexionnistes misent sur la capacité d’apprentissage face à la variabilité du monde réel. Chacune des approches exhibe des succès initiaux mais montre rapidement ses limites spécifiques : rigidité des règles symboliques vs. opacité et instabilité des réseaux neuronaux.
 
@@ -485,27 +491,51 @@ Ces études de cas convergent vers quatre facteurs structurants pour la réussit
 
 4. Acceptabilité sociale et régulation : la confiance passe par la transparence, l’explicabilité et un cadre réglementaire clair.
 
-En appliquant ces enseignements, les futurs projets d’IA – qu’ils soient basés sur le Free Energy Principle, la vision oculaire ou la robotique océanique – pourront maximiser leurs chances de succès, en évitant les écueils qui ont entravé les pionniers.
+En appliquant ces enseignements, les futurs projets d’IA – qu’ils soient basés sur le *Free Energy Principle*, la vision oculaire ou la robotique océanique – pourront maximiser leurs chances de succès, en évitant les écueils qui ont entravé les pionniers.
 
 # PARTIE IX : Futurs possibles et imaginaires critiques
-19. Vers l'AGI bio-inspirée : Active Inference et conscience artificielle
-Systèmes adaptatifs auto-organisés selon le FEP
 
-Architectures explicables et introspection artificielle
+> *"La frontière entre l’humain et la machine n’est pas une barrière, mais une passerelle."*
+> 
+> Citation inspirée de Norbert Wiener, Cybernetics (1948).
 
-20. Black Mirror et prospective critique : imaginaires technologiques
-Analyse d'épisodes clés et effet prophétique
+## 20. Vers l’AGI bio-inspirée : Active Inference et conscience artificielle
 
-Dystopies technologiques vs. coopération homme-IA
+Alan Turing a montré que toute opération calculable est réalisable par une machine abstraite, mais l’Artificial General Intelligence (AGI) exige une maîtrise de l’autonomie adaptative et de la conscience artificielle. Le Free Energy Principle de Friston unifie perception, action et apprentissage sous la minimisation de l’énergie libre, offrant un cadre pour des agents bio-inspirés capables de prédire et de sélectionner leurs observations pour réduire la surprise interne. De telles AGI combineraient réseaux de neurones profonds pour l’extraction multi-modale, mécanismes d’attention pour focaliser les ressources computationnelles et boucles d’active inference pour assurer une autonomie adaptative dans des environnements inconnus.
 
-21. L'odyssée inachevée : paresse créative et intelligence augmentée
-Retour anthropologique : de la paresse créative à l'intelligence collaborative
+## 21. Black Mirror et prospective critique : dystopies et coopérations
 
-Facteurs humains dans un monde d'IA active et prédictive
+Les épisodes de *Black Mirror* dessinent des scénarios extrêmes – notation sociale omniprésente, implants de surveillance parentale – qui questionnent la vie privée, la liberté psychique et les pouvoirs algorithmiques. Ils rappellent l’enjeu d’une gouvernance proactive, visant à encadrer la surveillance intrusive, promouvoir l’interopérabilité des normes internationales et développer une littératie numérique critique pour éduquer les citoyens aux implications éthiques de l’IA.
 
-Vision STAPS : optimisation de la performance humaine par l'IA ergonomique
+## 22. L’odyssée inachevée : vers une intelligence augmentée et collaborative
 
-Nouvelles formes de coévolution cognitive homme-machine
+L’IA de demain se conçoit en symbiose avec l’humain. Plutôt que de chercher à surpasser l’homo sapiens, il s’agit de développer une intelligence augmentée (IA+H) : co-pilotage cognitif pour la recherche, la création et la prise de décision. Les écosystèmes humains-IA seront des plateformes interactives où experts et agents intelligents collaborent en boucles de rétroaction continue, maximisant l’efficacité tout en préservant l’autonomie humaine. Cette coévolution requiert l’alignement des architectures algorithmiques sur les besoins, les valeurs et la dignité de chaque individu.
+
+# PARTIE X : Évolution de l’éthique de l’IA
+
+> *"La technologie ne connaît ni bien ni mal ; c’est son usage qui construit l’éthique."*
+> 
+> Citation inspirée de Luciano Floridi, The Ethics of Information (2013).
+
+## 23. Évolution de l’éthique de l’IA
+
+L’éthique de l’IA s’est structurée en trois temps :
+
+1. Principes et chartes : *Asilomar 1975* initie une éthique anticipative, la *Déclaration de Montréal* (2018) pose dix principes dont la « primauté du bien-être humain » et « le respect de la vie privée », l’*OpenAI Charter* (2018) engage à diffuser largement les bénéfices et à éviter la course aux armements algorithmiques.
+
+2. Régulations : le *Règlement Général sur la Protection des Données* (RGPD) (2018) confère droits d’accès, portabilité et effacement sur les données personnelles, l’AI Act (2021) classe les risques et impose la transparence pour les systèmes à risque élevé, le *NIST AI RMF* (2023) propose un cadre volontaire de gestion des risques.
+
+3. Gouvernance mondiale : les *Principes OCDE* (2019) recommandent divulgation, robustesse et respect des droits humains, l’*UNESCO* (2021) adopte une recommandation engageant 193 États à promouvoir justice algorithmique, inclusion et durabilité.
+
+Les défis émergents incluent : responsabilité juridique des IA, explicabilité des décisions, lutte contre les biais et équité pour les populations vulnérables, adoption de techniques de privacy-preserving machine learning comme la differential privacy.
+
+# Conclusion
+
+Cet *“Odyssée de l’IA”* révèle une continuité anthropologique : la *« paresse créative »* a toujours poussé l’humanité à externaliser ses efforts physiques et cognitifs, des premiers outils en pierre aux algorithmes profonds. Chaque échec, des *Google Glass* aux voitures autonomes, nous enseigne la valeur du timing, de l’écosystème et de la confiance sociale. Chaque succès, de *Netflix* à *Roomba*, illustre la puissance d’un alignement précis entre besoins réels et maturité technologique.
+
+Le futur de l’IA ne se jouera pas sur une confrontation Homme-machine, mais sur une co-création où l’IA amplifie nos capacités créatives, prévoit nos intentions et soutient nos décisions critiques. L’intelligence augmentée se déploie comme un pont entre notre imagination millénaire et les possibles inédits d’une ère numérique responsable et éthique.
+
+En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognitive, nous pourrons concevoir des systèmes où l’humain reste le chef d’orchestre, guidant la partition algorithmique vers une harmonie collective, bien au-delà du simple calcul.
 
 # 📚 8. Bibliographie
 
@@ -669,13 +699,3 @@ Nouvelles formes de coévolution cognitive homme-machine
 - Yarbus, A. L. (1967). Eye Movements and Vision. Plenum Press.
 <a name="yudkowsky2020"></a>
 - Yudkowsky, E. (2020). Coordination problem for beneficial AI. AI Alignment Forum.
-
-
-
-
-8 éléments clés
-3 aspects / problématique --> lien entre les parties
-Voiture autonome 
-Analyse du comportement occulaires
-LLM !
-Moloch de l'IA
