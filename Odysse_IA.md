@@ -52,8 +52,9 @@ L'histoire de l'intelligence artificielle trouve ses racines les plus profondes 
 Des études récentes en neurosciences confirment cette tendance. Cheval et al. (2018) ont démontré que l’évitement de l’inactivité physique nécessite un investissement accru des ressources cérébrales. “Nos cerveaux sont câblés pour préférer rester sur le canapé”, une caractéristique héritée de nos ancêtres chasseurs-cueilleurs pour qui l’économie d’énergie était vitale pour la survie ([Cheval et al., 2018](#cheval2018)).
 
 **Préhistoire lointaine : Émergence de l’intelligence (−7 Ma → −300 000 ans)**
-
-![Bifaces Acheuléens (−1,6 Ma)](images/partie1/bifaces_acheuleens.jpg "Bifaces Acheuléens (−1,6 Ma)")
+<div align="center">
+   <img src="images/partie1/bifaces_acheuleens.jpg" alt="Bifaces Acheuléens (−1,6 Ma)" style="width: 100%; max-width: 800px;">
+</div>
 
 La “paresse créative” s’exprime dès l’invention des premiers outils lithiques. Les choppers oldowayens (−2,7 Ma) et bifaces acheuléens (−1,6 Ma) sont autant d’illustrations de l’externalisation technologique d’une fonction biologique : prolonger la main pour économiser l’effort physique direct (Harmand et al., 2015). L’évolution vers des outils Levallois plus sophistiqués témoigne d’une anticipation et d’une planification accrues, toujours guidées par la recherche d’efficacité maximale avec un minimum d’effort (Leroi-Gourhan, 1964).
 
