@@ -167,7 +167,7 @@ La tradition hébraïque offre, avec le *Golem*, une vision plus pragmatique de 
 **Réalisations techniques : Héron d'Alexandrie et la mécanique programmable**
 
 <div align="center">
-   <img src="images/partie1/eolipyle.jpg" alt="Eolipyle* (sphère éolienne) d'Héron" style="width: 40%; max-width: 600px;">
+   <img src="images/partie1/eolipyle.jpg" alt="Eolipyle* (sphère éolienne) d'Héron" style="width: 30%; max-width: 600px;">
 </div>
 
 L'Égypte hellénistique du Ier siècle apr. J.-C. voit naître les premiers automates véritablement fonctionnels sous l'impulsion d'*Héron d'Alexandrie*. Ses traités *Pneumatica* et *Automata* décrivent des mécanismes sophistiqués utilisant *"l'air, la vapeur ou l'eau"* comme force motrice, destinés à *"susciter l'étonnement et l'émerveillement"* ([Héron d’Alexandrie, s.d.](#heron)).
@@ -198,6 +198,8 @@ Le *syllogisme aristotélicien*, avec ses trois propositions (deux prémisses et
 
 Cette logique formelle établit les fondements de ce qui deviendra, deux millénaires plus tard, l'*informatique théorique*. Les règles d'inférence d'Aristote anticipent les opérations booléennes et les systèmes de preuve automatisée qui constitueront l'ossature de l'intelligence artificielle symbolique.
 
+<div style="page-break-after: always;"></div>
+
 **Transmission et héritage**
 
 L'Antiquité grecque et hellénistique lègue ainsi à la postérité trois éléments fondamentaux pour le développement futur de l'IA :
@@ -208,6 +210,8 @@ L'Antiquité grecque et hellénistique lègue ainsi à la postérité trois él�
 Cette convergence entre imagination, technique et logique constitue la matrice originelle de l'intelligence artificielle. Elle révèle que le projet d'automatisation de l'intelligence n'est pas une rupture moderne, mais l'aboutissement d'une quête anthropologique millénaire : économiser l'énergie humaine en externalisant le raisonnement dans des systèmes automatisés.
 
 La synthèse antique de ces trois dimensions - mythologique, technique et logique - établit les fondations conceptuelles sur lesquelles s'édifiera, près de deux millénaires plus tard, la révolution de l'intelligence artificielle contemporaine.
+
+<div style="page-break-after: always;"></div>
 
 # PARTIE II : De la mécanisation à la formalisation (800-1750)
 
@@ -229,10 +233,12 @@ Vers 1305, *Ramon Llull* (1232–1316) publie l’*Ars Magna*, où il présente 
 
 Cette formalisation algorithmique du raisonnement constitue le premier jalon de l’IA symbolique : la pensée comme combinaison de symboles. *Llull* anticipe la création de langages de programmation et de systèmes de preuve automatisée. Son influence s’étend jusqu’à *Leibniz*, qui reconnaît dans l’*Ars Magna* les prémices de son *calculus ratiocinator* et de son projet de *mathesis universalis*.
 
+<div style="page-break-after: always;"></div>
+
 **Astrarium : computing mécanique et modélisation du cosmos**
 
 <div align="center">
-   <img src="images/partie2/astarium.jpg" alt="Astrarium de Giovanni Dondi (1330–1388)" style="width: 30%; max-width: 600px;">
+   <img src="images/partie2/astarium.jpg" alt="Astrarium de Giovanni Dondi (1330–1388)" style="width: 24%; max-width: 600px;">
 </div>
 
 Au XIVème siècle, l’Europe savante érige les horloges astronomiques en modèles de computing mécanique. L’*astrarium* de *Giovanni Dondi* (1330–1388), construit entre 1365 et 1381 à Padoue, est une horloge planétaire qui indique heure, date, positions du Soleil, de la Lune et des cinq planètes visibles (Mercure, Vénus, Mars, Jupiter, Saturne) via un réseau de 200 engrenages articulés ([Dondi, 1365–1381](#dondi1365)).
@@ -251,13 +257,15 @@ Entre le IXème et le XVème siècle, la *scolastique* codifie le raisonnement d
 
 L’architecture cognitive de Thomas d’Aquin, exposée dans sa *Summa Theologica*, combine théologie et *logique aristotélicienne* en un système modulaire : unités conceptuelles (articles) articulées selon des règles d’extraction de conclusions. Cette formalisation du processus intellectuel éclaire l’idée que la pensée peut être codée et automatisée, principe central des IA symboliques.
 
+<div style="page-break-after: always;"></div>
+
 **Automates anthropomorphes et mécanique biomimétique**
 
 <div align="center">
-   <img src="images/partie2/chevalier.jpg" alt="Chevalier mécanique de Léonard de Vinci (1452–1519)" style="width: 40%; max-width: 600px;">
+   <img src="images/partie2/chevalier.jpg" alt="Chevalier mécanique de Léonard de Vinci (1452–1519)" style="width: 30%; max-width: 600px;">
 </div>
 
-*Léonard de Vinci : anatomie et ingénierie*
+*Léonard de Vinci : anatomie et ingénierie* <br>
 À la Renaissance, *Léonard de Vinci* (1452–1519) conçoit des automates animés par poulies, câbles et ressorts. Son *chevalier mécanique* (vers 1495) reproduit les mouvements humains (lever le bouclier, tourner la tête) grâce à un système de câbles modulaires et de mécanismes d’horlogerie intégrés dans une armature anatomique ([de Vinci, s.d](#devinci)).
 
 *De Vinci* conçoit l’automate comme outil d’étude du corps, mêlant biomimétisme et programmation matérielle, préfigurant les recherches contemporaines en robotique autonome et en robots humanoïdes.
@@ -271,6 +279,8 @@ Au XVIIème siècle, *Blaise Pascal* (1623–1662) met au point la *Pascaline* (
 **Synthèse : de la paresse créative à l’automation systématique**
 
 De l’hydraulique programmable d’al-Jazari à la machine logique de Llull, des horloges-astrarium à la Pascaline, la période 800–1750 incarne la transition d’une innovation opportuniste à un projet cohérent d’automation. Les inventeurs médiévaux et renaissants traduisent la pâresse créative en programmation mécanique, jetant les bases de l’intelligence artificielle contemporaine.
+
+<div style="page-break-after: always;"></div>
 
 # PARTIE III : Rationalisation mécanique et calcul (1750-1945)
 
@@ -340,6 +350,8 @@ La période 1750–1945 transforme la paresse créative en industrie de l'automa
 
 Paradoxalement, cette époque d'optimisation mécanique révèle aussi les limites fondamentales de la formalisation avec Gödel. Cette tension entre ambitions computationnelles et impossibilités logiques structure les développements futurs de l'informatique et de l'intelligence artificielle, préparant les révolutions théoriques du XXème siècle.
 
+<div style="page-break-after: always;"></div>
+
 # PARTIE IV : L'âge d'or théorique & avènement des machines (1945-1970)
 
 > *“Tout calcul qui peut être fait par un esprit humain peut aussi être effectué par une machine universelle.”*
@@ -373,6 +385,8 @@ Cette même décennie voit naître les premiers systèmes :
 - *Perceptron* (1958) de Frank Rosenblatt implémente un réseau simple capable d’apprendre par ajustement itératif de poids, ouvrant la voie à l’apprentissage automatique ([Rosenblatt, 1958](#rosenblatt1958)).
 
 - *Logic Theorist, General Problem Solver* et les premiers programmes de traitement du langage naturel illustrent l’optimisme de l’ère, avant que les limitations computationnelles et la crise des hivers de l’IA n’apparaissent.
+
+<div style="page-break-after: always;"></div>
 
 # PARTIE V : Cycles d'enthousiasme, hivers et paradigmes émergents (1970-2000)
 
@@ -416,6 +430,8 @@ Cet âge d’or commercial culmine en 1987, lorsque l’action des entreprises d
 
 La victoire de *Deep Blue* sur Garry Kasparov (1997) marque un tournant : l’IA symbolique cède la place à une IA hybride, combinant approches statistiques, connexionnistes et symboliques, annonçant l’apprentissage automatique et préparant l’ère Internet.
 
+<div style="page-break-after: always;"></div>
+
 # PARTIE VI : Convergence et synthèse contemporaine (2000-2025)
 
 > *"Les données sont le carburant, le deep learning en est le moteur."*
@@ -456,11 +472,13 @@ Depuis 2020, la course aux modèles de grande échelle oppose entreprises et Ét
 
 Dans ce contexte, émergent des initiatives de gouvernance : *OpenAI Charter* (2018) et *Partenariat sur l’IA* (2016) visent à instaurer des normes pour une IA sécurisée et bénéfique. Pourtant, le défi reste d’aligner les intérêts de multiples acteurs mondiaux pour éviter une spirale compétitive aux conséquences imprévisibles.
 
+<div style="page-break-after: always;"></div>
+
 # PARTIE VII : Vers une nouvelle intelligence - La révolution Fristonienne
 
 ## 15. Karl Friston et le principe de l’énergie libre
 
-> L’esprit prédit, la machine opère : l’inférence active révèle la prochaine frontière."
+> *L’esprit prédit, la machine opère : l’inférence active révèle la prochaine frontière."*
 > 
 > Inspiré de Karl Friston, conférence sur le Free Energy Principle (2010).
 
@@ -490,6 +508,8 @@ Des prototypes expérimentaux utilisent des systèmes d'*eye-tracking* couplés 
 L’énactivisme postule que la cognition émerge de l’interaction dynamique entre l’agent et son environnement. Intégrée au FEP, cette perspective crée des robots non seulement prédictifs, mais aussi incarnés, tirant avantage de leur morphologie et de leur biomechanique pour accomplir des tâches complexes ([O’Regan & Noë, 2001](#oregan2001)).
 
 Ces systèmes bio-inspirés combinent l’inférence active, la programmation hydraulique antique et l’apprentissage profond, illustrant la convergence des paradigmes IA vers une intelligence véritablement intégrée.
+
+<div style="page-break-after: always;"></div>
 
 # PARTIE VIII : Leçons des échecs et succès technologiques
 
@@ -526,6 +546,8 @@ Ces études de cas convergent vers quatre facteurs structurants pour la réussit
 
 En appliquant ces enseignements, les futurs projets d’IA – qu’ils soient basés sur le *Free Energy Principle*, la vision oculaire ou la robotique océanique – pourront maximiser leurs chances de succès, en évitant les écueils qui ont entravé les pionniers.
 
+<div style="page-break-after: always;"></div>
+
 # PARTIE IX : Futurs possibles et imaginaires critiques
 
 > *"La frontière entre l’humain et la machine n’est pas une barrière, mais une passerelle."*
@@ -543,6 +565,8 @@ Les épisodes de *Black Mirror* dessinent des scénarios extrêmes – notation 
 ## 22. L’odyssée inachevée : vers une intelligence augmentée et collaborative
 
 L’IA de demain se conçoit en symbiose avec l’humain. Plutôt que de chercher à surpasser l’homo sapiens, il s’agit de développer une intelligence augmentée (IA+H) : co-pilotage cognitif pour la recherche, la création et la prise de décision. Les écosystèmes humains-IA seront des plateformes interactives où experts et agents intelligents collaborent en boucles de rétroaction continue, maximisant l’efficacité tout en préservant l’autonomie humaine. Cette coévolution requiert l’alignement des architectures algorithmiques sur les besoins, les valeurs et la dignité de chaque individu.
+
+<div style="page-break-after: always;"></div>
 
 # PARTIE X : Évolution de l’éthique de l’IA
 
@@ -562,6 +586,8 @@ L’éthique de l’IA s’est structurée en trois temps :
 
 Les défis émergents incluent : responsabilité juridique des IA, explicabilité des décisions, lutte contre les biais et équité pour les populations vulnérables, adoption de techniques de privacy-preserving machine learning comme la differential privacy.
 
+<div style="page-break-after: always;"></div>
+
 # Conclusion
 
 Cet *“Odyssée de l’IA”* révèle une continuité anthropologique : la *« paresse créative »* a toujours poussé l’humanité à externaliser ses efforts physiques et cognitifs, des premiers outils en pierre aux algorithmes profonds. Chaque échec, des *Google Glass* aux voitures autonomes, nous enseigne la valeur du timing, de l’écosystème et de la confiance sociale. Chaque succès, de *Netflix* à *Roomba*, illustre la puissance d’un alignement précis entre besoins réels et maturité technologique.
@@ -570,66 +596,68 @@ Le futur de l’IA ne se jouera pas sur une confrontation Homme-machine, mais su
 
 En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognitive, nous pourrons concevoir des systèmes où l’humain reste le chef d’orchestre, guidant la partition algorithmique vers une harmonie collective, bien au-delà du simple calcul.
 
+<div style="page-break-after: always;"></div>
+
 # 8. Bibliographie
 
 <a name="aljazari1206"></a>
-- al‑Jazarī, A. (1206). Kitāb fī maʿrifat al-ḥiyal al-handasiyya [Livre sur la connaissance des machines ingénieuses]
+- al‑Jazarī, A. (1206). *Kitāb fī maʿrifat al-ḥiyal al-handasiyya* [Livre sur la connaissance des machines ingénieuses]
 <a name="apollonius"></a>
-- Apollonius de Rhodes. (s.d.). Argonautiques (IV, 1638‑1648)
+- Apollonius de Rhodes. (s.d.). *Argonautiques* (IV, 1638‑1648)
 <a name="aristote"></a>
-- Aristote. (s.d.). Premiers Analytiques (I, 4).
+- Aristote. (s.d.). *Premiers Analytiques* (I, 4)
 <a name="babbage1834"></a>
-- Babbage, C. (1834). On the principles of the analytical engine [Machine analytique]
+- Babbage, C. (1834). *On the principles of the analytical engine* [Machine analytique]
 <a name="boole1854"></a>
-- Boole, G. (1854). An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities. Macmillan.
+- Boole, G. (1854). An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities. *Macmillan*
 <a name="brin1998"></a>
-- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. Computer Networks and ISDN Systems, 30(1-7), 107–117.
+- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. *Computer Networks and ISDN Systems*, 30(1-7), 107–117
 <a name="brown2020"></a>
-- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). Language models are few-shot learners. Advances in Neural Information Processing Systems, 33, 1877–1901.
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). Language models are few-shot learners. *Advances in Neural Information Processing Systems*, 33, 1877–1901
 <a name="bymycar2025"></a>
 - Bymycar Webzine. (2025). Voiture autonome de niveau 5 : pour quand ?
 <a name="caducee2016"></a>
-- Caducee.net. (2016, November 1). Cancérologie : l’IA Watson d’IBM fait déjà mieux que les médecins.
+- Caducee.net. (2016, November 1). Cancérologie : l’IA Watson d’IBM fait déjà mieux que les médecins
 <a name="capek1920"></a>
-- Čapek, K. (1920). R.U.R. (Rossum’s Universal Robots).
+- Čapek, K. (1920). *R.U.R.* (Rossum’s Universal Robots)
 <a name="chen2021"></a>
-- Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. Proceedings of the 38th International Conference on Machine Learning (ICML 2021), 139, 8748–8763. PMLR.
+- Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision.*Proceedings of the 38th International Conference on Machine Learning* (ICML 2021), 139, 8748–8763. PMLR
 <a name="cheval2018"></a>
-- Cheval, B., Tipura, E., Burra, N., Frossard, J., Chanal, J., Orsholits, D., Radel, R., & Boisgontier, M. P. (2018). Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study. Neuropsychologia, 119, 68–80. https://doi.org/10.1016/j.neuropsychologia.2018.07.029
+- Cheval, B., Tipura, E., Burra, N., Frossard, J., Chanal, J., Orsholits, D., Radel, R., & Boisgontier, M. P. (2018). Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study. *Neuropsychologia*, 119, 68–80. https://doi.org/10.1016/j.neuropsychologia.2018.07.029
 <a name="crevier1993"></a>
-- Crevier, D. (1993). AI: The Tumultuous History of the Search for Artificial Intelligence. Basic Books.
+- Crevier, D. (1993). AI: The Tumultuous History of the Search for Artificial Intelligence. *Basic Books*
 <a name="devinci"></a>
-- de Vinci, L. (s.d.). Codex Atlanticus.
+- de Vinci, L. (s.d.). *Codex Atlanticus*
 <a name="devlin2018"></a>
-- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805
 <a name="diamond1997"></a>
-- Diamond, J. M. (1997). Guns, germs, and steel: The fates of human societies. W.W. Norton & Company
+- Diamond, J. M. (1997). Guns, germs, and steel: The fates of human societies. *W.W. Norton & Company*
 <a name="dondi1365"></a>
 - Dondi, G. (1365–1381). Astrarium [Horloge astronomique]
 <a name="freeth2021"></a>
-- Freeth, T., Higgon, D., Dacanalis, A., et al. (2021). A Model of the Cosmos in the ancient Greek Antikythera Mechanism. Scientific Reports, 11, 5821. https://doi.org/10.1038/s41598-021-84310-w
+- Freeth, T., Higgon, D., Dacanalis, A., et al. (2021). A Model of the Cosmos in the ancient Greek Antikythera Mechanism. *Scientific Reports*, 11, 5821. https://doi.org/10.1038/s41598-021-84310-w
 <a name="friston2010"></a>
-- Friston, K. (2010). The free-energy principle: a unified brain theory? Nature Reviews Neuroscience, 11(2), 127–138.
+- Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
 <a name="friston2016"></a>
-- Friston, K., Rosch, R., Parr, T., Price, C., & Bowman, H. (2016). Deep temporal models and active inference. Neuroscience & Biobehavioral Reviews, 68, 862–879.
+- Friston, K., Rosch, R., Parr, T., Price, C., & Bowman, H. (2016). Deep temporal models and active inference. *Neuroscience & Biobehavioral Reviews*, 68, 862–879.
 <a name="godel1931"></a>
-- Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. Monatshefte für Mathematik und Physik, 38(1), 173–198.
+- Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, 38(1), 173–198.
 <a name="gomez2015"></a>
-- Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix recommender system: Algorithms, business value, and innovation. ACM Transactions on Management Information Systems, 6(4), Article 13.
+- Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix recommender system: Algorithms, business value, and innovation. *ACM Transactions on Management Information Systems*, 6(4), Article 13.
 <a name="goodfellow2014"></a>
-- Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., … & Bengio, Y. (2014). Generative adversarial nets. Advances in Neural Information Processing Systems, 27, 2672–2680.
+- Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., … & Bengio, Y. (2014). Generative adversarial nets. *Advances in Neural Information Processing Systems*, 27, 2672–2680.
 <a name="google2015"></a>
-- Google Inc. (2015). An update on Glass. Official Google Blog.
+- Google Inc. (2015). An update on Glass. *Official Google Blog*.
 <a name="gowlett2016"></a>
-- Gowlett, J. A. J. (2016). The discovery of fire by humans: A long and convoluted process. Philosophical Transactions of the Royal Society B: Biological Sciences, 371(1696), 20150164. https://doi.org/10.1098/rstb.2015.0164
+- Gowlett, J. A. J. (2016). The discovery of fire by humans: A long and convoluted process. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 371(1696), 20150164. https://doi.org/10.1098/rstb.2015.0164
 <a name="harmand2015"></a>
-- Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Roche, H., & Quinn, R. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature, 521(7552), 310–315. https://doi.org/10.1038/nature14464
+- Harmand, S., Lewis, J. E., Feibel, C. S., Lepre, C. J., Roche, H., & Quinn, R. (2015). 3.3-million-year-old stone tools from Lomekwi 3, West Turkana, Kenya. *Nature*, 521(7552), 310–315. https://doi.org/10.1038/nature14464
 <a name="heron"></a>
-- Héron d’Alexandrie. (s.d.). Pneumatica.
+- Héron d’Alexandrie. (s.d.). *Pneumatica*.
 <a name="hoffman2018"></a>
-- Hoffman, R. R., & Hancock, P. A. (2018). Deep learning and human factors: Tracks and applications. Human Factors, 60(8), 1171–1183.
+- Hoffman, R. R., & Hancock, P. A. (2018). Deep learning and human factors: Tracks and applications. *Human Factors*, 60(8), 1171–1183.
 <a name="hill1993"></a>
-- Hill, D. R. (1993). Islamic science and engineering. Edinburgh University Press.
+- Hill, D. R. (1993). Islamic science and engineering. *Edinburgh University Press*.
 <a name="hollerith1890"></a>
 - Hollerith, H. (1890). Tabulating machine for the U.S. Census [Machine à cartes perforées].
 <a name="idel1990"></a>
@@ -703,17 +731,17 @@ En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognit
 <a name="shannon1948"></a>
 - Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423.
 <a name="shortliffe1976"></a>
-- Shortliffe, E. H. (1976). Computer-Based Medical Consultations: MYCIN. Elsevier.
+- Shortliffe, E. H. (1976). Computer-Based Medical Consultations: MYCIN. *Elsevier*
 <a name="stat2017"></a>
 - Stat News. (2017, September 5). IBM’s Watson recommended ‘unsafe and incorrect’ cancer treatments, study finds.
 <a name="thomas1265"></a>
-- Thomas d’Aquin. (1265–1273). Summa Theologica [Somme théologique]
+- Thomas d’Aquin. (1265–1273). *Summa Theologica* [Somme théologique]
 <a name="turing1936"></a>
-- Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. Proceedings of the London Mathematical Society, 2(42), 230–265.
+- Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 2(42), 230–265.
 <a name="turing1950"></a>
-- Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433–460.
+- Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433–460.
 <a name="vaswani2017"></a>
-- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … & Polosukhin, I. (2017). Attention Is all you need. Advances in Neural Information Processing Systems, 30, 5998–6008.
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … & Polosukhin, I. (2017). Attention Is all you need. *Advances in Neural Information Processing Systems*, 30, 5998–6008.
 <a name="vidal2018"></a>
 - Vidal, M., & Piater, J. (2018). Beyond pixels: A comprehensive survey from visual recognition to cognition. Artificial Intelligence, 258, 66–115. https://doi.org/10.1016/j.artint.2018.01.004
 <a name="von1945"></a>
