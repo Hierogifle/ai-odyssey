@@ -1,32 +1,55 @@
-<h1 style="text-align: center;">L'Odyssée de l'Intelligence Artificielle</h1> <!-- omit in toc -->
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h1 style="text-align: center;"> L'Odyssée de l'Intelligence Artificielle </h1> <!-- omit in toc -->
+<br>
 <div align="center">
-   <img src="images/partie1/odysse.png" alt="Odyssée de l'IA" style="width: 50%; max-width: 900px;">
+   <img src="images/partie1/odysse.png" alt="Odyssée de l'IA" style="width: 80%; max-width: 900px;">
 </div>
+<br>
+<h1 style="text-align: center;"><em> Des Origines Anthropologiques aux Horizons Contemporains </em></h1> <!-- omit in toc -->
+<br>
+<br>
+<br>
+<br>
+<br>
+<p style="text-align: center;"><em>Romuald COURTOIS</em></p>
+<br>
+<p style="text-align: center;"><em>22/09/2025</em></p>
 
-<h1 style="text-align: center;">Des Origines Anthropologiques aux Horizons Contemporains</h1> <!-- omit in toc -->
 
-*Romuald COURTOIS*
+<div style="page-break-after: always;"></div>
 
-*18/09/2025*
-
----
-
-## 🎯 Objectif <!-- omit in toc -->
+## Objectif <!-- omit in toc -->
 
 Retracer l'évolution de l'intelligence artificielle, depuis les fondements anthropologiques et cognitifs de l'Homme jusqu'aux perspectives futures, afin de comprendre comment la quête d'optimisation et de simplification a façonné les outils, les machines et, aujourd'hui, l'IA (Intelligence Artificielle).
+<br>
+<br>
+<br>
 
-## 🔑 Idée directrice <!-- omit in toc -->
+## Idée directrice <!-- omit in toc -->
 
-L'histoire de l'IA est l'histoire de l'_« éternel fainéant ambitieux »_ : l'Homme, en cherchant à économiser son énergie, a sans cesse inventé de nouvelles solutions techniques, ouvrant ainsi des possibilités inédites. Cette logique d'extension et de délégation culmine dans les technologies d'intelligence artificielle contemporaines.
+L'histoire de l'IA est l'histoire de l'*"éternel fainéant ambitieux"* : l'Homme, en cherchant à économiser son énergie, a sans cesse inventé de nouvelles solutions techniques, ouvrant ainsi des possibilités inédites. Cette logique d'extension et de délégation culmine dans les technologies d'intelligence artificielle contemporaines.
+<br>
+<br>
+<br>
 
-## 🚀 Valeur ajoutée <!-- omit in toc -->
+## Valeur ajoutée <!-- omit in toc -->
 
 - Approche chronologique et conceptuelle, reliant innovations techniques, contexte culturel et impact sociétal
 - Mise en lumière du fil rouge anthropologique : la paresse comme moteur d'innovation
 - Ouverture sur les défis futurs : éthique, gouvernance, durabilité
 
----
+<div style="page-break-after: always;"></div>
+
+<br>
+<br>
+<br>
 
 # Préface <!-- omit in toc -->
 
@@ -34,7 +57,7 @@ Depuis toujours, l’humanité rêve d’un allié idéal : une intelligence inf
 
 > *L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques.*
 
----
+<div style="page-break-after: always;"></div>
 
 ## Table des matières <!-- omit in toc -->
 
@@ -77,9 +100,9 @@ Depuis toujours, l’humanité rêve d’un allié idéal : une intelligence inf
 - [PARTIE X : Évolution de l’éthique de l’IA](#partie-x--évolution-de-léthique-de-lia)
   - [23. Évolution de l’éthique de l’IA](#23-évolution-de-léthique-de-lia)
 - [Conclusion](#conclusion)
-- [📚 8. Bibliographie](#-8-bibliographie)
+- [8. Bibliographie](#8-bibliographie)
 
----
+<div style="page-break-after: always;"></div>
 
 # PARTIE I : Fondations anthropologiques et mythologiques
 
@@ -95,29 +118,31 @@ L'histoire de l'intelligence artificielle trouve ses racines les plus profondes 
 
 Des études récentes en neurosciences confirment cette tendance. Cheval et al. (2018) ont démontré que l’évitement de l’inactivité physique nécessite un investissement accru des ressources cérébrales. *"Nos cerveaux sont câblés pour préférer rester sur le canapé"*, une caractéristique héritée de nos ancêtres chasseurs-cueilleurs pour qui l’économie d’énergie était vitale pour la survie ([Cheval et al., 2018](#cheval2018)).
 
-**Préhistoire lointaine : Émergence de l’intelligence (−7 Ma → −300 000 ans)**
+**Préhistoire lointaine : Émergence de l’intelligence (-7 Ma → -300 000 ans)**
 
 <div align="center">
-   <img src="images/partie1/bifaces_acheuleens.jpg" alt="Bifaces Acheuléens (−1,6 Ma)" style="width: 40%; max-width: 600px;">
+   <img src="images/partie1/bifaces_acheuleens.jpg" alt="Bifaces Acheuléens (-1,6 Ma)" style="width: 40%; max-width: 600px;">
 </div>
 
-La *paresse créative* s’exprime dès l’invention des premiers outils lithiques. Les choppers oldowayens (−2,7 Ma) et bifaces acheuléens (−1,6 Ma) sont autant d’illustrations de l’externalisation technologique d’une fonction biologique : prolonger la main pour économiser l’effort physique direct ([Harmand et al., 2015](#harmand2015)). L’évolution vers des outils Levallois plus sophistiqués témoigne d’une anticipation et d’une planification accrues, toujours guidées par la recherche d’efficacité maximale avec un minimum d’effort ([Leroi-Gourhan, 1964](#leroi1964)).
+La *paresse créative* s’exprime dès l’invention des premiers outils lithiques. Les choppers oldowayens (-2,7 Ma) et bifaces acheuléens (-1,6 Ma) sont autant d’illustrations de l’externalisation technologique d’une fonction biologique : prolonger la main pour économiser l’effort physique direct ([Harmand et al., 2015](#harmand2015)). L’évolution vers des outils Levallois plus sophistiqués témoigne d’une anticipation et d’une planification accrues, toujours guidées par la recherche d’efficacité maximale avec un minimum d’effort ([Leroi-Gourhan, 1964](#leroi1964)).
 
 **La domestication du feu : première révolution énergétique**
 
-Maîtrisé dès −400 000 ans, le feu représente la première source d’énergie externe dominée par l’homme ([Gowlett, 2016](#gowlett2016)). Au-delà de la cuisson des aliments, il permet de réduire l’énergie dépensée pour la digestion, libérant des ressources métaboliques pour le développement cérébral ([Wrangham, 2009](#wrangham2009)). Le feu, en prédigérant les aliments, illustre parfaitement la logique de la *paresse créative* : utiliser l’énergie externe plutôt que celle contenue dans les nutriments.
+Maîtrisé dès -400 000 ans, le feu représente la première source d’énergie externe dominée par l’homme ([Gowlett, 2016](#gowlett2016)). Au-delà de la cuisson des aliments, il permet de réduire l’énergie dépensée pour la digestion, libérant des ressources métaboliques pour le développement cérébral ([Wrangham, 2009](#wrangham2009)). Le feu, en prédigérant les aliments, illustre parfaitement la logique de la *paresse créative* : utiliser l’énergie externe plutôt que celle contenue dans les nutriments.
+<br>
+<br>
 
-**Préhistoire récente : Explosion symbolique (−300 000 → −10 000 ans)**
+**Préhistoire récente : Explosion symbolique (-300 000 → -10 000 ans)**
 
 <div align="center">
-   <img src="images/partie1/lascaux.jpg" alt="Peinture rupestre des Grottes de Lascaux (−1,6 Ma)" style="width: 40%; max-width: 600px;">
+   <img src="images/partie1/lascaux.jpg" alt="Peinture rupestre des Grottes de Lascaux (-1,6 Ma)" style="width: 40%; max-width: 600px;">
 </div>
 
 L’émergence du langage résulte également d’une optimisation énergétique. Selon la théorie de Huntley et Hayden, les locuteurs adaptent leur articulation pour être compris avec un minimum d’effort, un principe d’*hypo-articulation* comparable aux interfaces homme-machine modernes ([Lindblom, 1990](#lindblom1990)). Parallèlement, l’art pariétal (peinture rupestre) et les premières représentations symboliques fonctionnent comme des supports externes de mémoire, libérant la capacité cognitive pour d’autres tâches ([Lewis-Williams, 2002](#lewis2002)).
 
-**Néolithique : Révolution technologique (−10 000 → −3 000 ans)**
+**Néolithique : Révolution technologique (-10 000 → -3 000 ans)**
 
-L’agriculture et l’élevage instaurent une production d’énergie excédentaire, marquant un tournant dans l’histoire humaine ([Diamond, 1997](#diamond1997)). L’invention de la roue, la traction animale et l’irrigation illustrent la logique d’amplification énergétique : maximiser les rendements tout en minimisant l’effort humain direct. L’écriture, née vers −3 000 ans pour la comptabilité des ressources, constitue la forme la plus aboutie d’externalisation symbolique des tâches cognitives répétitives ([Diamond, 1997](#diamond1997)).
+L’agriculture et l’élevage instaurent une production d’énergie excédentaire, marquant un tournant dans l’histoire humaine ([Diamond, 1997](#diamond1997)). L’invention de la roue, la traction animale et l’irrigation illustrent la logique d’amplification énergétique : maximiser les rendements tout en minimisant l’effort humain direct. L’écriture, née vers -3 000 ans pour la comptabilité des ressources, constitue la forme la plus aboutie d’externalisation symbolique des tâches cognitives répétitives ([Diamond, 1997](#diamond1997)).
 
 **L’ambition par la paresse : extensions des possibles**
 
@@ -194,7 +219,7 @@ La synthèse antique de ces trois dimensions - mythologique, technique et logiqu
 
 **Al-Jazari et la révolution hydraulique programmable**
 
-Au début du XIIIᵉ siècle, *Abū al-ʿIz̄ Ibn Ismāʿīl al-Jazarī* (Al-Jazari) (1136–1206) codifie pour la première fois les procédés mécaniques dans son *Kitāb fī maʿrifat al-ḥiyal al-handasiyya* (1206). Il y décrit plus de cinquante dispositifs, parmi lesquels l’*horloge-éléphant*, structure monumentale de sept mètres animée par des pistons et un vilebrequin couplés à un réservoir hydraulique. Ce mécanisme, orné d’éléments symboliques (éléphant, dragon, phénix), illustre une programmation primitive par séquences temporelles : chaque heure, des automates serviteurs distribuent rafraîchissements selon un cycle prédéfini, préfigurant le concept de routine algorithmique ([al‑Jazarī, 1206](#aljazari1206)).
+Au début du XIIIème siècle, *Abu al-'Iz Ibn Isma'il al-Jazarī* (Al-Jazari) (1136–1206) codifie pour la première fois les procédés mécaniques dans son *Kitab fi ma'rifat al-hiyal al-handasiyya* (1206). Il y décrit plus de cinquante dispositifs, parmi lesquels l’*horloge-éléphant*, structure monumentale de sept mètres animée par des pistons et un vilebrequin couplés à un réservoir hydraulique. Ce mécanisme, orné d’éléments symboliques (éléphant, dragon, phénix), illustre une programmation primitive par séquences temporelles : chaque heure, des automates serviteurs distribuent rafraîchissements selon un cycle prédéfini, préfigurant le concept de routine algorithmique ([al‑Jazari, 1206](#aljazari1206)).
 
 Outre les horloges, *al-Jazari* invente des serviteurs mécaniques délivrant boissons ou serviettes, activés par des pressions d’eau successives. Ces humanoïdes fluidiques incarnent l’idée d’une séquence d’actions automatisées, où chaque étape déclenche la suivante sans intervention humaine, anticipant les systèmes de contrôle séquentiel modernes ([Hill, 1993](#hill1993)). Ses innovations - machines à pomper, robinets automatiques, vilebrequins – influencent directement l’ingénierie hydraulique et mécanique jusqu’à la révolution industrielle.
 
@@ -210,7 +235,7 @@ Cette formalisation algorithmique du raisonnement constitue le premier jalon de 
    <img src="images/partie2/astarium.jpg" alt="Astrarium de Giovanni Dondi (1330–1388)" style="width: 30%; max-width: 600px;">
 </div>
 
-Au XIVᵉ siècle, l’Europe savante érige les horloges astronomiques en modèles de computing mécanique. L’*astrarium* de *Giovanni Dondi* (1330–1388), construit entre 1365 et 1381 à Padoue, est une horloge planétaire qui indique heure, date, positions du Soleil, de la Lune et des cinq planètes visibles (Mercure, Vénus, Mars, Jupiter, Saturne) via un réseau de 200 engrenages articulés ([Dondi, 1365–1381](#dondi1365)).
+Au XIVème siècle, l’Europe savante érige les horloges astronomiques en modèles de computing mécanique. L’*astrarium* de *Giovanni Dondi* (1330–1388), construit entre 1365 et 1381 à Padoue, est une horloge planétaire qui indique heure, date, positions du Soleil, de la Lune et des cinq planètes visibles (Mercure, Vénus, Mars, Jupiter, Saturne) via un réseau de 200 engrenages articulés ([Dondi, 1365–1381](#dondi1365)).
 
 Chaque cadran et chaque engrenage traduisent un modèle mathématique du ciel en opérations mécaniques automatiques, simulant le mouvement des astres selon le système ptoléméen (Géocentrisme). Comme le note *Lynn White Jr*., ces instruments sont “moins des chronomètres que des expositions mobiles du cosmos”. Ils témoignent de la conviction médiévale que la machine peut refléter la structure de l’univers, préparant l’idée de simulation numérique contemporaine ([White, 1962, p. 122](#white1862)).
 
@@ -222,7 +247,7 @@ Chaque cadran et chaque engrenage traduisent un modèle mathématique du ciel en
 
 **Scolastique : vers l’algorithme du débat intellectuel**
 
-Entre le IXᵉ et le XVᵉ siècle, la *scolastique* codifie le raisonnement dialectique. Les *quaestiones disputatae* (questions disputées) et les *summae* (synthèses encyclopédiques) structurent l’argumentation en étapes formelles : question initiale, objections, réponses, résolution finale. Chaque étape suit des règles précises d’inférence, préfigurant les algorithmes de décision et les systèmes experts modernes ([Thomas d’Aquin, 1265–1273](#thomas1265)).
+Entre le IXème et le XVème siècle, la *scolastique* codifie le raisonnement dialectique. Les *quaestiones disputatae* (questions disputées) et les *summae* (synthèses encyclopédiques) structurent l’argumentation en étapes formelles : question initiale, objections, réponses, résolution finale. Chaque étape suit des règles précises d’inférence, préfigurant les algorithmes de décision et les systèmes experts modernes ([Thomas d’Aquin, 1265–1273](#thomas1265)).
 
 L’architecture cognitive de Thomas d’Aquin, exposée dans sa *Summa Theologica*, combine théologie et *logique aristotélicienne* en un système modulaire : unités conceptuelles (articles) articulées selon des règles d’extraction de conclusions. Cette formalisation du processus intellectuel éclaire l’idée que la pensée peut être codée et automatisée, principe central des IA symboliques.
 
@@ -239,7 +264,7 @@ L’architecture cognitive de Thomas d’Aquin, exposée dans sa *Summa Theologi
 
 **Pascaline, Leibniz et l’automation arithmétique**
 
-Au XVIIᵉ siècle, *Blaise Pascal* (1623–1662) met au point la *Pascaline* (1642), première machine capable d’additionner et soustraire automatiquement via un système de roues à dents et sautoirs. Destinée à alléger le travail fiscal de son père, elle libère l’esprit humain des calculs répétitifs, instaurant l’idée de délégation mécanique des tâches arithmétiques ([Pascal, 1642](#pascal1642)).
+Au XVIIème siècle, *Blaise Pascal* (1623–1662) met au point la *Pascaline* (1642), première machine capable d’additionner et soustraire automatiquement via un système de roues à dents et sautoirs. Destinée à alléger le travail fiscal de son père, elle libère l’esprit humain des calculs répétitifs, instaurant l’idée de délégation mécanique des tâches arithmétiques ([Pascal, 1642](#pascal1642)).
 
 *Gottfried Wilhelm Leibniz* (1646–1716) perfectionne ce concept en créant la première machine à multiplier et diviser mécaniquement, et formalise le système binaire (1679) démontrant que *"tous les nombres et calculs”* peuvent se réduire à des combinaisons de 0 et 1, fondement de l’informatique digitale ([Leibniz, 1679](#leibniz1679)).
 
@@ -295,7 +320,7 @@ En 1896, *Hollerith* fonde la *Computing-Tabulating-Recording Company* qui devie
 
 **Russell et Whitehead : l'ambition logiciste**
 
-Au début du XXᵉ siècle, *Bertrand Russell* (1872–1970) et *Alfred North Whitehead* (1861–1947) entreprennent de réduire l'ensemble des mathématiques à la logique pure dans leurs monumentaux *Principia Mathematica* (1910–1913) ([Whitehead & Russell, 1910–1913](#whitehead1910)).
+Au début du XXème siècle, *Bertrand Russell* (1872–1970) et *Alfred North Whitehead* (1861–1947) entreprennent de réduire l'ensemble des mathématiques à la logique pure dans leurs monumentaux *Principia Mathematica* (1910–1913) ([Whitehead & Russell, 1910–1913](#whitehead1910)).
 
 Cette œuvre de 2000 pages formalise la logique moderne : calcul des propositions, des prédicats et des relations. Elle introduit la théorie des types logiques pour résoudre les paradoxes, notamment celui de Russell : « un ensemble ne peut appartenir à lui-même ». Les Principia établissent les fondements formels de l'informatique théorique et de l'IA symbolique.
 
@@ -313,7 +338,7 @@ Le second théorème établit qu'*"une théorie cohérente ne peut démontrer sa
 
 La période 1750–1945 transforme la paresse créative en industrie de l'automation. Des automates *Jaquet-Droz* aux machines *Hollerith*, en passant par les conceptions de *Babbage* et les formalisations de *Boole*, émerge une technologie systématique du calcul et de la logique.
 
-Paradoxalement, cette époque d'optimisation mécanique révèle aussi les limites fondamentales de la formalisation avec Gödel. Cette tension entre ambitions computationnelles et impossibilités logiques structure les développements futurs de l'informatique et de l'intelligence artificielle, préparant les révolutions théoriques du XXᵉ siècle.
+Paradoxalement, cette époque d'optimisation mécanique révèle aussi les limites fondamentales de la formalisation avec Gödel. Cette tension entre ambitions computationnelles et impossibilités logiques structure les développements futurs de l'informatique et de l'intelligence artificielle, préparant les révolutions théoriques du XXème siècle.
 
 # PARTIE IV : L'âge d'or théorique & avènement des machines (1945-1970)
 
@@ -329,7 +354,7 @@ En 1943, Warren McCulloch et Walter Pitts modélisent le neurone biologique par 
 
 Claude Shannon, souvent appelé le père de la théorie de l’information, publie en 1948 *A Mathematical Theory of Communication*, posant les bases du codage de l’information, de la compression et de la transmission fiable. Ses concepts de bit et d'entropie influencent profondément l’architecture des ordinateurs et le traitement du signal dans les systèmes intelligents ([Shannon, 1948](#shannon1948)).
 
-John von Neumann formalise dès 1945 dans le *First Draft of a Report on the EDVAC* une architecture séquentielle stockée, distinguant mémoire, unité arithmétique, unité de contrôle et interfaces d’Entrée/Sortie. Ce modèle, connu sous le nom d’architecture von Neumann, demeure la référence des ordinateurs jusqu’au XXIᵉ siècle ([von Neumann, 1945](#von1945)).
+John von Neumann formalise dès 1945 dans le *First Draft of a Report on the EDVAC* une architecture séquentielle stockée, distinguant mémoire, unité arithmétique, unité de contrôle et interfaces d’Entrée/Sortie. Ce modèle, connu sous le nom d’architecture von Neumann, demeure la référence des ordinateurs jusqu’au XXIème siècle ([von Neumann, 1945](#von1945)).
 
 En 1948, Norbert Wiener publie *Cybernetics: Or Control and Communication in the Animal and the Machine*, établissant l'**approche cybernétique**. Il démontre l’importance de la rétroaction et de l’autorégulation dans les systèmes vivants et mécaniques, théorie essentielle pour la conception de robots adaptatifs et de systèmes de pilotage automatique ([Wiener, 1948](#wiener1948)).
 
@@ -545,7 +570,7 @@ Le futur de l’IA ne se jouera pas sur une confrontation Homme-machine, mais su
 
 En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognitive, nous pourrons concevoir des systèmes où l’humain reste le chef d’orchestre, guidant la partition algorithmique vers une harmonie collective, bien au-delà du simple calcul.
 
-# 📚 8. Bibliographie
+# 8. Bibliographie
 
 <a name="aljazari1206"></a>
 - al‑Jazarī, A. (1206). Kitāb fī maʿrifat al-ḥiyal al-handasiyya [Livre sur la connaissance des machines ingénieuses]
@@ -700,7 +725,7 @@ En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognit
 <a name="whitehead1910"></a>
 - Whitehead, A. N., & Russell, B. (1910–1913). Principia Mathematica (Vols. I–III). Cambridge University Press.
 <a name="wickens2008"></a>
-- Wickens, C. D. (2008). Engineering psychology and human performance (4ᵉ éd.). Pearson.
+- Wickens, C. D. (2008). Engineering psychology and human performance (4ème éd.). Pearson.
 <a name="wrangham2009"></a>
 - Wrangham, R. (2009). Shallow-water habitats as sources of fallback foods for hominins. American Journal of Physical Anthropology, 140(4), 630–642. https://doi.org/10.1002/ajpa.21122
 <a name="yarbus1967"></a>
