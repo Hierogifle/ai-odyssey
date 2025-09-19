@@ -1,10 +1,10 @@
-# 🌌 L'Odyssée de l'Intelligence Artificielle<!-- omit in toc -->
+<h1 style="text-align: center;">L'Odyssée de l'Intelligence Artificielle</h1> <!-- omit in toc -->
 
 <div align="center">
    <img src="images/partie1/odysse.png" alt="Odyssée de l'IA" style="width: 50%; max-width: 900px;">
 </div>
 
-## Des Origines Anthropologiques aux Horizons Contemporains <!-- omit in toc -->
+<h1 style="text-align: center;">Des Origines Anthropologiques aux Horizons Contemporains</h1> <!-- omit in toc -->
 
 *Romuald COURTOIS*
 
