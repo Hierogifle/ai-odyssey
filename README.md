@@ -33,4 +33,14 @@ Ce projet ne se limite pas à un regard rétrospectif : il cherche aussi à ouvr
 
 ---
 
+## 📊 Timeline Interactive
+
+Explorez l'histoire de l'IA de manière interactive :
+
+**[🚀 Ouvrir la Timeline Interactive](timeline.html)**
+
+*Cliquez sur le lien ci-dessus pour naviguer dans 40 000 ans d'évolution vers l'IA avec zoom et navigation par périodes.*
+
+---
+
 ✍️ *L’Odyssée de l’IA : un voyage entre passé, présent et futur de l’intelligence artificielle.*  

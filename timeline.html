@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>L'Odyssée de l'Intelligence Artificielle - Timeline Interactive</title>
+    <link title="timeline-styles" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .header h1 {
+            color: white;
+            margin: 0;
+            font-size: 2.5em;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+        }
+
+        .header p {
+            color: rgba(255, 255, 255, 0.9);
+            font-size: 1.2em;
+            margin: 10px 0;
+            font-style: italic;
+        }
+
+        .controls {
+            text-align: center;
+            padding: 15px;
+            background: rgba(255, 255, 255, 0.05);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .period-button {
+            background: rgba(255, 255, 255, 0.2);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            color: white;
+            padding: 8px 16px;
+            margin: 5px;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9em;
+        }
+
+        .period-button:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .timeline-container {
+            height: 70vh;
+            margin: 20px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            background: white;
+        }
+
+        .info-panel {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            margin: 20px;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .info-panel h3 {
+            color: white;
+            margin-top: 0;
+        }
+
+        .info-panel p {
+            color: rgba(255, 255, 255, 0.9);
+            line-height: 1.6;
+        }
+
+        .back-to-doc {
+            text-align: center;
+            padding: 20px;
+        }
+
+        .back-to-doc a {
+            background: rgba(255, 255, 255, 0.2);
+            color: white;
+            text-decoration: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            transition: all 0.3s ease;
+            display: inline-block;
+        }
+
+        .back-to-doc a:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-2px);
+        }
+
+        @media (max-width: 768px) {
+            .header h1 { font-size: 2em; }
+            .timeline-container { height: 60vh; margin: 10px; }
+            .info-panel { margin: 10px; padding: 15px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌌 L'Odyssée de l'Intelligence Artificielle</h1>
+        <p>Des origines anthropologiques aux horizons contemporains</p>
+        <p>40 000 ans d'évolution vers l'IA</p>
+    </div>
+
+    <div class="controls">
+        <div style="margin-bottom: 15px; color: white;">
+            <strong>Navigation rapide par période :</strong>
+        </div>
+        <button class="period-button" onclick="goToPeriod(0)">Préhistoire (-1,6M)</button>
+        <button class="period-button" onclick="goToPeriod(1)">Antiquité (-3000)</button>
+        <button class="period-button" onclick="goToPeriod(3)">Moyen Âge (1200)</button>
+        <button class="period-button" onclick="goToPeriod(5)">Renaissance (1600)</button>
+        <button class="period-button" onclick="goToPeriod(8)">Révolution Industrielle (1800)</button>
+        <button class="period-button" onclick="goToPeriod(12)">Fondements Modernes (1930)</button>
+        <button class="period-button" onclick="goToPeriod(16)">Naissance IA (1956)</button>
+        <button class="period-button" onclick="goToPeriod(20)">IA Moderne (2010)</button>
+        <button class="period-button" onclick="goToPeriod(25)">Futur (2025)</button>
+    </div>
+
+    <div class="timeline-container">
+        <div id="timeline-embed" style="width: 100%; height: 100%;"></div>
+    </div>
+
+    <div class="info-panel">
+        <h3>💡 Comment naviguer dans la timeline</h3>
+        <p>
+            <strong>🔍 Zoom :</strong> Utilisez la molette de la souris ou les gestes tactiles pour zoomer sur les périodes qui vous intéressent.<br>
+            <strong>📅 Navigation rapide :</strong> Cliquez sur les boutons de période ci-dessus pour accéder directement aux moments clés.<br>
+            <strong>📖 Détails :</strong> Cliquez sur chaque événement pour découvrir des informations détaillées et les liens avec le document principal.<br>
+            <strong>🎯 Synchronisation :</strong> Chaque événement correspond à une section spécifique du document "L'Odyssée de l'IA".
+        </p>
+    </div>
+
+    <div class="back-to-doc">
+        <a href="README.md">📚 Retour au Document Principal</a>
+    </div>
+
+    <script src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline.js"></script>
+
+    <script>
+        // Données de la timeline extraites du document
+        const timelineData = {
+            "title": {
+                "media": {
+                    "url": "",
+                    "caption": "",
+                    "credit": ""
+                },
+                "text": {
+                    "headline": "L'Odyssée de l'Intelligence Artificielle",
+                    "text": "Des origines anthropologiques aux horizons contemporains - 40 000 ans d'évolution vers l'IA"
+                }
+            },
+            "events": [
+                {
+                    "media": {
+                        "url": "images/partie1/bifaces_acheuleens.jpg",
+                        "caption": "Bifaces Acheuléens - Premiers outils programmés"
+                    },
+                    "start_date": {"year": "-1600000"},
+                    "text": {
+                        "headline": "Bifaces Acheuléens : Première Programmation (-1,6 Ma)",
+                        "text": "Les bifaces acheuléens illustrent l'externalisation technologique : prolonger la main pour économiser l'effort physique direct. Ces outils révèlent une anticipation et planification accrues.<br><br><strong>📖 Lien document :</strong> Partie I, Section 1 - L'éternel fainéant ambitieux<br><strong>💡 Concept clé :</strong> Paresse créative comme moteur d'innovation<br><strong>🔗 Lien moderne :</strong> Optimisation algorithmique"
+                    },
+                    "group": "Préhistoire"
+                },
+                {
+                    "start_date": {"year": "-400000"},
+                    "text": {
+                        "headline": "Domestication du Feu : Première Énergie Externe (-400k)",
+                        "text": "Le feu permet de réduire l'énergie dépensée pour la digestion, libérant des ressources métaboliques pour le développement cérébral.<br><br><strong>📖 Lien document :</strong> Partie I, Section 1<br><strong>💡 Innovation :</strong> Première source d'énergie externe maîtrisée<br><strong>🧠 Impact :</strong> Libération de ressources cognitives"
+                    },
+                    "group": "Préhistoire"
+                },
+                {
+                    "media": {
+                        "url": "images/partie1/lascaux.jpg",
+                        "caption": "Peintures de Lascaux - Supports externes de mémoire"
+                    },
+                    "start_date": {"year": "-17000"},
+                    "text": {
+                        "headline": "Art Pariétal : Premiers Supports de Mémoire (-17k)",
+                        "text": "L'art pariétal et les représentations symboliques fonctionnent comme des supports externes de mémoire, libérant la capacité cognitive pour d'autres tâches.<br><br><strong>📖 Lien document :</strong> Partie I, Section 1<br><strong>🔄 Révolution :</strong> Externalisation de la mémoire<br><strong>⚡ Principe :</strong> Économie d'énergie cognitive"
+                    },
+                    "group": "Préhistoire"
+                },
+                {
+                    "start_date": {"year": "-3000"},
+                    "text": {
+                        "headline": "Écriture : Externalisation des Tâches Cognitives (-3000)",
+                        "text": "L'écriture, née pour la comptabilité des ressources, constitue la forme la plus aboutie d'externalisation symbolique des tâches cognitives répétitives.<br><br><strong>📖 Lien document :</strong> Partie I, Section 1<br><strong>💾 Innovation :</strong> Stockage permanent d'information<br><strong>🧠 Impact :</strong> Libération de la mémoire humaine"
+                    },
+                    "group": "Néolithique"
+                },
+                {
+                    "start_date": {"year": "-350"},
+                    "text": {
+                        "headline": "Aristote : Fondements de la Logique Formelle (-350)",
+                        "text": "Sa théorie du syllogisme constitue le premier système de raisonnement déductif formalisé. Les règles d'inférence anticipent les opérations booléennes.<br><br><strong>📖 Lien document :</strong> Partie I, Section 2<br><strong>🏗️ Fondement :</strong> Première logique formalisée<br><strong>💻 Héritage :</strong> Base de l'informatique théorique"
+                    },
+                    "group": "Antiquité"
+                },
+                {
+                    "media": {
+                        "url": "images/partie1/anticythere.jpg",
+                        "caption": "Mécanisme d'Anticythère - Premier ordinateur analogique"
+                    },
+                    "start_date": {"year": "-100"},
+                    "text": {
+                        "headline": "Machine d'Anticythère : Premier Ordinateur (-100)",
+                        "text": "37 engrenages de bronze calculaient avec précision la position du soleil, de la lune et des planètes. Capable de prédire les éclipses avec une précision remarquable.<br><br><strong>📖 Lien document :</strong> Partie I, Section 2<br><strong>🖥️ Révolution :</strong> Premier calcul automatisé<br><strong>📊 Sophistication :</strong> Prédiction astronomique précise"
+                    },
+                    "group": "Antiquité"
+                },
+                {
+                    "media": {
+                        "url": "images/partie1/eolipyle.jpg",
+                        "caption": "Éolipyle d'Héron - Premier moteur à vapeur"
+                    },
+                    "start_date": {"year": "60"},
+                    "text": {
+                        "headline": "Héron d'Alexandrie : Premiers Automates Programmables (60)",
+                        "text": "Décrit plus de 50 dispositifs mécaniques. Ses portes automatiques du temple et trépieds automobiles constituent les premiers systèmes programmables.<br><br><strong>📖 Lien document :</strong> Partie I, Section 2<br><strong>🔧 Innovation :</strong> Programmation mécanique primitive<br><strong>🤖 Héritage :</strong> Bases de la robotique mobile"
+                    },
+                    "group": "Antiquité"
+                },
+                {
+                    "start_date": {"year": "1206"},
+                    "text": {
+                        "headline": "Al-Jazari : Révolution Hydraulique Programmable (1206)",
+                        "text": "L'horloge-éléphant de 7 mètres illustre une programmation primitive par séquences temporelles. Chaque heure, des automates distribuent rafraîchissements selon un cycle prédéfini.<br><br><strong>📖 Lien document :</strong> Partie II, Section 3<br><strong>⚙️ Innovation :</strong> Séquences automatisées temporelles<br><strong>🔄 Concept :</strong> Programmation par cycles prédéfinis"
+                    },
+                    "group": "Moyen Âge"
+                },
+                {
+                    "start_date": {"year": "1305"},
+                    "text": {
+                        "headline": "Ramon Llull : Première Machine Logique (1305)",
+                        "text": "L'Ars Magna utilise des disques concentriques pour générer toutes les combinaisons conceptuelles possibles. Premier jalon de l'IA symbolique : la pensée comme combinaison de symboles.<br><br><strong>📖 Lien document :</strong> Partie II, Section 3<br><strong>🔄 Révolution :</strong> Formalisation algorithmique du raisonnement<br><strong>💻 Héritage :</strong> Systèmes de preuve automatisée"
+                    },
+                    "group": "Moyen Âge"
+                },
+                {
+                    "media": {
+                        "url": "images/partie2/astrarium.jpg",
+                        "caption": "Astrarium de Giovanni Dondi"
+                    },
+                    "start_date": {"year": "1365"},
+                    "text": {
+                        "headline": "Astrarium : Computing Mécanique du Cosmos (1365)",
+                        "text": "Cette horloge planétaire avec 200 engrenages simule le mouvement des astres. Chaque mécanisme traduit un modèle mathématique en opérations automatiques.<br><br><strong>📖 Lien document :</strong> Partie II, Section 3<br><strong>🌌 Concept :</strong> Machine comme modèle du cosmos<br><strong>🖥️ Innovation :</strong> Simulation mécanique automatisée"
+                    },
+                    "group": "Renaissance"
+                },
+                {
+                    "media": {
+                        "url": "images/partie2/chevalier.jpg",
+                        "caption": "Chevalier mécanique de Léonard de Vinci"
+                    },
+                    "start_date": {"year": "1495"},
+                    "text": {
+                        "headline": "Léonard de Vinci : Biomimétisme Mécanique (1495)",
+                        "text": "Le chevalier mécanique reproduit les mouvements humains via câbles modulaires et mécanismes d'horlogerie. Vinci conçoit l'automate comme outil d'étude du corps.<br><br><strong>📖 Lien document :</strong> Partie II, Section 4<br><strong>🤖 Innovation :</strong> Automate anthropomorphe programmable<br><strong>🧬 Approche :</strong> Ingénierie bio-inspirée"
+                    },
+                    "group": "Renaissance"
+                },
+                {
+                    "start_date": {"year": "1642"},
+                    "text": {
+                        "headline": "Pascaline : Délégation Mécanique du Calcul (1642)",
+                        "text": "Première machine capable d'additionner et soustraire automatiquement. Libère l'esprit humain des calculs répétitifs, instaurant l'idée de délégation mécanique.<br><br><strong>📖 Lien document :</strong> Partie II, Section 4<br><strong>🔄 Révolution :</strong> Automatisation du calcul<br><strong>🧠 Principe :</strong> Libération de l'effort cognitif"
+                    },
+                    "group": "Renaissance"
+                },
+                {
+                    "start_date": {"year": "1679"},
+                    "text": {
+                        "headline": "Leibniz : Fondements de l'Informatique Digitale (1679)",
+                        "text": "Formalise le système binaire démontrant que tous les nombres et calculs peuvent se réduire à des combinaisons de 0 et 1. Crée la première machine à multiplier et diviser.<br><br><strong>📖 Lien document :</strong> Partie II, Section 4<br><strong>💻 Innovation :</strong> Base mathématique de l'informatique<br><strong>🔮 Vision :</strong> Calcul universel automatisé"
+                    },
+                    "group": "Renaissance"
+                },
+                {
+                    "start_date": {"year": "1770"},
+                    "text": {
+                        "headline": "Jaquet-Droz : Perfection de la Programmation Matérielle (1770)",
+                        "text": "L'Écrivain (6000 pièces) peut rédiger n'importe quel texte via cames programmables. Synthèse inédite entre art, mécanique et programmation modulaire.<br><br><strong>📖 Lien document :</strong> Partie III, Section 5<br><strong>🔄 Révolution :</strong> Programmation par support amovible<br><strong>🔧 Concept :</strong> Modularité et reconfiguration"
+                    },
+                    "group": "Révolution Industrielle"
+                },
+                {
+                    "start_date": {"year": "1834"},
+                    "text": {
+                        "headline": "Babbage : Premier Ordinateur Universel (1834)",
+                        "text": "La Machine Analytique peut effectuer n'importe quelle opération via cartes perforées. Distingue données et programme, possède mémoire et unité de calcul.<br><br><strong>📖 Lien document :</strong> Partie III, Section 5<br><strong>🖥️ Révolution :</strong> Ordinateur programmable universel<br><strong>🏗️ Architecture :</strong> Séparation données/programme"
+                    },
+                    "group": "Révolution Industrielle"
+                },
+                {
+                    "start_date": {"year": "1843"},
+                    "text": {
+                        "headline": "Ada Lovelace : Premier Algorithme et Vision de l'IA Créative (1843)",
+                        "text": "Développe le premier algorithme informatique avec la première boucle conditionnelle. Énonce que la machine pourrait composer de la musique de n'importe quelle complexité.<br><br><strong>📖 Lien document :</strong> Partie III, Section 5<br><strong>💻 Innovation :</strong> Premier algorithme complet<br><strong>🎨 Vision :</strong> IA créative et générative"
+                    },
+                    "group": "Révolution Industrielle"
+                },
+                {
+                    "start_date": {"year": "1854"},
+                    "text": {
+                        "headline": "George Boole : Algèbre de la Logique (1854)",
+                        "text": "Révolutionne la logique avec une algèbre binaire (0 et 1). Introduit les opérations ET, OU, NON. Fondements mathématiques de l'informatique et des circuits électroniques.<br><br><strong>📖 Lien document :</strong> Partie III, Section 5<br><strong>🏗️ Fondement :</strong> Base mathématique de l'informatique<br><strong>💻 Héritage :</strong> Circuits électroniques modernes"
+                    },
+                    "group": "Révolution Industrielle"
+                },
+                {
+                    "start_date": {"year": "1890"},
+                    "text": {
+                        "headline": "Hollerith : Industrialisation du Traitement de l'Information (1890)",
+                        "text": "Ses machines à cartes perforées révolutionnent le recensement américain : 10 ans de travail réduits à 3 mois. Fonde la société qui deviendra IBM en 1924.<br><br><strong>📖 Lien document :</strong> Partie III, Section 5<br><strong>🏭 Innovation :</strong> Traitement automatisé de masse<br><strong>🏢 Héritage :</strong> Industrie informatique moderne"
+                    },
+                    "group": "Révolution Industrielle"
+                },
+                {
+                    "start_date": {"year": "1910"},
+                    "text": {
+                        "headline": "Principia Mathematica : Fondements de l'IA Symbolique (1910)",
+                        "text": "Russell et Whitehead formalisent la logique moderne en 2000 pages. Établissent les fondements formels de l'informatique théorique.<br><br><strong>📖 Lien document :</strong> Partie III, Section 6<br><strong>🏗️ Fondement :</strong> Logique formelle moderne<br><strong>🤖 Héritage :</strong> IA symbolique et systèmes experts"
+                    },
+                    "group": "Fondements Modernes"
+                },
+                {
+                    "start_date": {"year": "1920"},
+                    "text": {
+                        "headline": "Karel Čapek : Naissance du Mot 'Robot' (1920)",
+                        "text": "Introduit le mot 'robot' dans R.U.R. Ces créatures artificielles se révoltent contre leurs créateurs, inaugurant la mythologie moderne de l'IA.<br><br><strong>📖 Lien document :</strong> Partie III, Section 6<br><strong>🤖 Concept :</strong> Mythologie moderne de l'IA<br><strong>❓ Question :</strong> Relation homme-machine"
+                    },
+                    "group": "Fondements Modernes"
+                },
+                {
+                    "start_date": {"year": "1931"},
+                    "text": {
+                        "headline": "Gödel : Limites Fondamentales de la Formalisation (1931)",
+                        "text": "Ses théorèmes d'incomplétude révèlent qu'il existera toujours des énoncés vrais mais indémontrables dans tout système formel.<br><br><strong>📖 Lien document :</strong> Partie III, Section 6<br><strong>💡 Révélation :</strong> Limites intrinsèques des systèmes formels<br><strong>🔬 Impact :</strong> Influence sur la théorie de la calculabilité"
+                    },
+                    "group": "Fondements Modernes"
+                },
+                {
+                    "start_date": {"year": "1936"},
+                    "text": {
+                        "headline": "Turing : Machine Universelle et Calculabilité (1936)",
+                        "text": "Établit que toute fonction calculable peut être effectuée par une machine de Turing universelle. Fixe les limites intrinsèques de ce qui peut être programmé.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 7<br><strong>🏗️ Fondement :</strong> Théorie de la calculabilité<br><strong>🤖 Concept :</strong> Machine universelle abstraite"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1943"},
+                    "text": {
+                        "headline": "McCulloch-Pitts : Premier Neurone Artificiel (1943)",
+                        "text": "Modélisent le neurone biologique par une unité binaire activée par un seuil. Leur neurone formel devient la pierre angulaire du connexionnisme.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 7<br><strong>🧠 Innovation :</strong> Modélisation mathématique du neurone<br><strong>🔗 Héritage :</strong> Fondement du connexionnisme"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1945"},
+                    "text": {
+                        "headline": "Von Neumann : Architecture de l'Ordinateur Moderne (1945)",
+                        "text": "Formalise une architecture séquentielle stockée distinguant mémoire, unité arithmétique, unité de contrôle et interfaces E/S. Modèle encore dominant aujourd'hui.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 7<br><strong>🏗️ Standard :</strong> Architecture informatique universelle<br><strong>⏳ Durabilité :</strong> Modèle encore dominant aujourd'hui"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1948"},
+                    "text": {
+                        "headline": "Shannon : Théorie de l'Information (1948)",
+                        "text": "Pose les bases du codage, compression et transmission fiable. Concepts de bit et d'entropie influencent profondément l'architecture des ordinateurs.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 7<br><strong>🏗️ Fondement :</strong> Base mathématique de l'informatique<br><strong>💡 Concepts :</strong> Bit, entropie, transmission"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1948"},
+                    "text": {
+                        "headline": "Wiener : Cybernétique et Autorégulation (1948)",
+                        "text": "Établit l'approche cybernétique démontrant l'importance de la rétroaction et autorégulation. Théorie essentielle pour la robotique et contrôle automatique.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 7<br><strong>🔄 Concept :</strong> Systèmes auto-régulés<br><strong>🤖 Application :</strong> Robotique et contrôle automatique"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1950"},
+                    "text": {
+                        "headline": "Test de Turing : Critère d'Intelligence Artificielle (1950)",
+                        "text": "Si une machine parvient à imiter la conversation humaine sans être distinguée, elle peut être considérée comme 'pensante'. Soulève des débats philosophiques majeurs.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 8<br><strong>🧪 Critère :</strong> Test comportemental d'intelligence<br><strong>🤔 Débat :</strong> Nature de la conscience artificielle"
+                    },
+                    "group": "Âge d'Or Théorique"
+                },
+                {
+                    "start_date": {"year": "1956"},
+                    "text": {
+                        "headline": "Dartmouth : Naissance Officielle de l'Intelligence Artificielle (1956)",
+                        "text": "McCarthy, Minsky, Rochester et Shannon formalisent l'IA comme domaine distinct. Projet de créer des machines simulant tous aspects de l'intelligence humaine.<br><br><strong>📖 Lien document :</strong> Partie IV, Section 8<br><strong>🏛️ Fondation :</strong> Discipline académique officielle<br><strong>🎯 Ambition :</strong> Intelligence artificielle générale"
+                    },
+                    "group": "Naissance de l'IA"
+                }
+            ]
+        };
+
+        // Configuration des options
+        const options = {
+            hash_bookmark: true,
+            zoom_sequence: [0.1, 0.25, 0.5, 1, 2, 4, 8, 16, 32, 64],
+            timenav_height_percentage: 25,
+            optimal_tick_width: 60,
+            timenav_height: 150,
+            timenav_height_min: 100,
+            marker_height_min: 30,
+            marker_width_min: 100,
+            start_at_slide: 0,
+            language: 'fr'
+        };
+
+        // Variable globale pour la timeline
+        let timeline;
+
+        // Initialisation de la timeline
+        function initTimeline() {
+            timeline = new TL.Timeline('timeline-embed', timelineData, options);
+        }
+
+        // Fonction pour naviguer vers une période spécifique
+        function goToPeriod(slideIndex) {
+            if (timeline) {
+                timeline.goToId(slideIndex);
+            }
+        }
+
+        // Initialisation au chargement de la page
+        document.addEventListener('DOMContentLoaded', function() {
+            initTimeline();
+        });
+    </script>
+</body>
+</html>
