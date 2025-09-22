@@ -601,53 +601,53 @@ En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognit
 # 8. Bibliographie
 
 <a name="aljazari1206"></a>
-- al‑Jazarī, A. (1206). *Kitāb fī maʿrifat al-ḥiyal al-handasiyya* [Livre sur la connaissance des machines ingénieuses]
+- al-Jazarī, A. (1206). *Kitāb fī maʿrifat al-ḥiyal al-handasiyya* [Livre sur la connaissance des machines ingénieuses].
 <a name="apollonius"></a>
-- Apollonius de Rhodes. (s.d.). *Argonautiques* (IV, 1638‑1648)
+- Apollonius de Rhodes. (s.d.). *Argonautiques* (IV, 1638-1648).
 <a name="aristote"></a>
-- Aristote. (s.d.). *Premiers Analytiques* (I, 4)
+- Aristote. (s.d.). *Premiers analytiques* (I, 4).
 <a name="babbage1834"></a>
-- Babbage, C. (1834). *On the principles of the analytical engine* [Machine analytique]
+- Babbage, C. (1834). *On the principles of the analytical engine* [Manuscrit inédit].
 <a name="boole1854"></a>
-- Boole, G. (1854). An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities. *Macmillan*
+- Boole, G. (1854). *An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities*. Macmillan.
 <a name="brin1998"></a>
-- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. *Computer Networks and ISDN Systems*, 30(1-7), 107–117
+- Brin, S., & Page, L. (1998). The anatomy of a large-scale hypertextual web search engine. *Computer Networks and ISDN Systems*, 30(1–7), 107–117. https://doi.org/10.1016/S0169-7552(98)00110-X
 <a name="brown2020"></a>
-- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). Language models are few-shot learners. *Advances in Neural Information Processing Systems*, 33, 1877–1901
+- Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., … Amodei, D. (2020). Language models are few-shot learners. *Advances in Neural Information Processing Systems*, 33, 1877–1901.
 <a name="bymycar2025"></a>
-- Bymycar Webzine. (2025). Voiture autonome de niveau 5 : pour quand ?
+- Bymycar Webzine. (2025). Voiture autonome de niveau 5 : pour quand ? https://bymycar.fr
 <a name="caducee2016"></a>
-- Caducee.net. (2016, November 1). Cancérologie : l’IA Watson d’IBM fait déjà mieux que les médecins
+- Caducee.net. (2016, 1 novembre). Cancérologie : l’IA Watson d’IBM fait déjà mieux que les médecins. https://www.caducee.net
 <a name="capek1920"></a>
-- Čapek, K. (1920). *R.U.R.* (Rossum’s Universal Robots)
+- Čapek, K. (1920). *R.U.R. (Rossum’s Universal Robots)*. Aventinum.
 <a name="chen2021"></a>
-- Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision.*Proceedings of the 38th International Conference on Machine Learning* (ICML 2021), 139, 8748–8763. PMLR
+- Chen, M., Radford, A., Child, R., Wu, J., Jun, H., Luan, D., & Sutskever, I. (2021). Learning transferable visual models from natural language supervision. In *Proceedings of the 38th International Conference on Machine Learning* (Vol. 139, pp. 8748–8763). PMLR.
 <a name="cheval2018"></a>
 - Cheval, B., Tipura, E., Burra, N., Frossard, J., Chanal, J., Orsholits, D., Radel, R., & Boisgontier, M. P. (2018). Avoiding sedentary behaviors requires more cortical resources than avoiding physical activity: An EEG study. *Neuropsychologia*, 119, 68–80. https://doi.org/10.1016/j.neuropsychologia.2018.07.029
 <a name="crevier1993"></a>
-- Crevier, D. (1993). AI: The Tumultuous History of the Search for Artificial Intelligence. *Basic Books*
+- Crevier, D. (1993). *AI: The tumultuous history of the search for artificial intelligence*. Basic Books.
 <a name="devinci"></a>
-- de Vinci, L. (s.d.). *Codex Atlanticus*
+- de Vinci, L. (s.d.). *Codex Atlanticus* [Manuscrit].
 <a name="devlin2018"></a>
-- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805
+- Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. *arXiv preprint*, arXiv:1810.04805.
 <a name="diamond1997"></a>
-- Diamond, J. M. (1997). Guns, germs, and steel: The fates of human societies. *W.W. Norton & Company*
+- Diamond, J. M. (1997). *Guns, germs, and steel: The fates of human societies*. W. W. Norton & Company.
 <a name="dondi1365"></a>
-- Dondi, G. (1365–1381). Astrarium [Horloge astronomique]
+- Dondi, G. (1365–1381). *Astrarium* [Horloge astronomique].
 <a name="freeth2021"></a>
-- Freeth, T., Higgon, D., Dacanalis, A., et al. (2021). A Model of the Cosmos in the ancient Greek Antikythera Mechanism. *Scientific Reports*, 11, 5821. https://doi.org/10.1038/s41598-021-84310-w
+- Freeth, T., Higgon, D., Dacanalis, A., … Jones, A. (2021). A model of the cosmos in the ancient Greek Antikythera Mechanism. *Scientific Reports*, 11, 5821. https://doi.org/10.1038/s41598-021-84310-w
 <a name="friston2010"></a>
-- Friston, K. (2010). The free-energy principle: a unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138.
+- Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience*, 11(2), 127–138. https://doi.org/10.1038/nrn2787
 <a name="friston2016"></a>
-- Friston, K., Rosch, R., Parr, T., Price, C., & Bowman, H. (2016). Deep temporal models and active inference. *Neuroscience & Biobehavioral Reviews*, 68, 862–879.
+- Friston, K., Rosch, R., Parr, T., Price, C., & Bowman, H. (2016). Deep temporal models and active inference. *Neuroscience & Biobehavioral Reviews*, 68, 862–879. https://doi.org/10.1016/j.neubiorev.2016.06.013
 <a name="godel1931"></a>
 - Gödel, K. (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, 38(1), 173–198.
 <a name="gomez2015"></a>
-- Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix recommender system: Algorithms, business value, and innovation. *ACM Transactions on Management Information Systems*, 6(4), Article 13.
+- Gomez-Uribe, C. A., & Hunt, N. (2015). The Netflix recommender system: Algorithms, business value, and innovation. *ACM Transactions on Management Information Systems*, 6(4), Article 13. https://doi.org/10.1145/2843948
 <a name="goodfellow2014"></a>
-- Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., … & Bengio, Y. (2014). Generative adversarial nets. *Advances in Neural Information Processing Systems*, 27, 2672–2680.
+- Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., … Bengio, Y. (2014). Generative adversarial nets. *Advances in Neural Information Processing Systems*, 27, 2672–2680.
 <a name="google2015"></a>
-- Google Inc. (2015). An update on Glass. *Official Google Blog*.
+- Google Inc. (2015). An update on Glass. *Official Google Blog*. https://googleblog.blogspot.com
 <a name="gowlett2016"></a>
 - Gowlett, J. A. J. (2016). The discovery of fire by humans: A long and convoluted process. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 371(1696), 20150164. https://doi.org/10.1098/rstb.2015.0164
 <a name="harmand2015"></a>
@@ -655,108 +655,108 @@ En embrassant l’inférence active, la neuro-symbolique et l’ergonomie cognit
 <a name="heron"></a>
 - Héron d’Alexandrie. (s.d.). *Pneumatica*.
 <a name="hoffman2018"></a>
-- Hoffman, R. R., & Hancock, P. A. (2018). Deep learning and human factors: Tracks and applications. *Human Factors*, 60(8), 1171–1183.
+- Hoffman, R. R., & Hancock, P. A. (2018). Deep learning and human factors: Tracks and applications. *Human Factors*, 60(8), 1171–1183. https://doi.org/10.1177/0018720818770034
 <a name="hill1993"></a>
-- Hill, D. R. (1993). Islamic science and engineering. *Edinburgh University Press*.
+- Hill, D. R. (1993). *Islamic science and engineering*. Edinburgh University Press.
 <a name="hollerith1890"></a>
-- Hollerith, H. (1890). Tabulating machine for the U.S. Census [Machine à cartes perforées].
+- Hollerith, H. (1890). Tabulating machine for the U.S. *Census* [Machine à cartes perforées].
 <a name="idel1990"></a>
-- Idel, M. (1990). Golem: Jewish magical and mystical traditions on the artificial anthropoid. State University of New York Press
+- Idel, M. (1990). *Golem: Jewish magical and mystical traditions on the artificial anthropoid*. State University of New York Press.
 <a name="irobot2005"></a>
-- iRobot Corporation. (2005). Roomba user manual. iRobot.
+- iRobot Corporation. (2005). *Roomba user manual*. iRobot.
 <a name="jaquet1775"></a>
-- Jaquet-Droz, P., & Jaquet-Droz, H. (1775). Automates de Jaquet-Droz [Automates mécaniques]
+- Jaquet-Droz, P., & Jaquet-Droz, H. (1775). *Automates de Jaquet-Droz* [Automates mécaniques].
 <a name="jordan2015"></a>
-- Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects. Science, 349(6245), 255–260.
+- Jordan, M. I., & Mitchell, T. M. (2015). Machine learning: Trends, perspectives, and prospects. *Science*, 349(6245), 255–260. https://doi.org/10.1126/science.aaa8415
 <a name="kahneman2011"></a>
-- Kahneman, D. (2011). _Thinking, fast and slow_. Farrar, Straus and Giroux
+- Kahneman, D. (2011). *Thinking, fast and slow*. Farrar, Straus and Giroux.
 <a name="krizhevsky2012"></a>
-- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. Advances in Neural Information Processing Systems, 25, 1097–1105.
+- Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2012). ImageNet classification with deep convolutional neural networks. In F. Pereira, C. J. C. Burges, L. Bottou, & K. Q. Weinberger (Eds.), *Advances in Neural Information Processing Systems* (Vol. 25, pp. 1097–1105).
 <a name="leibniz1679"></a>
-- Leibniz, G. W. (1679). Explication de l’Arithmétique Binaire [Manuscrit].
+- Leibniz, G. W. (1679). *Explication de l’Arithmétique Binaire* [Manuscrit].
 <a name="lemonde2025"></a>
-- Le Monde. (2025). Non, les véhicules autonomes ne sont pas pour demain.
+- Le Monde. (2025). Non, les véhicules autonomes ne sont pas pour demain. https://www.lemonde.fr
 <a name="leroi1964"></a>
-- Leroi-Gourhan, A. (1964). Le geste et la parole. Albin Michel
+- Leroi-Gourhan, A. (1964). *Le geste et la parole*. Albin Michel.
 <a name="lewis2002"></a>
-- Lewis-Williams, D. (2002). The mind in the cave: Consciousness and the origins of art. Thames & Hudson
+- Lewis-Williams, D. (2002). *The mind in the cave: Consciousness and the origins of art*. Thames & Hudson.
 <a name="lighthill1973"></a>
-- Lighthill, J. (1973). Artificial Intelligence: A General Survey. Science Research Council.
+- Lighthill, J. (1973). Artificial intelligence: A general survey. *Science Research Council*.
 <a name="lindblom1990"></a>
-- Lindblom, B. (1990). Speaking about feelings: Conceptions of emotion across the life span. Psychology and Aging, 4(4), 517–523. https://doi.org/10.1037/0882-7974.4.4.517
-<a name="llull1305"></a> 
-- Llull, R. (vers 1305). Ars Magna [La Grande Art]
+- Lindblom, B. (1990). Speaking about feelings: Conceptions of emotion across the life span. *Psychology and Aging*, 4(4), 517–523. https://doi.org/10.1037/0882-7974.4.4.517
+<a name="llull1305"></a>
+- Llull, R. (c. 1305). *Ars Magna* [La Grande Art].
 <a name="lovelace1843"></a>
 - Lovelace, A. A. (1843). Notes sur la machine analytique de Charles Babbage.
 <a name="mao2019"></a>
-- Mao, J., Gan, C., Kohli, P., Tenenbaum, J. B., & Wu, J. (2019). Neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision. International Conference on Learning Representations.
+- Mao, J., Gan, C., Kohli, P., Tenenbaum, J. B., & Wu, J. (2019). Neuro-symbolic concept learner: Interpreting scenes, words, and sentences from natural supervision. *International Conference on Learning Representations (ICLR)*.
 <a name="mccarthy1956"></a>
-- McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1956). Proposal for the Dartmouth Summer Research Project on Artificial Intelligence. Unpublished manuscript.
+- McCarthy, J., Minsky, M. L., Rochester, N., & Shannon, C. E. (1956). *A proposal for the Dartmouth summer research project on artificial intelligence*. Unpublished manuscript, Dartmouth College.
 <a name="mcculloch1943"></a>
-- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. The Bulletin of Mathematical Biophysics, 5(4), 115–133.
+- McCulloch, W. S., & Pitts, W. (1943). A logical calculus of the ideas immanent in nervous activity. *The Bulletin of Mathematical Biophysics*, 5(4), 115–133. https://doi.org/10.1007/BF02478259
 <a name="mcdermott1982"></a>
-- McDermott, J. (1982). Rl-ml: A rule-based program for configuring computer systems. Artificial Intelligence, 19(1), 39–88.
+- McDermott, J. (1982). RL-ML: A rule-based program for configuring computer systems. *Artificial Intelligence*, 19(1), 39–88. https://doi.org/10.1016/0004-3702(82)90007-1
 <a name="millidge2020"></a>
-- Millidge, B., Tschantz, A., & Buckley, C. L. (2020). On the relationship between active inference and control as inference. Entropy, 22(4), 408.
+- Millidge, B., Tschantz, A., & Buckley, C. L. (2020). On the relationship between active inference and control as inference. *Entropy*, 22(4), 408. https://doi.org/10.3390/e22040408
 <a name="minsky1951"></a>
-- Minsky, M., & Edmonds, D. (1951). SNARC: A Neural Network Simulator. Report, MIT.
+- Minsky, M., & Edmonds, D. (1951). SNARC: A neural network simulator. Report, MIT.
 <a name="minsky1969"></a>
-- Minsky, M., & Papert, S. (1969). Perceptrons. MIT Press.
+- Minsky, M., & Papert, S. (1969). *Perceptrons*. MIT Press.
 <a name="newell1956"></a>
-- Newell, A., & Simon, H. A. (1956). The Logic Theorist: A program that simulates the human thought process. IRE Transactions on Information Theory, 2(3), 61–79.
+- Newell, A., & Simon, H. A. (1956). The Logic Theorist: A program that simulates the human thought process. *IRE Transactions on Information Theory*, 2(3), 61–79. https://doi.org/10.1109/TIT.1956.1056810
 <a name="openai2023"></a>
 - OpenAI. (2023, 14 mars). GPT-4 technical report. OpenAI. https://openai.com/research/gpt-4
 <a name="oregan2001"></a>
-- O’Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. Behavioral and Brain Sciences, 24(5), 939–973.
+- O’Regan, J. K., & Noë, A. (2001). A sensorimotor account of vision and visual consciousness. *Behavioral and Brain Sciences*, 24(5), 939–1031. https://doi.org/10.1017/S0140525X01000103
 <a name="ovide"></a>
-- Ovide. (s.d.). Métamorphoses (X, 243‑297)
+- Ovide. (s.d.). *Métamorphoses* (X, 243–297).
 <a name="paletta2013"></a>
-- Paletta, L., Swoboda, J., & Fritz, G. (2013). Active visual perception for human–robot interaction. Robotics and Autonomous Systems, 61(6), 558–569.
+- Paletta, L., Swoboda, J., & Fritz, G. (2013). Active visual perception for human–robot interaction. *Robotics and Autonomous Systems*, 61(6), 558–569. https://doi.org/10.1016/j.robot.2013.02.009
 <a name="pascal1642"></a>
-- Pascal, B. (1642). La Pascaline [Machine à calculer].
+- Pascal, B. (1642). *La Pascaline* [Machine à calculer].
 <a name="pearl1988"></a>
-- Pearl, J. (1988). Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. Morgan Kaufmann.
+- Pearl, J. (1988). *Probabilistic reasoning in intelligent systems: Networks of plausible inference*. Morgan Kaufmann.
 <a name="radford2018"></a>
 - Radford, A., Narasimhan, K., Salimans, T., & Sutskever, I. (2018). Improving language understanding by generative pre-training. OpenAI.
 <a name="raichle2022"></a>
-- Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain’s energy budget. Proceedings of the National Academy of Sciences, 99(16), 10237–10239. https://doi.org/10.1073/pnas.172399499
+- Raichle, M. E., & Gusnard, D. A. (2002). Appraising the brain’s energy budget. *Proceedings of the National Academy of Sciences*, 99(16), 10237–10239. https://doi.org/10.1073/pnas.172399499
 <a name="ramesh2021"></a>
-- Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). Zero-shot text-to-image generation. Proceedings of the 38th International Conference on Machine Learning (ICML 2021), 139, 8821–8831. PMLR.
+- Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., Chen, M., & Sutskever, I. (2021). Zero-shot text-to-image generation. In *Proceedings of the 38th International Conference on Machine Learning* (Vol. 139, pp. 8821–8831). PMLR.
 <a name="rosenblatt1958"></a>
-- Rosenblatt, F. (1958). The perceptron: A probabilistic model for information storage and organization in the brain. Psychological Review, 65(6), 386–408.
+- Rosenblatt, F. (1958). The perceptron: A probabilistic model for information storage and organization in the brain. *Psychological Review*, 65(6), 386–408. https://doi.org/10.1037/h0042519
 <a name="rumelahart1986"></a>
-- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. Nature, 323(6088), 533–536.
+- Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. *Nature*, 323(6088), 533–536. https://doi.org/10.1038/323533a0
 <a name="sae2018"></a>
-- SAE International. (2018). Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles (J3016_201806).
+- SAE International. (2018). *Taxonomy and definitions for terms related to driving automation systems for on-road motor vehicles (J3016_201806)*. SAE International. https://doi.org/10.4271/J3016_201806
 <a name="shannon1948"></a>
-- Shannon, C. E. (1948). A Mathematical Theory of Communication. Bell System Technical Journal, 27(3), 379–423.
+- Shannon, C. E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27(3), 379–423, 623–656. https://doi.org/10.1002/j.1538-7305.1948.tb01338.x
 <a name="shortliffe1976"></a>
-- Shortliffe, E. H. (1976). Computer-Based Medical Consultations: MYCIN. *Elsevier*
+- Shortliffe, E. H. (1976). *Computer-based medical consultations: MYCIN*. Elsevier.
 <a name="stat2017"></a>
-- Stat News. (2017, September 5). IBM’s Watson recommended ‘unsafe and incorrect’ cancer treatments, study finds.
+- Stat News. (2017, 5 septembre). IBM’s Watson recommended ‘unsafe and incorrect’ cancer treatments, study finds. https://www.statnews.com
 <a name="thomas1265"></a>
-- Thomas d’Aquin. (1265–1273). *Summa Theologica* [Somme théologique]
+- Thomas d’Aquin. (1265–1273). *Summa Theologica* [Somme théologique].
 <a name="turing1936"></a>
 - Turing, A. M. (1936). On computable numbers, with an application to the Entscheidungsproblem. *Proceedings of the London Mathematical Society*, 2(42), 230–265.
 <a name="turing1950"></a>
-- Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433–460.
+- Turing, A. M. (1950). Computing machinery and intelligence. *Mind*, 59(236), 433–460. https://doi.org/10.1093/mind/LIX.236.433
 <a name="vaswani2017"></a>
-- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … & Polosukhin, I. (2017). Attention Is all you need. *Advances in Neural Information Processing Systems*, 30, 5998–6008.
+- Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., … Polosukhin, I. (2017). Attention is all you need. In I. Guyon, U. V. Luxburg, S. Bengio, H. Wallach, R. Fergus, S. Vishwanathan, & R. Garnett (Eds.), *Advances in Neural Information Processing Systems* (Vol. 30, pp. 5998–6008).
 <a name="vidal2018"></a>
-- Vidal, M., & Piater, J. (2018). Beyond pixels: A comprehensive survey from visual recognition to cognition. Artificial Intelligence, 258, 66–115. https://doi.org/10.1016/j.artint.2018.01.004
+- Vidal, M., & Piater, J. (2018). Beyond pixels: A comprehensive survey from visual recognition to cognition. *Artificial Intelligence*, 258, 66–115. https://doi.org/10.1016/j.artint.2018.01.004
 <a name="von1945"></a>
-- von Neumann, J. (1945). First Draft of a Report on the EDVAC. University of Pennsylvania.
+- von Neumann, J. (1945). *First Draft of a Report on the EDVAC*. University of Pennsylvania.
 <a name="wiener1948"></a>
-- Wiener, N. (1948). Cybernetics: Or Control and Communication in the Animal and the Machine. MIT Press.
+- Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
 <a name="white1962"></a>
-- White, L. T. Jr. (1962). Medieval technology and social change. Oxford University Press.
+- White, L. T., Jr. (1962). *Medieval technology and social change*. Oxford University Press.
 <a name="whitehead1910"></a>
-- Whitehead, A. N., & Russell, B. (1910–1913). Principia Mathematica (Vols. I–III). Cambridge University Press.
+- Whitehead, A. N., & Russell, B. (1910–1913). *Principia Mathematica* (Vols. I–III). Cambridge University Press.
 <a name="wickens2008"></a>
-- Wickens, C. D. (2008). Engineering psychology and human performance (4ème éd.). Pearson.
+- Wickens, C. D. (2008). *Engineering psychology and human performance* (4th ed.). Pearson.
 <a name="wrangham2009"></a>
-- Wrangham, R. (2009). Shallow-water habitats as sources of fallback foods for hominins. American Journal of Physical Anthropology, 140(4), 630–642. https://doi.org/10.1002/ajpa.21122
+- Wrangham, R. (2009). Shallow-water habitats as sources of fallback foods for hominins. *American Journal of Physical Anthropology*, 140(4), 630–642. https://doi.org/10.1002/ajpa.21122
 <a name="yarbus1967"></a>
-- Yarbus, A. L. (1967). Eye Movements and Vision. Plenum Press.
+- Yarbus, A. L. (1967). *Eye Movements and Vision*. Plenum Press.
 <a name="yudkowsky2020"></a>
-- Yudkowsky, E. (2020). Coordination problem for beneficial AI. AI Alignment Forum.
+- Yudkowsky, E. (2020). Coordination problem for beneficial AI. *AI Alignment Forum*. https://www.alignmentforum.org
