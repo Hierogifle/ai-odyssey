@@ -12,7 +12,10 @@
    <img src="images/partie1/odysse.png" alt="Odyssée de l'IA" style="width: 80%; max-width: 900px;">
 </div>
 <br>
-<h1 style="text-align: center;"><em> Des Origines Anthropologiques aux Horizons Contemporains </em></h1> <!-- omit in toc -->
+<h1 style="text-align: center;">
+  <em>Des Origines Anthropologiques</em><br>
+  <em>aux Horizons Contemporains</em>
+</h1> <!-- omit in toc -->
 <br>
 <br>
 <br>
