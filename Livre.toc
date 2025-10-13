@@ -1,0 +1,6 @@
+\babel@toc {french}{}\relax 
+\contentsline {section}{\numberline {0.1}Préface}{3}{section.0.1}%
+\contentsline {section}{\numberline {0.2}Introduction}{6}{section.0.2}%
+\contentsline {section}{\numberline {0.3}TOME I : GENÈSE ET FONDEMENTS HISTORIQUES}{6}{section.0.3}%
+\contentsline {subsection}{\numberline {0.3.1}PARTIE I : Genèse Anthropologique - L'Éveil du Fainéant}{6}{subsection.0.3.1}%
+\contentsline {subsubsection}{Chapitre 1 : Bipédie et libération cognitive (4 Ma - 200 000 ans)}{6}{section*.2}%

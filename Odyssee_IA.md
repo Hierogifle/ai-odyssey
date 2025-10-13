@@ -28,42 +28,46 @@
 
 <div style="page-break-after: always;"></div>
 
-## Objectif <!-- omit in toc -->
+© 2025 Romuald Courtois
 
-Retracer l'évolution de l'intelligence artificielle, depuis les fondements anthropologiques et cognitifs de l'Homme jusqu'aux perspectives futures, afin de comprendre comment la quête d'optimisation et de simplification a façonné les outils, les machines et, aujourd'hui, l'IA (Intelligence Artificielle).
-<br>
-<br>
-<br>
+Tous droits réservés. Aucune partie de ce livre ne peut être reproduite, stockée dans un système de récupération, ou transmise sous aucune forme ni aucun moyen, électronique, mécanique, photocopie, enregistrement ou autre, sans l’autorisation écrite préalable de l’auteur, sauf dans les cas prévus par la loi (citations, critiques, usages pédagogiques).
 
-## Idée directrice <!-- omit in toc -->
+ISBN : [Votre numéro ISBN]
 
-L'histoire de l'IA est l'histoire de l'*"éternel fainéant ambitieux"* : l'Homme, en cherchant à économiser son énergie, a sans cesse inventé de nouvelles solutions techniques, ouvrant ainsi des possibilités inédites. Cette logique d'extension et de délégation culmine dans les technologies d'intelligence artificielle contemporaines.
-<br>
-<br>
-<br>
+Dépôt légal : 23/09/2025
 
-## Valeur ajoutée <!-- omit in toc -->
+Édition : Auto-édition
 
-- Approche chronologique et conceptuelle, reliant innovations techniques, contexte culturel et impact sociétal
-- Mise en lumière du fil rouge anthropologique : la paresse comme moteur d'innovation
-- Ouverture sur les défis futurs : éthique, gouvernance, durabilité
+Adresse de l’auteur / de l’éditeur :
+151 Traverse de la Gouffonne, 13009 MARSEILLE
+
+Pour obtenir une autorisation de reproduction ou pour toute question relative aux droits, veuillez contacter :
+romuald.courtois@proton.me
+
+Les noms de marques, logos, produits ou institutions mentionnés dans ce livre sont la propriété de leurs détenteurs respectifs.
+
+La couverture a été réalisée par : Romuald Courtois
 
 <div style="page-break-after: always;"></div>
 
-<br>
-<br>
-<br>
 
 # Préface <!-- omit in toc -->
 
-Depuis toujours, l’humanité rêve d’un allié idéal : une intelligence infinie mais paresseuse, capable de grands progrès avec peu d’efforts — ce que j’appelle ici « l’éternel fainéant ambitieux ». Cette métaphore éclaire notre rapport ambivalent à l’intelligence artificielle : fascination pour ses promesses, crainte pour ses dérives.
+Dans chaque avancée technologique, dans chaque progrès de la pensée humaine, se cache un paradoxe fascinant : celui de l’éternel fainéant ambitieux. Ce livre s’articule autour de cette idée directrice, selon laquelle l’humanité, portée par une ambition immense, cherche depuis toujours à alléger ses efforts par l’externalisation de ses capacités — qu’elles soient physiques, intellectuelles ou créatives. Nous sommes à la fois poussés par la paresse, ce désir de faciliter notre quotidien, et par une soif infinie d’innovation, de conquête intellectuelle.
+
+L’histoire de l’intelligence artificielle est de fait une illustration parfaite de ce double mouvement. Depuis les premiers automates antiques jusqu’aux réseaux neuronaux profonds d’aujourd’hui, cette quête révèle non seulement notre envie d’économiser l’énergie humaine, mais aussi notre rêve de transcender nos limites cognitifs. Ce livre retrace cette odyssée passionnante, mêlant récits historiques, analyses techniques et réflexions éthiques.
+
+À travers la figure de ce "fainéant ambitieux", j’espère porter un regard à la fois critique et bienveillant sur les innovations majeures, en montrant comment chaque invention est à la fois un outil pour réduire l’effort et un levier d’ambition démesurée. Il invite le lecteur à comprendre que derrière chaque progrès, derrière chaque machine intelligente, il y a une humanité impatiente qui cherche inlassablement à se simplifier la vie… tout en repoussant ses propres frontières.
+
+Que cet ouvrage nourrisse la curiosité, stimule la réflexion et éclaire le chemin vers une intelligence artificielle enfin alignée avec nos valeurs et nos besoins profonds.
 
 > *L'intelligence artificielle n'est pas une innovation du XXe siècle, mais l'aboutissement de 40 000 ans de recherche humaine pour créer des extensions de nos capacités cognitives et physiques.*
 
 <div style="page-break-after: always;"></div>
 
-## Table des matières <!-- omit in toc -->
+# Table des matières <!-- omit in toc -->
 
+- [Introduction](#introduction)
 - [PARTIE I : Fondations anthropologiques et mythologiques](#partie-i--fondations-anthropologiques-et-mythologiques)
   - [1. L'éternel fainéant ambitieux : économie d'énergie cognitive et paresse créative](#1-léternel-fainéant-ambitieux--économie-dénergie-cognitive-et-paresse-créative)
   - [2. Préhistoire \& Antiquité : du mythe aux premières machines logiques](#2-préhistoire--antiquité--du-mythe-aux-premières-machines-logiques)
@@ -104,6 +108,20 @@ Depuis toujours, l’humanité rêve d’un allié idéal : une intelligence inf
   - [23. Évolution de l’éthique de l’IA](#23-évolution-de-léthique-de-lia)
 - [Conclusion](#conclusion)
 - [8. Bibliographie](#8-bibliographie)
+
+<div style="page-break-after: always;"></div>
+
+# Introduction
+
+L’intelligence artificielle, souvent perçue comme une révolution contemporaine, est en réalité l’aboutissement d’une quête profondément ancrée dans l’histoire même de l’humanité, bien avant l’invention des premiers outils sophistiqués. Pour comprendre pleinement cette trajectoire, il faut remonter jusqu’aux origines de notre espèce, à ce moment clé où nos ancêtres ont commencé à se redresser, posant ainsi les premières pierres d’un cheminement qui allait transformer non seulement leur corps, mais aussi leur esprit.
+
+Le passage à la bipédie, il y a plus de 4 millions d’années, a libéré les mains tout en stimulant les possibilités cognitives, ouvrant la voie à la fabrication d’outils rudimentaires. Ces premières externalisations des fonctions physiques incarnent déjà la dynamique que l’on retrouve dans l’intelligence artificielle : réduire la charge corporelle ou mentale par l’usage d’artefacts externes. Cette ambition de « paresse créative » est à l’origine de toutes les technologies, et en filigrane de l’émergence des processus cognitifs complexes qui caractérisent notre espèce.
+
+Ce livre propose donc de retracer l’odyssée de l’IA en partant de ce moment fondamental où l’humanité s’est levée, au propre et au figuré, jusqu’aux dernières innovations numériques actuelles. Il s’agit d’un voyage mêlant anthropologie, technologie, philosophie et éthique, qui éclaire comment, à chaque époque, le désir d’alléger l’effort s’est conjugué à une ambitieuse vision d’extension des capacités humaines.
+
+À travers la notion de « l’éternel fainéant ambitieux », vous découvrirez comment cette dualité originelle continue de guider nos inventions et leurs implications. Ce n’est pas seulement une histoire de machines, mais celle du regard humain sur lui-même, sur ses potentialités et ses limites.
+
+Bienvenue dans cette plongée aux origines, à la source de toute intelligence, humaine et artificielle.
 
 <div style="page-break-after: always;"></div>
 

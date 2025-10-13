@@ -1,0 +1,155 @@
+\documentclass[12pt,a4paper]{book}
+
+% ----- Encodage & langues -----
+\usepackage[utf8]{inputenc}    % Encodage UTF-8
+\usepackage[T1]{fontenc}       % Meilleure gestion des accents
+\usepackage[french]{babel}     % Langue du document (français)
+
+% ----- Police -----
+\usepackage{lmodern}           % Police Latin Modern (propre et lisible)
+%\usepackage{mathpazo}         % Option : police Palatino
+%\usepackage{times}            % Option : police Times
+
+% ----- Mise en page -----
+\usepackage[a4paper,margin=2.5cm]{geometry} % Marges
+
+% ----- Liens cliquables -----
+\usepackage[hidelinks]{hyperref} % Liens URL et références
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=cyan,
+    citecolor=red
+}
+
+% ----- Table des matières -----
+\setcounter{tocdepth}{2} % Profondeur de la ToC (sections, sous-sections, etc.)
+
+% ----- Autres utiles -----
+\usepackage{graphicx}     % Pour insérer des images
+\usepackage{amsmath,amssymb} % Maths
+\usepackage{enumitem}     % Listes personnalisées
+\usepackage{fancyhdr}     % En-têtes et pieds de page
+\usepackage{setspace}     % Interligne
+\onehalfspacing           % Interligne 1.5
+\usepackage{titling}
+\usepackage{epigraph}
+\usepackage[most]{tcolorbox}
+\usepackage{xcolor}
+\usepackage{mdframed}
+\usepackage{textcomp}
+
+% Définition d'une citation décorative
+\newmdenv[
+    backgroundcolor=gray!8,    % Fond gris très clair
+    linewidth=0pt,             % Pas de bordure
+    leftmargin=0pt,            % Supprime les marges automatiques
+    rightmargin=0pt,
+    innerleftmargin=2em,       % Marge interne gauche
+    innerrightmargin=2em,      % Marge interne droite
+    innertopmargin=1em,
+    innerbottommargin=1em,
+    roundcorner=5pt,
+    font=\itshape\centering,   % Italique et centré
+    align=center,              % Centre la boîte elle-même
+    userdefinedwidth=0.7\textwidth  % Largeur définie (70% du texte)
+]{citationmd}
+
+
+% ----- Infos du document -----
+
+\title{L'Odyssée de l'Intelligence Artificielle}
+
+\author{\textit{Des Origines Anthropologiques aux Horizons Contemporains} \\ \\ Romuald Courtois}
+
+\date{\today}
+
+
+% ----- Début du document -----
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\begin{center}
+2025 Romuald Courtois
+
+\bigskip
+
+Tous droits réservés. Aucune partie de ce livre ne peut être reproduite, stockée dans un système de récupération, ou transmise sous aucune forme ni aucun moyen, électronique, mécanique, photocopie, enregistrement ou autre, sans l'autorisation écrite préalable de l'auteur, sauf dans les cas prévus par la loi (citations, critiques, usages pédagogiques).
+
+\bigskip
+
+ISBN : [Votre numéro ISBN]
+
+\bigskip
+
+Dépôt légal : 23/09/2025
+
+\bigskip
+
+Édition : Auto-édition
+
+\bigskip
+
+Adresse de l'auteur / de l'éditeur :\\
+151 Traverse de la Gouffonne, 13009 MARSEILLE
+
+\bigskip
+
+Pour obtenir une autorisation de reproduction ou pour toute question relative aux droits, veuillez contacter :\\
+romuald.courtois.at.proton.me
+
+\bigskip
+
+Les noms de marques, logos, produits ou institutions mentionnés dans ce livre sont la propriété de leurs détenteurs respectifs.
+
+\bigskip
+
+La couverture a été réalisée par : Romuald Courtois
+\end{center}
+
+\newpage
+
+\section{Préface}
+
+Dans chaque avancée technologique, dans chaque progrès de la pensée humaine, se cache un paradoxe fascinant : celui de l'éternel fainéant ambitieux. Ce livre s'articule autour de cette idée directrice, selon laquelle l'humanité, portée par une ambition immense, cherche depuis toujours à alléger ses efforts par l'externalisation de ses capacités — qu'elles soient physiques, intellectuelles ou créatives. Nous sommes à la fois poussés par la paresse, ce désir de faciliter notre quotidien, et par une soif infinie d'innovation, de conquête intellectuelle.
+\\ \\
+L'histoire de l'intelligence artificielle est de fait une illustration parfaite de ce double mouvement. Depuis les premiers automates antiques jusqu'aux réseaux neuronaux profonds d'aujourd'hui, cette quête révèle non seulement notre envie d'économiser l'énergie humaine, mais aussi notre rêve de transcender nos limites cognitifs. Ce livre retrace cette odyssée passionnante, mêlant récits historiques, analyses techniques et réflexions éthiques.
+\\ \\
+À travers la figure de ce "fainéant ambitieux", j'espère porter un regard à la fois critique et bienveillant sur les innovations majeures, en montrant comment chaque invention est à la fois un outil pour réduire l'effort et un levier d'ambition démesurée. Il invite le lecteur à comprendre que derrière chaque progrès, derrière chaque machine intelligente, il y a une humanité impatiente qui cherche inlassablement à se simplifier la vie… tout en repoussant ses propres frontières.
+\\ \\
+Que cet ouvrage nourrisse la curiosité, stimule la réflexion et éclaire le chemin vers une intelligence artificielle enfin alignée avec nos valeurs et nos besoins profonds.
+\\
+\begin{citationmd}
+\centering\itshape\large
+"L'homme est un éternel fainéant ambitieux : trop paresseux pour accepter la répétition, trop intelligent pour accepter l'inefficacité. C'est cette contradiction qui nous a menés de l'outil de pierre aux neurones artificiels."
+\end{citationmd}
+
+\newpage 
+
+\tableofcontents
+
+\newpage
+
+\section{Introduction}
+
+L'intelligence artificielle, souvent perçue comme une révolution contemporaine, est en réalité l'aboutissement d'une quête profondément ancrée dans l'histoire même de l'humanité, bien avant l'invention des premiers outils sophistiqués. Pour comprendre pleinement cette trajectoire, il faut remonter jusqu'aux origines de notre espèce, à ce moment clé où nos ancêtres ont commencé à se redresser, posant ainsi les premières pierres d'un cheminement qui allait transformer non seulement leur corps, mais aussi leur esprit.
+
+Le passage à la bipédie, il y a plus de 4 millions d'années, a libéré les mains tout en stimulant les possibilités cognitives, ouvrant la voie à la fabrication d'outils rudimentaires. Ces premières externalisations des fonctions physiques incarnent déjà la dynamique que l'on retrouve dans l'intelligence artificielle : réduire la charge corporelle ou mentale par l'usage d'artefacts externes. Cette ambition de « paresse créative » est à l'origine de toutes les technologies, et en filigrane de l'émergence des processus cognitifs complexes qui caractérisent notre espèce.
+
+Ce livre propose donc de retracer l'odyssée de l'IA en partant de ce moment fondamental où l'humanité s'est levée, au propre et au figuré, jusqu'aux dernières innovations numériques actuelles. Il s'agit d'un voyage mêlant anthropologie, technologie, philosophie et éthique, qui éclaire comment, à chaque époque, le désir d'alléger l'effort s'est conjugué à une ambitieuse vision d'extension des capacités humaines.
+
+À travers la notion de « l'éternel fainéant ambitieux », vous découvrirez comment cette dualité originelle continue de guider nos inventions et leurs implications. Ce n'est pas seulement une histoire de machines, mais celle du regard humain sur lui-même, sur ses potentialités et ses limites.
+
+Bienvenue dans cette plongée aux origines, à la source de toute intelligence, humaine et artificielle.
+
+\section{TOME I : GENÈSE ET FONDEMENTS HISTORIQUES}
+
+\subsection{PARTIE I : Genèse Anthropologique - L'Éveil du Fainéant}
+
+\subsubsection{Chapitre 1 : Bipédie et libération cognitive (4 Ma - 200 000 ans)}
+
+\end{document}
