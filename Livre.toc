@@ -1,163 +1,398 @@
 \babel@toc {french}{}\relax 
 \contentsline {chapter}{Préface}{3}{chapter*.1}%
-\contentsline {chapter}{Introduction}{11}{chapter*.3}%
-\contentsline {part}{I\hspace {1em}GENÈSE ET FONDEMENTS HISTORIQUES}{13}{part.1}%
-\contentsline {chapter}{\numberline {1}Genèse Anthropologique - L'Éveil du Fainéant}{15}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Bipédie et libération cognitive (4 Ma - 200 000 ans)}{15}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Premiers outils lithiques et externalisation motrice}{15}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Révolution cognitive et pensée symbolique (70 000 - 10 000 ans)}{15}{section.1.3}%
-\contentsline {section}{\numberline {1.4}Néolithique, spécialisation et division du travail}{15}{section.1.4}%
-\contentsline {chapter}{\numberline {2}Civilisations Antiques et Mécanisation Primitive}{17}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Mésopotamie - Calculs, abaques et premiers algorithmes}{17}{section.2.1}%
-\contentsline {section}{\numberline {2.2}Égypte - Mathématiques, ingénierie et automatisation}{17}{section.2.2}%
-\contentsline {section}{\numberline {2.3}Grèce - Logique, philosophie et automates mécaniques}{17}{section.2.3}%
-\contentsline {section}{\numberline {2.4}Rome - Ingénierie, hydraulique et machines complexes}{17}{section.2.4}%
-\contentsline {chapter}{\numberline {3}Synthèses Orientales et Renaissance Islamique}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Inde - Mathématiques, logique et premiers concepts algorithmiques}{19}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Chine ancienne - Boulier, poudre et automates mécaniques}{19}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Islam - Traductions, mathématiques et premiers ordinateurs mécaniques}{19}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Transmission vers l'Europe - Textes, écoles et premiers penseurs}{19}{section.3.4}%
-\contentsline {chapter}{\numberline {4}Renaissance Européenne et Révolution Scientifique}{21}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Léonard de Vinci - Automates et machines programmables}{21}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Révolution astronomique - Kepler, calculs et précision}{21}{section.4.2}%
-\contentsline {section}{\numberline {4.3}Pascal et Leibniz - Premières machines à calculer}{21}{section.4.3}%
-\contentsline {section}{\numberline {4.4}Newton et la mathématisation du monde}{21}{section.4.4}%
-\contentsline {chapter}{\numberline {5}Siècle des Lumières et Mécanisation}{23}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Automates de Vaucanson et illusion de vie}{23}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Encyclopédie et diffusion des techniques}{23}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Révolution industrielle - Métiers mécaniques et automation}{23}{section.5.3}%
-\contentsline {section}{\numberline {5.4}Jacquard - Programmation par cartes perforées}{23}{section.5.4}%
-\contentsline {chapter}{\numberline {6}XIXe Siècle - Émergence de l'Information}{25}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Babbage et Lovelace - Machines analytiques}{25}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Boole - Algèbre logique et fondements booléens}{25}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Maxwell, thermodynamique et théorie de l'information}{25}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Télégraphie, codes et transmission}{25}{section.6.4}%
-\contentsline {part}{II\hspace {1em}NAISSANCE ET DÉVELOPPEMENT DE L'IA MODERNE}{27}{part.2}%
-\contentsline {chapter}{\numberline {7}XXe Siècle - Fondements Théoriques}{29}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Hilbert et formalisme mathématique}{29}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Gödel - Limites de la démonstration automatique}{29}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Turing - Calculabilité et machines universelles}{29}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Von Neumann - Architecture et automates cellulaires}{29}{section.7.4}%
-\contentsline {chapter}{\numberline {8}Naissance Officielle de l'IA (1940-1960)}{31}{chapter.8}%
-\contentsline {section}{\numberline {8.1}McCulloch-Pitts et neurones formels}{31}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Wiener et cybernétique}{31}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Shannon et théorie de l'information}{31}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Conférence de Dartmouth et manifeste fondateur}{31}{section.8.4}%
-\contentsline {chapter}{\numberline {9}Première Génération - Optimisme Symbolique}{33}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Logic Theorist et résolution automatique}{33}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Perceptron et apprentissage connexionniste}{33}{section.9.2}%
-\contentsline {section}{\numberline {9.3}LISP et programmation symbolique}{33}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Premiers systèmes experts et bases de connaissances}{33}{section.9.4}%
-\contentsline {chapter}{\numberline {10}Premier Hiver et Remises en Question (1970-1980)}{35}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Rapport Lighthill et crise de confiance}{35}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Limites des perceptrons (Minsky-Papert)}{35}{section.10.2}%
-\contentsline {section}{\numberline {10.3}Complexité computationnelle et problèmes NP}{35}{section.10.3}%
-\contentsline {section}{\numberline {10.4}Échec des promesses et réduction des financements}{35}{section.10.4}%
-\contentsline {chapter}{\numberline {11}Renaissance des Systèmes Experts (1980-1990)}{37}{chapter.11}%
-\contentsline {section}{\numberline {11.1}MYCIN et diagnostic médical automatisé}{37}{section.11.1}%
-\contentsline {section}{\numberline {11.2}DENDRAL et analyse chimique}{37}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Ingénierie de la connaissance et ontologies}{37}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Marché commercial et désillusions}{37}{section.11.4}%
-\contentsline {chapter}{\numberline {12}Révolution Statistique et Second Hiver}{39}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Réseaux de neurones et rétropropagation}{39}{section.12.1}%
-\contentsline {section}{\numberline {12.2}Réseaux bayésiens et raisonnement probabiliste}{39}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Machine Learning et approches data-driven}{39}{section.12.3}%
-\contentsline {section}{\numberline {12.4}Deep Blue vs Kasparov - Calcul brut vs intuition (1997)}{39}{section.12.4}%
-\contentsline {part}{III\hspace {1em}RÉVOLUTION CONTEMPORAINE ET IMPACTS SOCIÉTAUX}{41}{part.3}%
-\contentsline {chapter}{\numberline {13}Internet et Renaissance des Données (2000-2010)}{43}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Web sémantique et ontologies distribuées}{43}{section.13.1}%
-\contentsline {section}{\numberline {13.2}Big Data et nouveaux paradigmes d'apprentissage}{43}{section.13.2}%
-\contentsline {section}{\numberline {13.3}Google et PageRank - IA comme service}{43}{section.13.3}%
-\contentsline {section}{\numberline {13.4}Réseaux sociaux et intelligence collective}{43}{section.13.4}%
-\contentsline {chapter}{\numberline {14}Deep Learning et Révolution Connexionniste}{45}{chapter.14}%
-\contentsline {section}{\numberline {14.1}AlexNet et renaissance des CNN (2012)}{45}{section.14.1}%
-\contentsline {section}{\numberline {14.2}GANs et génération de contenu artificiel}{45}{section.14.2}%
-\contentsline {section}{\numberline {14.3}RNN, LSTM et modélisation séquentielle}{45}{section.14.3}%
-\contentsline {section}{\numberline {14.4}Révolution Transformers et mécanismes d'attention}{45}{section.14.4}%
-\contentsline {chapter}{\numberline {15}IA Générative et Démocratisation (2017-2025)}{47}{chapter.15}%
-\contentsline {section}{\numberline {15.1}GPT et génération de texte à grande échelle}{47}{section.15.1}%
-\contentsline {section}{\numberline {15.2}DALL-E et création d'images automatisée}{47}{section.15.2}%
-\contentsline {section}{\numberline {15.3}ChatGPT et interface conversationnelle grand public (2022)}{47}{section.15.3}%
-\contentsline {section}{\numberline {15.4}Codex et programmation assistée par IA}{47}{section.15.4}%
-\contentsline {chapter}{\numberline {16}Succès Médiatisés et Révolutions Sectorielles}{49}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Netflix Recommandations - Révolution de la personnalisation (2006)}{49}{section.16.1}%
-\contentsline {section}{\numberline {16.2}AlphaGo vs Lee Sedol - Maîtrise du jeu de Go (2016)}{49}{section.16.2}%
-\contentsline {section}{\numberline {16.3}AlphaFold - Révolution en biologie structurale (2020)}{49}{section.16.3}%
-\contentsline {section}{\numberline {16.4}GitHub Copilot - IA collaborative en programmation (2021)}{49}{section.16.4}%
-\contentsline {chapter}{\numberline {17}Échecs Médiatisés et Leçons Critiques}{51}{chapter.17}%
-\contentsline {section}{\numberline {17.1}Accident Tesla Autopilot - Limites de la conduite autonome (2016)}{51}{section.17.1}%
-\contentsline {section}{\numberline {17.2}Tay de Microsoft - Dérapage raciste en 24h (2016)}{51}{section.17.2}%
-\contentsline {section}{\numberline {17.3}Reconnaissance faciale biaisée - Amazon Rekognition (2018)}{51}{section.17.3}%
-\contentsline {section}{\numberline {17.4}Zillow iBuying - Algorithmes immobiliers défaillants (2021)}{51}{section.17.4}%
-\contentsline {section}{\numberline {17.5}ChatGPT et hallucinations juridiques (2023)}{51}{section.17.5}%
-\contentsline {section}{\numberline {17.6}McDonald's Drive-AI - Abandon commercial (2024)}{51}{section.17.6}%
-\contentsline {chapter}{\numberline {18}IA Militaire et Géopolitique}{53}{chapter.18}%
-\contentsline {section}{\numberline {18.1}Systèmes d'armes autonomes (LAWS) et débat éthique}{53}{section.18.1}%
-\contentsline {section}{\numberline {18.2}Cyberguerre et IA défensive/offensive}{53}{section.18.2}%
-\contentsline {section}{\numberline {18.3}Course géopolitique USA-Chine-Europe}{53}{section.18.3}%
-\contentsline {section}{\numberline {18.4}Surveillance de masse et contrôle social}{53}{section.18.4}%
-\contentsline {part}{IV\hspace {1em}DIMENSIONS HUMAINES ET PROSPECTIVE}{55}{part.4}%
-\contentsline {chapter}{\numberline {19}Approches Bio-Inspirées et Active Inference}{57}{chapter.19}%
-\contentsline {section}{\numberline {19.1}Friston et Free Energy Principle}{57}{section.19.1}%
-\contentsline {section}{\numberline {19.2}Active Inference et anticipation prédictive}{57}{section.19.2}%
-\contentsline {section}{\numberline {19.3}Neurosciences computationnelles et modélisation cérébrale}{57}{section.19.3}%
-\contentsline {section}{\numberline {19.4}Réseaux de neurones évolutionnistes}{57}{section.19.4}%
-\contentsline {chapter}{\numberline {20}Facteurs Humains et Ergonomie Cognitive}{59}{chapter.20}%
-\contentsline {section}{\numberline {20.1}IHM et interfaces adaptatifs}{59}{section.20.1}%
-\contentsline {section}{\numberline {20.2}Lecture des intentions par eye-tracking}{59}{section.20.2}%
-\contentsline {section}{\numberline {20.3}Cognition énactive et robotique incarnée}{59}{section.20.3}%
-\contentsline {section}{\numberline {20.4}Charge cognitive et optimisation des performances}{59}{section.20.4}%
-\contentsline {chapter}{\numberline {21}Interfaces Cerveau-IA et Augmentation Cognitive}{61}{chapter.21}%
-\contentsline {section}{\numberline {21.1}Neuralink et interfaces implantées - Progrès et risques}{61}{section.21.1}%
-\contentsline {section}{\numberline {21.2}Délestage cognitif - Dépendance et atrophie des capacités}{61}{section.21.2}%
-\contentsline {section}{\numberline {21.3}IA thérapeutique - Santé mentale, autisme, réhabilitation}{61}{section.21.3}%
-\contentsline {section}{\numberline {21.4}Biais cognitifs humains reproduits par l'IA}{61}{section.21.4}%
-\contentsline {chapter}{\numberline {22}Les Oubliés de la Révolution IA}{63}{chapter.22}%
-\contentsline {section}{\numberline {22.1}Pionniers invisibles - Femmes en IA (Ada Lovelace revisitée)}{63}{section.22.1}%
-\contentsline {section}{\numberline {22.2}Contributeurs non-occidentaux souvent occultés}{63}{section.22.2}%
-\contentsline {section}{\numberline {22.3}Populations rurales et seniors face à l'IA}{63}{section.22.3}%
-\contentsline {section}{\numberline {22.4}Travailleurs du clic et main-d'œuvre cachée}{63}{section.22.4}%
-\contentsline {chapter}{\numberline {23}Transformation Sociétale et Économique}{65}{chapter.23}%
-\contentsline {section}{\numberline {23.1}Remplacement d'emplois et nouvelles professions}{65}{section.23.1}%
-\contentsline {section}{\numberline {23.2}Fracture numérique et inégalités d'accès}{65}{section.23.2}%
-\contentsline {section}{\numberline {23.3}IA générative et propriété intellectuelle}{65}{section.23.3}%
-\contentsline {section}{\numberline {23.4}Économie de l'attention et manipulation comportementale}{65}{section.23.4}%
-\contentsline {chapter}{\numberline {24}IA Créative et Patrimoine Culturel}{67}{chapter.24}%
-\contentsline {section}{\numberline {24.1}IA générative artistique - DALL-E, Midjourney, Stable Diffusion}{67}{section.24.1}%
-\contentsline {section}{\numberline {24.2}Littérature et IA - GPT-poetry, co-écriture}{67}{section.24.2}%
-\contentsline {section}{\numberline {24.3}Préservation du patrimoine - Numérisation, restauration virtuelle}{67}{section.24.3}%
-\contentsline {section}{\numberline {24.4}Déformation historique - Risques pour la mémoire collective}{67}{section.24.4}%
-\contentsline {chapter}{\numberline {25}Convergences Technologiques Émergentes}{69}{chapter.25}%
-\contentsline {section}{\numberline {25.1}Informatique quantique et IA - D-Wave, IBM Q}{69}{section.25.1}%
-\contentsline {section}{\numberline {25.2}Technologie quantique : principes et avancées récentes}{69}{section.25.2}%
-\contentsline {section}{\numberline {25.3}IA + Biotechnologies - Drug discovery, thérapies géniques}{69}{section.25.3}%
-\contentsline {section}{\numberline {25.4}IA + Nanotechnologies - Smart materials, médecine régénérative}{69}{section.25.4}%
-\contentsline {section}{\numberline {25.5}Internet des Objets intelligent - Edge computing, IA embarquée}{69}{section.25.5}%
-\contentsline {chapter}{\numberline {26}IA et Environnement}{71}{chapter.26}%
-\contentsline {section}{\numberline {26.1}Empreinte carbone de l'IA - Datacenters, consommation énergétique}{71}{section.26.1}%
-\contentsline {section}{\numberline {26.2}IA pour le climat - Modélisation, smart grids, optimisation}{71}{section.26.2}%
-\contentsline {section}{\numberline {26.3}Économie circulaire et IA prédictive}{71}{section.26.3}%
-\contentsline {section}{\numberline {26.4}Obsolescence et e-waste des systèmes IA}{71}{section.26.4}%
-\contentsline {chapter}{\numberline {27}Paradigmes Alternatifs et Techniques Redécouvertes}{73}{chapter.27}%
-\contentsline {section}{\numberline {27.1}Techniques pré-deep learning redécouvertes}{73}{section.27.1}%
-\contentsline {section}{\numberline {27.2}IA symbolique hybride - Retour du raisonnement logique}{73}{section.27.2}%
-\contentsline {section}{\numberline {27.3}Bio-computing - ADN, protéines comme processeurs}{73}{section.27.3}%
-\contentsline {section}{\numberline {27.4}IA frugale - Algorithmes low-tech, edge computing}{73}{section.27.4}%
-\contentsline {chapter}{\numberline {28}Dérives, Abus et Risques Systémiques de l'IA}{75}{chapter.28}%
-\contentsline {section}{\numberline {28.1}Deepfakes et manipulation de l'information}{75}{section.28.1}%
-\contentsline {section}{\numberline {28.2}Propagation automatisée de la désinformation}{75}{section.28.2}%
-\contentsline {section}{\numberline {28.3}Surveillance de masse et atteintes à la vie privée}{75}{section.28.3}%
-\contentsline {section}{\numberline {28.4}Automatisation des cyberattaques et armes numériques}{75}{section.28.4}%
-\contentsline {section}{\numberline {28.5}Discrimination algorithmique et exacerbation des inégalités}{75}{section.28.5}%
-\contentsline {section}{\numberline {28.6}Effets sur la santé mentale et dépendance aux systèmes IA}{75}{section.28.6}%
-\contentsline {chapter}{\numberline {29}Évolution de l'Éthique, Gouvernance et Prospective Finale}{77}{chapter.29}%
-\contentsline {section}{\numberline {29.1}Principes fondateurs et chartes d'intention}{77}{section.29.1}%
-\contentsline {section}{\numberline {29.2}RGPD, AI Act et régulation européenne}{77}{section.29.2}%
-\contentsline {section}{\numberline {29.3}Gouvernance mondiale et coopération internationale}{77}{section.29.3}%
-\contentsline {section}{\numberline {29.4}Justice algorithmique et lutte contre les biais}{77}{section.29.4}%
-\contentsline {section}{\numberline {29.5}Vers l'AGI bio-inspirée et intelligence augmentée}{77}{section.29.5}%
-\contentsline {section}{\numberline {29.6}Black Mirror et dystopies technologiques}{77}{section.29.6}%
-\contentsline {section}{\numberline {29.7}Intelligence collaborative et coévolution}{77}{section.29.7}%
-\contentsline {section}{\numberline {29.8}Vision personnelle - L'odyssée inachevée}{77}{section.29.8}%
-\contentsline {section}{\numberline {29.9}Recommandations pour l'avenir}{77}{section.29.9}%
-\contentsline {section}{\numberline {29.10}Épilogue - Le fainéant ambitieux de demain}{77}{section.29.10}%
+\contentsline {chapter}{Introduction}{7}{chapter*.3}%
+\contentsline {part}{I\hspace {1em}GENÈSE ET FONDEMENTS HISTORIQUES}{9}{part.1}%
+\contentsline {chapter}{\numberline {1}Genèse Anthropologique - L'Éveil du Fainéant}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Principe d'économie d'énergie cognitive}{11}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Bipédie et libération cognitive (4 Ma - 200 000 ans)}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Premiers outils lithiques et externalisation motrice}{11}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Révolution cognitive et pensée symbolique (70 000 - 10 000 ans)}{11}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Néolithique, spécialisation et division du travail}{11}{section.1.5}%
+\contentsline {section}{\numberline {1.6}L'ambition par la paresse : Extensions des possibles}{11}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Civilisations Antiques et Mécanisation Primitive}{13}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Mésopotamie - Calculs, abaques et premiers algorithmes}{13}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Égypte - Mathématiques, ingénierie et automatisation}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Grèce - Logique, philosophie et automates mécaniques}{13}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Rome - Ingénierie, hydraulique et machines complexes}{13}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Héron d'Alexandrie - Premier ingénieur de l'automation}{13}{section.2.5}%
+\contentsline {section}{\numberline {2.6}Machine d'Anticythère - Ordinateur analogique antique}{13}{section.2.6}%
+\contentsline {chapter}{\numberline {3}Synthèses Orientales et Renaissance Islamique}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Inde - Mathématiques, logique et premiers concepts algorithmiques}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Chine ancienne - Boulier, poudre et automates mécaniques}{15}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Systèmes d'irrigation chinois - Automatisation hydraulique}{15}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Islam - Traductions, mathématiques et premiers ordinateurs mécaniques}{15}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Al-Jazari - Livre de la connaissance des procédés mécaniques}{15}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Avicenne et Averroès - Logique médiévale et formalisation}{15}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Transmission vers l'Europe - Textes, écoles et premiers penseurs}{15}{section.3.7}%
+\contentsline {chapter}{\numberline {4}Renaissance Européenne et Révolution Scientifique}{17}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Léonard de Vinci - Automates et machines programmables}{17}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Horlogerie suisse - Miniaturisation et précision mécanique}{17}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Révolution astronomique - Kepler, calculs et précision}{17}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Pascal et Leibniz - Premières machines à calculer}{17}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Leibniz et le calcul binaire - Fondements de l'informatique}{17}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Newton et la mathématisation du monde}{17}{section.4.6}%
+\contentsline {chapter}{\numberline {5}Siècle des Lumières et Mécanisation}{19}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Descartes et l'animal-machine - Philosophie mécaniste}{19}{section.5.1}%
+\contentsline {section}{\numberline {5.2}La Mettrie - L'Homme-Machine et matérialisme}{19}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Automates de Vaucanson et illusion de vie}{19}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Automates Jaquet-Droz - Écrivain, Dessinateur, Musicien}{19}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Encyclopédie et diffusion des techniques}{19}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Révolution industrielle - Métiers mécaniques et automation}{19}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Jacquard - Programmation par cartes perforées}{19}{section.5.7}%
+\contentsline {chapter}{\numberline {6}XIXe Siècle - Émergence de l'Information}{21}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Babbage et Lovelace - Machines analytiques}{21}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Ada Lovelace - Premier algorithme et vision créative de l'IA}{21}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Boole - Algèbre logique et fondements booléens}{21}{section.6.3}%
+\contentsline {section}{\numberline {6.4}De Morgan et logique des relations}{21}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Maxwell, thermodynamique et théorie de l'information}{21}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Télégraphie, codes et transmission}{21}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Herman Hollerith - Machines à cartes perforées et recensement}{21}{section.6.7}%
+\contentsline {part}{II\hspace {1em}NAISSANCE ET DÉVELOPPEMENT DE L'IA MODERNE}{23}{part.2}%
+\contentsline {chapter}{\numberline {7}XXe Siècle - Fondements Théoriques}{25}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Russell et Whitehead - Principia Mathematica}{25}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Hilbert et formalisme mathématique}{25}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Gödel - Limites de la démonstration automatique}{25}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Church et lambda-calcul}{25}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Turing - Calculabilité et machines universelles}{25}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Test de Turing - Critère d'intelligence artificielle}{25}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Von Neumann - Architecture et automates cellulaires}{25}{section.7.7}%
+\contentsline {chapter}{\numberline {8}Naissance Officielle de l'IA (1940-1960)}{27}{chapter.8}%
+\contentsline {section}{\numberline {8.1}McCulloch-Pitts et neurones formels}{27}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Wiener et cybernétique}{27}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Shannon et théorie de l'information}{27}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Premiers ordinateurs - ENIAC, UNIVAC, IBM 701}{27}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Conférence de Dartmouth et manifeste fondateur}{27}{section.8.5}%
+\contentsline {section}{\numberline {8.6}John McCarthy - Invention du terme "Intelligence Artificielle"}{27}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Marvin Minsky - Vision de l'IA symbolique}{27}{section.8.7}%
+\contentsline {chapter}{\numberline {9}Première Génération - Optimisme Symbolique (1956-1974)}{29}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Logic Theorist et résolution automatique}{29}{section.9.1}%
+\contentsline {section}{\numberline {9.2}General Problem Solver - Newell et Simon}{29}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Perceptron et apprentissage connexionniste}{29}{section.9.3}%
+\contentsline {section}{\numberline {9.4}ELIZA - Premier chatbot thérapeutique}{29}{section.9.4}%
+\contentsline {section}{\numberline {9.5}LISP et programmation symbolique}{29}{section.9.5}%
+\contentsline {section}{\numberline {9.6}PROLOG - Programmation logique}{29}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Premiers systèmes experts et bases de connaissances}{29}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Shakey le robot - Intégration perception-action}{29}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Vision par ordinateur - Premiers succès et limites}{29}{section.9.9}%
+\contentsline {chapter}{\numberline {10}Premier Hiver et Remises en Question (1974-1980)}{31}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Rapport Lighthill et crise de confiance}{31}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Limites des perceptrons (Minsky-Papert)}{31}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Complexité computationnelle et problèmes NP}{31}{section.10.3}%
+\contentsline {section}{\numberline {10.4}Explosion combinatoire - Limites pratiques des systèmes}{31}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Échec des promesses et réduction des financements}{31}{section.10.5}%
+\contentsline {section}{\numberline {10.6}Repositionnement académique et industriel}{31}{section.10.6}%
+\contentsline {chapter}{\numberline {11}Renaissance des Systèmes Experts (1980-1990)}{33}{chapter.11}%
+\contentsline {section}{\numberline {11.1}MYCIN et diagnostic médical automatisé}{33}{section.11.1}%
+\contentsline {section}{\numberline {11.2}DENDRAL et analyse chimique}{33}{section.11.2}%
+\contentsline {section}{\numberline {11.3}XCON/R1 - Premier succès commercial (DEC)}{33}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Ingénierie de la connaissance et ontologies}{33}{section.11.4}%
+\contentsline {section}{\numberline {11.5}Langages spécialisés - OPS5, KEE, ART}{33}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Machines Lisp - Symbolics, LMI}{33}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Marché commercial et désillusions}{33}{section.11.7}%
+\contentsline {section}{\numberline {11.8}Effondrement 1987 - "Mardi noir de l'IA"}{33}{section.11.8}%
+\contentsline {chapter}{\numberline {12}Révolution Statistique et Second Hiver (1987-1997)}{35}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Causes du second effondrement}{35}{section.12.1}%
+\contentsline {section}{\numberline {12.2}Réseaux de neurones et rétropropagation}{35}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Support Vector Machines - Vapnik}{35}{section.12.3}%
+\contentsline {section}{\numberline {12.4}Réseaux bayésiens et raisonnement probabiliste}{35}{section.12.4}%
+\contentsline {section}{\numberline {12.5}Algorithmes génétiques - John Holland}{35}{section.12.5}%
+\contentsline {section}{\numberline {12.6}Machine Learning et approches data-driven}{35}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Hidden Markov Models - Applications vocales}{35}{section.12.7}%
+\contentsline {section}{\numberline {12.8}Deep Blue vs Kasparov - Calcul brut vs intuition (1997)}{35}{section.12.8}%
+\contentsline {part}{III\hspace {1em}RÉVOLUTION CONTEMPORAINE ET IMPACTS SOCIÉTAUX}{37}{part.3}%
+\contentsline {chapter}{\numberline {13}Internet et Renaissance des Données (1997-2010)}{39}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Explosion du Web - Données massives}{39}{section.13.1}%
+\contentsline {section}{\numberline {13.2}Web sémantique et ontologies distribuées}{39}{section.13.2}%
+\contentsline {section}{\numberline {13.3}Big Data et nouveaux paradigmes d'apprentissage}{39}{section.13.3}%
+\contentsline {section}{\numberline {13.4}Google et PageRank - IA comme service}{39}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Gmail spam filter - Apprentissage bayésien à grande échelle}{39}{section.13.5}%
+\contentsline {section}{\numberline {13.6}Réseaux sociaux et intelligence collective}{39}{section.13.6}%
+\contentsline {section}{\numberline {13.7}Geoffrey Hinton - Réveil du deep learning (2006)}{39}{section.13.7}%
+\contentsline {section}{\numberline {13.8}GPU et calcul parallèle - CUDA NVIDIA}{39}{section.13.8}%
+\contentsline {section}{\numberline {13.9}ImageNet - Benchmark vision par ordinateur}{39}{section.13.9}%
+\contentsline {chapter}{\numberline {14}Deep Learning et Révolution Connexionniste (2010-2016)}{41}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Percée 2012 - Confluence de facteurs}{42}{section.14.1}%
+\contentsline {section}{\numberline {14.2}AlexNet et renaissance des CNN (2012)}{42}{section.14.2}%
+\contentsline {section}{\numberline {14.3}VGGNet - Architecture profonde (2014)}{42}{section.14.3}%
+\contentsline {section}{\numberline {14.4}ResNet - Connexions résiduelles (2015)}{42}{section.14.4}%
+\contentsline {section}{\numberline {14.5}GANs et génération de contenu artificiel}{42}{section.14.5}%
+\contentsline {section}{\numberline {14.6}RNN, LSTM et modélisation séquentielle}{42}{section.14.6}%
+\contentsline {section}{\numberline {14.7}Attention mechanisms - Bahdanau (2014)}{42}{section.14.7}%
+\contentsline {section}{\numberline {14.8}Deep Q-Networks - Apprentissage par renforcement}{42}{section.14.8}%
+\contentsline {section}{\numberline {14.9}TensorFlow et PyTorch - Démocratisation des outils}{42}{section.14.9}%
+\contentsline {section}{\numberline {14.10}Révolution Transformers et mécanismes d'attention}{42}{section.14.10}%
+\contentsline {chapter}{\numberline {15}IA Générative et Démocratisation (2017-2025)}{43}{chapter.15}%
+\contentsline {section}{\numberline {15.1}"Attention Is All You Need" - Architecture Transformer (2017)}{44}{section.15.1}%
+\contentsline {section}{\numberline {15.2}BERT - Compréhension bidirectionnelle (2018)}{44}{section.15.2}%
+\contentsline {section}{\numberline {15.3}GPT et génération de texte à grande échelle}{44}{section.15.3}%
+\contentsline {section}{\numberline {15.4}GPT-2 - Controverse "trop dangereux" (2019)}{44}{section.15.4}%
+\contentsline {section}{\numberline {15.5}GPT-3 - Scaling laws et capacités émergentes (2020)}{44}{section.15.5}%
+\contentsline {section}{\numberline {15.6}DALL-E et création d'images automatisée}{44}{section.15.6}%
+\contentsline {section}{\numberline {15.7}Midjourney et Stable Diffusion - Démocratisation}{44}{section.15.7}%
+\contentsline {section}{\numberline {15.8}ChatGPT et interface conversationnelle grand public (2022)}{44}{section.15.8}%
+\contentsline {section}{\numberline {15.9}GPT-4 - Capacités multimodales (2023)}{44}{section.15.9}%
+\contentsline {section}{\numberline {15.10}Codex et programmation assistée par IA}{44}{section.15.10}%
+\contentsline {section}{\numberline {15.11}Agents autonomes - AutoGPT et planification}{44}{section.15.11}%
+\contentsline {chapter}{\numberline {16}Succès Médiatisés et Révolutions Sectorielles}{45}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Netflix Recommandations - Révolution de la personnalisation (2006)}{46}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Spotify Discover Weekly - Algorithmes musicaux (2015)}{46}{section.16.2}%
+\contentsline {section}{\numberline {16.3}AlphaGo vs Lee Sedol - Maîtrise du jeu de Go (2016)}{46}{section.16.3}%
+\contentsline {section}{\numberline {16.4}AlphaZero - Apprentissage sans données humaines (2017)}{46}{section.16.4}%
+\contentsline {section}{\numberline {16.5}AlphaFold - Révolution en biologie structurale (2020)}{46}{section.16.5}%
+\contentsline {section}{\numberline {16.6}AlphaFold 3 - Prix Nobel de chimie induit par IA (2024)}{46}{section.16.6}%
+\contentsline {section}{\numberline {16.7}GitHub Copilot - IA collaborative en programmation (2021)}{46}{section.16.7}%
+\contentsline {section}{\numberline {16.8}Waymo - Milliards de km autonomes sans accident}{46}{section.16.8}%
+\contentsline {section}{\numberline {16.9}GPT-4 médical - Performances niveau expert}{46}{section.16.9}%
+\contentsline {chapter}{\numberline {17}Échecs Médiatisés et Leçons Critiques}{47}{chapter.17}%
+\contentsline {section}{\numberline {17.1}Accident Tesla Autopilot - Limites de la conduite autonome (2016)}{48}{section.17.1}%
+\contentsline {section}{\numberline {17.2}Uber Tempe - Accident mortel piéton (2018)}{48}{section.17.2}%
+\contentsline {section}{\numberline {17.3}Tay de Microsoft - Dérapage raciste en 24h (2016)}{48}{section.17.3}%
+\contentsline {section}{\numberline {17.4}Reconnaissance faciale biaisée - Amazon Rekognition (2018)}{48}{section.17.4}%
+\contentsline {section}{\numberline {17.5}IBM Watson Health - Échec médical et fermeture (2022)}{48}{section.17.5}%
+\contentsline {section}{\numberline {17.6}Google Flu Trends - Prédictions erronées (2013)}{48}{section.17.6}%
+\contentsline {section}{\numberline {17.7}Zillow iBuying - Algorithmes immobiliers défaillants (2021)}{48}{section.17.7}%
+\contentsline {section}{\numberline {17.8}ChatGPT et hallucinations juridiques (2023)}{48}{section.17.8}%
+\contentsline {section}{\numberline {17.9}McDonald's Drive-AI - Abandon commercial (2024)}{48}{section.17.9}%
+\contentsline {section}{\numberline {17.10}Boeing 737 MAX - MCAS et accidents (2018-2019)}{48}{section.17.10}%
+\contentsline {section}{\numberline {17.11}Knight Capital - Bug algorithmique à 440M$ (2012)}{48}{section.17.11}%
+\contentsline {chapter}{\numberline {18}IA Militaire et Géopolitique}{49}{chapter.18}%
+\contentsline {section}{\numberline {18.1}Systèmes d'armes autonomes (LAWS) et débat éthique}{50}{section.18.1}%
+\contentsline {section}{\numberline {18.2}Drones Kargu-2 - Premier kill autonome confirmé (Libye 2020)}{50}{section.18.2}%
+\contentsline {section}{\numberline {18.3}Projet Maven - Contestation Google (2018)}{50}{section.18.3}%
+\contentsline {section}{\numberline {18.4}Cyberguerre et IA défensive/offensive}{50}{section.18.4}%
+\contentsline {section}{\numberline {18.5}Stuxnet - Précurseur cyber-arme (2010)}{50}{section.18.5}%
+\contentsline {section}{\numberline {18.6}Course géopolitique USA-Chine-Europe}{50}{section.18.6}%
+\contentsline {section}{\numberline {18.7}Initiative américaine - NSCAI et leadership IA}{50}{section.18.7}%
+\contentsline {section}{\numberline {18.8}Plan chinois - AI 2030 et domination}{50}{section.18.8}%
+\contentsline {section}{\numberline {18.9}Souveraineté européenne - GAIA-X, Mistral AI}{50}{section.18.9}%
+\contentsline {section}{\numberline {18.10}Surveillance de masse et contrôle social}{50}{section.18.10}%
+\contentsline {section}{\numberline {18.11}Système de crédit social chinois}{50}{section.18.11}%
+\contentsline {section}{\numberline {18.12}Reconnaissance faciale Clearview AI}{50}{section.18.12}%
+\contentsline {part}{IV\hspace {1em}DIMENSIONS HUMAINES ET PROSPECTIVE}{51}{part.4}%
+\contentsline {chapter}{\numberline {19}IA et Santé - Révolution Médicale}{53}{chapter.19}%
+\contentsline {section}{\numberline {19.1}Diagnostic par imagerie - Radiologie, dermatologie, ophtalmologie}{53}{section.19.1}%
+\contentsline {section}{\numberline {19.2}Drug discovery - Molécules thérapeutiques par IA}{53}{section.19.2}%
+\contentsline {section}{\numberline {19.3}Chirurgie robotique - Da Vinci, précision augmentée}{53}{section.19.3}%
+\contentsline {section}{\numberline {19.4}Télémédecine et assistants diagnostiques}{53}{section.19.4}%
+\contentsline {section}{\numberline {19.5}Épidémiologie - Modélisation COVID-19}{53}{section.19.5}%
+\contentsline {section}{\numberline {19.6}Thérapies personnalisées - Médecine de précision}{53}{section.19.6}%
+\contentsline {section}{\numberline {19.7}Limites et échecs - IBM Watson Oncology}{53}{section.19.7}%
+\contentsline {chapter}{\numberline {20}Approches Bio-Inspirées et Active Inference}{55}{chapter.20}%
+\contentsline {section}{\numberline {20.1}Friston et Free Energy Principle}{55}{section.20.1}%
+\contentsline {section}{\numberline {20.2}Active Inference et anticipation prédictive}{55}{section.20.2}%
+\contentsline {section}{\numberline {20.3}Neurosciences computationnelles et modélisation cérébrale}{55}{section.20.3}%
+\contentsline {section}{\numberline {20.4}Réseaux de neurones évolutionnistes}{55}{section.20.4}%
+\contentsline {section}{\numberline {20.5}Neuromorphic Computing - Puces TrueNorth, Loihi}{55}{section.20.5}%
+\contentsline {section}{\numberline {20.6}Spiking Neural Networks - Bio-réalisme événementiel}{55}{section.20.6}%
+\contentsline {section}{\numberline {20.7}Reservoir Computing - Économie computationnelle}{55}{section.20.7}%
+\contentsline {chapter}{\numberline {21}Facteurs Humains et Ergonomie Cognitive}{57}{chapter.21}%
+\contentsline {section}{\numberline {21.1}IHM et interfaces adaptatifs}{57}{section.21.1}%
+\contentsline {section}{\numberline {21.2}Lecture des intentions par eye-tracking}{57}{section.21.2}%
+\contentsline {section}{\numberline {21.3}Brain-Computer Interfaces non-invasives}{57}{section.21.3}%
+\contentsline {section}{\numberline {21.4}Cognition énactive et robotique incarnée}{57}{section.21.4}%
+\contentsline {section}{\numberline {21.5}Charge cognitive et optimisation des performances}{57}{section.21.5}%
+\contentsline {section}{\numberline {21.6}Explainability (XAI) - IA interprétable}{57}{section.21.6}%
+\contentsline {section}{\numberline {21.7}Trust calibration - Confiance appropriée}{57}{section.21.7}%
+\contentsline {section}{\numberline {21.8}Human-in-the-loop - Supervision humaine optimale}{57}{section.21.8}%
+\contentsline {chapter}{\numberline {22}Interfaces Cerveau-IA et Augmentation Cognitive}{59}{chapter.22}%
+\contentsline {section}{\numberline {22.1}Neuralink et interfaces implantées - Progrès et risques}{59}{section.22.1}%
+\contentsline {section}{\numberline {22.2}Synchron - Implants vasculaires moins invasifs}{59}{section.22.2}%
+\contentsline {section}{\numberline {22.3}Kernel - Interfaces optiques non-invasives}{59}{section.22.3}%
+\contentsline {section}{\numberline {22.4}Délestage cognitif - Dépendance et atrophie des capacités}{59}{section.22.4}%
+\contentsline {section}{\numberline {22.5}Memory augmentation - Prothèses mnésiques}{59}{section.22.5}%
+\contentsline {section}{\numberline {22.6}IA thérapeutique - Santé mentale, autisme, réhabilitation}{59}{section.22.6}%
+\contentsline {section}{\numberline {22.7}Stimulation cérébrale profonde assistée par IA}{59}{section.22.7}%
+\contentsline {section}{\numberline {22.8}Biais cognitifs humains reproduits par l'IA}{59}{section.22.8}%
+\contentsline {section}{\numberline {22.9}Effets psychologiques - Anthropomorphisation, attachement}{59}{section.22.9}%
+\contentsline {chapter}{\numberline {23}Les Oubliés de la Révolution IA}{61}{chapter.23}%
+\contentsline {section}{\numberline {23.1}Pionniers invisibles - Femmes en IA (Ada Lovelace revisitée)}{62}{section.23.1}%
+\contentsline {section}{\numberline {23.2}Grace Hopper - COBOL et compilation}{62}{section.23.2}%
+\contentsline {section}{\numberline {23.3}Fei-Fei Li - ImageNet et démocratisation}{62}{section.23.3}%
+\contentsline {section}{\numberline {23.4}Contributeurs non-occidentaux souvent occultés}{62}{section.23.4}%
+\contentsline {section}{\numberline {23.5}Yoshua Bengio, Yann LeCun - Pionniers du deep learning}{62}{section.23.5}%
+\contentsline {section}{\numberline {23.6}Populations rurales et seniors face à l'IA}{62}{section.23.6}%
+\contentsline {section}{\numberline {23.7}Illectronisme - Nouvelle forme d'illettrisme}{62}{section.23.7}%
+\contentsline {section}{\numberline {23.8}Travailleurs du clic et main-d'œuvre cachée}{62}{section.23.8}%
+\contentsline {section}{\numberline {23.9}Annotateurs kenyans de ChatGPT - Conditions dégradées}{62}{section.23.9}%
+\contentsline {section}{\numberline {23.10}Modérateurs de contenu - Trauma psychologique}{62}{section.23.10}%
+\contentsline {section}{\numberline {23.11}Fracture Nord-Sud - Accès inégal aux modèles}{62}{section.23.11}%
+\contentsline {chapter}{\numberline {24}Transformation Sociétale et Économique}{63}{chapter.24}%
+\contentsline {section}{\numberline {24.1}Remplacement d'emplois et nouvelles professions}{64}{section.24.1}%
+\contentsline {section}{\numberline {24.2}Automatisation différentielle - Cols blancs vs bleus}{64}{section.24.2}%
+\contentsline {section}{\numberline {24.3}Métiers émergents - Prompt engineer, AI ethics officer}{64}{section.24.3}%
+\contentsline {section}{\numberline {24.4}Fracture numérique et inégalités d'accès}{64}{section.24.4}%
+\contentsline {section}{\numberline {24.5}IA générative et propriété intellectuelle}{64}{section.24.5}%
+\contentsline {section}{\numberline {24.6}Procès copyright - NYT vs OpenAI, Getty vs Stability}{64}{section.24.6}%
+\contentsline {section}{\numberline {24.7}Revenu universel - Nécessité face à l'automation}{64}{section.24.7}%
+\contentsline {section}{\numberline {24.8}Économie de l'attention et manipulation comportementale}{64}{section.24.8}%
+\contentsline {section}{\numberline {24.9}Dopamine design - Exploitation des biais cérébraux}{64}{section.24.9}%
+\contentsline {section}{\numberline {24.10}Économie de la data - Nouveau pétrole}{64}{section.24.10}%
+\contentsline {chapter}{\numberline {25}IA Créative et Patrimoine Culturel}{65}{chapter.25}%
+\contentsline {section}{\numberline {25.1}IA générative artistique - DALL-E, Midjourney, Stable Diffusion}{65}{section.25.1}%
+\contentsline {section}{\numberline {25.2}Musique générée par IA - Suno, Udio}{65}{section.25.2}%
+\contentsline {section}{\numberline {25.3}Littérature et IA - GPT-poetry, co-écriture}{65}{section.25.3}%
+\contentsline {section}{\numberline {25.4}Victoires littéraires d'IA - Prix et controverses}{65}{section.25.4}%
+\contentsline {section}{\numberline {25.5}Préservation du patrimoine - Numérisation, restauration virtuelle}{65}{section.25.5}%
+\contentsline {section}{\numberline {25.6}Notre-Dame - Scan 3D et reconstruction}{65}{section.25.6}%
+\contentsline {section}{\numberline {25.7}Scrolls d'Herculanum - Déchiffrage par IA}{65}{section.25.7}%
+\contentsline {section}{\numberline {25.8}Déformation historique - Risques pour la mémoire collective}{65}{section.25.8}%
+\contentsline {section}{\numberline {25.9}Falsification historique - Deepfakes de figures historiques}{65}{section.25.9}%
+\contentsline {chapter}{\numberline {26}Convergences Technologiques Émergentes}{67}{chapter.26}%
+\contentsline {section}{\numberline {26.1}Informatique quantique et IA}{68}{section.26.1}%
+\contentsline {section}{\numberline {26.2}D-Wave, IBM Q, Google Sycamore - État de l'art}{68}{section.26.2}%
+\contentsline {section}{\numberline {26.3}Algorithmes quantiques pour ML}{68}{section.26.3}%
+\contentsline {section}{\numberline {26.4}IA + Biotechnologies - Drug discovery, thérapies géniques}{68}{section.26.4}%
+\contentsline {section}{\numberline {26.5}CRISPR assisté par IA - Édition génomique précise}{68}{section.26.5}%
+\contentsline {section}{\numberline {26.6}IA + Nanotechnologies - Smart materials, médecine régénérative}{68}{section.26.6}%
+\contentsline {section}{\numberline {26.7}Internet des Objets intelligent - Edge computing, IA embarquée}{68}{section.26.7}%
+\contentsline {section}{\numberline {26.8}5G/6G et IA distribuée}{68}{section.26.8}%
+\contentsline {section}{\numberline {26.9}Digital twins - Jumeaux numériques prédictifs}{68}{section.26.9}%
+\contentsline {chapter}{\numberline {27}IA et Environnement}{69}{chapter.27}%
+\contentsline {section}{\numberline {27.1}Empreinte carbone de l'IA - Datacenters, consommation énergétique}{70}{section.27.1}%
+\contentsline {section}{\numberline {27.2}Entraînement GPT-3 - 1287 MWh, 552 tonnes CO₂}{70}{section.27.2}%
+\contentsline {section}{\numberline {27.3}Refroidissement datacenters - Innovations liquides}{70}{section.27.3}%
+\contentsline {section}{\numberline {27.4}IA pour le climat - Modélisation, smart grids, optimisation}{70}{section.27.4}%
+\contentsline {section}{\numberline {27.5}Prédiction climatique - Modèles haute résolution}{70}{section.27.5}%
+\contentsline {section}{\numberline {27.6}Agriculture de précision - Drones, capteurs, optimisation}{70}{section.27.6}%
+\contentsline {section}{\numberline {27.7}Economie circulaire et IA prédictive}{70}{section.27.7}%
+\contentsline {section}{\numberline {27.8}Maintenance prédictive - Réduction du gaspillage}{70}{section.27.8}%
+\contentsline {section}{\numberline {27.9}Obsolescence et e-waste des systèmes IA}{70}{section.27.9}%
+\contentsline {section}{\numberline {27.10}Recyclage des GPUs - Enjeux des terres rares}{70}{section.27.10}%
+\contentsline {chapter}{\numberline {28}Paradigmes Alternatifs et Techniques Redécouvertes}{71}{chapter.28}%
+\contentsline {section}{\numberline {28.1}Techniques pré-deep learning redécouvertes}{72}{section.28.1}%
+\contentsline {section}{\numberline {28.2}Capsule Networks - Hinton (2017)}{72}{section.28.2}%
+\contentsline {section}{\numberline {28.3}Neural Turing Machines - Mémoire externe}{72}{section.28.3}%
+\contentsline {section}{\numberline {28.4}IA symbolique hybride - Retour du raisonnement logique}{72}{section.28.4}%
+\contentsline {section}{\numberline {28.5}Neuro-symbolique - Meilleur des deux mondes}{72}{section.28.5}%
+\contentsline {section}{\numberline {28.6}Bio-computing - ADN, protéines comme processeurs}{72}{section.28.6}%
+\contentsline {section}{\numberline {28.7}Calcul moléculaire - Portes logiques biologiques}{72}{section.28.7}%
+\contentsline {section}{\numberline {28.8}IA frugale - Algorithmes low-tech, edge computing}{72}{section.28.8}%
+\contentsline {section}{\numberline {28.9}TinyML - IA sur microcontrôleurs}{72}{section.28.9}%
+\contentsline {section}{\numberline {28.10}Pruning et quantization - Compression de modèles}{72}{section.28.10}%
+\contentsline {chapter}{\numberline {29}Langages et Infrastructure de l'IA}{73}{chapter.29}%
+\contentsline {section}{\numberline {29.1}Évolution des langages - LISP, PROLOG, Python}{73}{section.29.1}%
+\contentsline {section}{\numberline {29.2}Frameworks modernes - TensorFlow, PyTorch, JAX}{73}{section.29.2}%
+\contentsline {section}{\numberline {29.3}Hardware spécialisé - GPU, TPU, NPU}{73}{section.29.3}%
+\contentsline {section}{\numberline {29.4}Architectures cloud - AWS SageMaker, Azure ML, Google Vertex}{73}{section.29.4}%
+\contentsline {section}{\numberline {29.5}MLOps - Industrialisation du ML}{73}{section.29.5}%
+\contentsline {section}{\numberline {29.6}Open source vs propriétaire - Tensions}{73}{section.29.6}%
+\contentsline {chapter}{\numberline {30}Dérives, Abus et Risques Systémiques}{75}{chapter.30}%
+\contentsline {section}{\numberline {30.1}Deepfakes et manipulation de l'information}{76}{section.30.1}%
+\contentsline {section}{\numberline {30.2}Cas politique - Deepfakes électoraux}{76}{section.30.2}%
+\contentsline {section}{\numberline {30.3}Pornographie deepfake - Victimisation}{76}{section.30.3}%
+\contentsline {section}{\numberline {30.4}Propagation automatisée de la désinformation}{76}{section.30.4}%
+\contentsline {section}{\numberline {30.5}Bots coordonnés - Amplification algorithmique}{76}{section.30.5}%
+\contentsline {section}{\numberline {30.6}Surveillance de masse et atteintes à la vie privée}{76}{section.30.6}%
+\contentsline {section}{\numberline {30.7}Reconnaissance faciale en temps réel}{76}{section.30.7}%
+\contentsline {section}{\numberline {30.8}Scrapage massif - Clearview AI, PimEyes}{76}{section.30.8}%
+\contentsline {section}{\numberline {30.9}Automatisation des cyberattaques et armes numériques}{76}{section.30.9}%
+\contentsline {section}{\numberline {30.10}Phishing assisté par GPT}{76}{section.30.10}%
+\contentsline {section}{\numberline {30.11}Malware auto-adaptatif}{76}{section.30.11}%
+\contentsline {section}{\numberline {30.12}Discrimination algorithmique et exacerbation des inégalités}{76}{section.30.12}%
+\contentsline {section}{\numberline {30.13}Biais raciaux - Justice prédictive (COMPAS)}{76}{section.30.13}%
+\contentsline {section}{\numberline {30.14}Sexisme algorithmique - Recrutement, crédit}{76}{section.30.14}%
+\contentsline {section}{\numberline {30.15}Effets sur la santé mentale et dépendance aux systèmes IA}{76}{section.30.15}%
+\contentsline {section}{\numberline {30.16}Addiction aux recommandations}{76}{section.30.16}%
+\contentsline {section}{\numberline {30.17}Isolement social - Relations parasociales avec IA}{76}{section.30.17}%
+\contentsline {chapter}{\numberline {31}Confidentialité et Sécurité des Données dans l’IA}{77}{chapter.31}%
+\contentsline {section}{\numberline {31.1}Cadre Réglementaire et Légal}{78}{section.31.1}%
+\contentsline {subsection}{\numberline {31.1.1}Règlement général sur la protection des données (RGPD)}{78}{subsection.31.1.1}%
+\contentsline {subsection}{\numberline {31.1.2}AI Act et régulation spécifique à l’intelligence artificielle}{78}{subsection.31.1.2}%
+\contentsline {subsection}{\numberline {31.1.3}Le droit à l’oubli et les obligations des acteurs IA}{78}{subsection.31.1.3}%
+\contentsline {section}{\numberline {31.2}Défis Techniques en Protection des Données}{78}{section.31.2}%
+\contentsline {subsection}{\numberline {31.2.1}Anonymisation, pseudonymisation et leurs limites}{78}{subsection.31.2.1}%
+\contentsline {subsection}{\numberline {31.2.2}Cryptographie avancée appliquée à l’IA : chiffrement homomorphe, calcul multipartite sécurisé}{78}{subsection.31.2.2}%
+\contentsline {subsection}{\numberline {31.2.3}Attaques adversariales et vulnérabilités des modèles IA}{78}{subsection.31.2.3}%
+\contentsline {section}{\numberline {31.3}Risques et Menaces sur la Confidentialité}{78}{section.31.3}%
+\contentsline {subsection}{\numberline {31.3.1}Fuites de données et piratage de modèles}{78}{subsection.31.3.1}%
+\contentsline {subsection}{\numberline {31.3.2}Extraction illégale de données personnelles via modèles d’IA}{78}{subsection.31.3.2}%
+\contentsline {subsection}{\numberline {31.3.3}Utilisation non consentie des données dans l’entraînement des modèles}{78}{subsection.31.3.3}%
+\contentsline {section}{\numberline {31.4}Solutions et Meilleures Pratiques}{78}{section.31.4}%
+\contentsline {subsection}{\numberline {31.4.1}Privacy by design et confidentialité différentielle}{78}{subsection.31.4.1}%
+\contentsline {subsection}{\numberline {31.4.2}Audits de sécurité et lutte contre les biais algorithmiques}{78}{subsection.31.4.2}%
+\contentsline {subsection}{\numberline {31.4.3}Gouvernance des données et rôle des délégués à la protection des données (DPO)}{78}{subsection.31.4.3}%
+\contentsline {section}{\numberline {31.5}Cas d’Études et Incidents Marquants}{78}{section.31.5}%
+\contentsline {subsection}{\numberline {31.5.1}Scandales de violation de vie privée liés à l’IA}{78}{subsection.31.5.1}%
+\contentsline {subsection}{\numberline {31.5.2}Cyberattaques sur infrastructures critiques IA}{78}{subsection.31.5.2}%
+\contentsline {chapter}{\numberline {32}Débats Philosophiques et Conscience Artificielle}{79}{chapter.32}%
+\contentsline {section}{\numberline {32.1}Conscience et qualia - Le problème difficile}{79}{section.32.1}%
+\contentsline {section}{\numberline {32.2}Test de Turing moderne - Suffisance ou obsolescence ?}{79}{section.32.2}%
+\contentsline {section}{\numberline {32.3}Chambre chinoise de Searle - Critique philosophique}{79}{section.32.3}%
+\contentsline {section}{\numberline {32.4}Panpsychisme computationnel}{79}{section.32.4}%
+\contentsline {section}{\numberline {32.5}Sentience des LLMs - Affaire Blake Lemoine (Google)}{79}{section.32.5}%
+\contentsline {section}{\numberline {32.6}Droits des IA - Statut juridique futur}{79}{section.32.6}%
+\contentsline {section}{\numberline {32.7}Éthique de la création - Responsabilité des concepteurs}{79}{section.32.7}%
+\contentsline {chapter}{\numberline {33}Évolution de l'Éthique et Gouvernance}{81}{chapter.33}%
+\contentsline {section}{\numberline {33.1}Principes fondateurs et chartes d'intention}{82}{section.33.1}%
+\contentsline {section}{\numberline {33.2}Principes d'Asilomar (2017)}{82}{section.33.2}%
+\contentsline {section}{\numberline {33.3}Montreal Declaration (2018)}{82}{section.33.3}%
+\contentsline {section}{\numberline {33.4}RGPD, AI Act et régulation européenne}{82}{section.33.4}%
+\contentsline {section}{\numberline {33.5}AI Act - Première loi globale (2024)}{82}{section.33.5}%
+\contentsline {section}{\numberline {33.6}Approche par niveaux de risque}{82}{section.33.6}%
+\contentsline {section}{\numberline {33.7}Gouvernance mondiale et coopération internationale}{82}{section.33.7}%
+\contentsline {section}{\numberline {33.8}ONU et IA - Propositions de gouvernance}{82}{section.33.8}%
+\contentsline {section}{\numberline {33.9}OCDE - Principes sur l'IA}{82}{section.33.9}%
+\contentsline {section}{\numberline {33.10}Justice algorithmique et lutte contre les biais}{82}{section.33.10}%
+\contentsline {section}{\numberline {33.11}Audits algorithmiques obligatoires}{82}{section.33.11}%
+\contentsline {section}{\numberline {33.12}Fairness metrics - Définitions et limites}{82}{section.33.12}%
+\contentsline {section}{\numberline {33.13}Transparence des modèles - Open weights vs closed}{82}{section.33.13}%
+\contentsline {chapter}{\numberline {34}Vers l'AGI et Singularité Technologique}{83}{chapter.34}%
+\contentsline {section}{\numberline {34.1}Définitions et critères de l'AGI}{83}{section.34.1}%
+\contentsline {section}{\numberline {34.2}Chronologie probable - Prédictions d'experts}{83}{section.34.2}%
+\contentsline {section}{\numberline {34.3}Singularité technologique - Kurzweil et critiques}{83}{section.34.3}%
+\contentsline {section}{\numberline {34.4}Intelligence explosive - Scénarios de décollage}{83}{section.34.4}%
+\contentsline {section}{\numberline {34.5}Alignement de valeurs - Problème de contrôle}{83}{section.34.5}%
+\contentsline {section}{\numberline {34.6}Mesa-optimization - Optimiseurs internes}{83}{section.34.6}%
+\contentsline {section}{\numberline {34.7}Orthogonalité - Intelligence ≠ Bienveillance}{83}{section.34.7}%
+\contentsline {section}{\numberline {34.8}Paperclip maximizer - Optimisation perverse}{83}{section.34.8}%
+\contentsline {chapter}{\numberline {35}Course Concurrentielle et Moloch}{85}{chapter.35}%
+\contentsline {section}{\numberline {35.1}Moloch de l'IA - Dynamique compétitive}{85}{section.35.1}%
+\contentsline {section}{\numberline {35.2}Course aux armements IA - Équilibre de Nash négatif}{85}{section.35.2}%
+\contentsline {section}{\numberline {35.3}Dilemme du prisonnier itéré}{85}{section.35.3}%
+\contentsline {section}{\numberline {35.4}Coordination internationale - Nécessité et difficultés}{85}{section.35.4}%
+\contentsline {section}{\numberline {35.5}Ralentissement concerté - Propositions et critiques}{85}{section.35.5}%
+\contentsline {section}{\numberline {35.6}Lettre ouverte 2023 - Pause développement IA}{85}{section.35.6}%
+\contentsline {section}{\numberline {35.7}Accélérationnisme vs décélérationnisme}{85}{section.35.7}%
+\contentsline {chapter}{\numberline {36}Post-Humanisme et Transhumanisme}{87}{chapter.36}%
+\contentsline {section}{\numberline {36.1}Amélioration cognitive - Limites éthiques}{87}{section.36.1}%
+\contentsline {section}{\numberline {36.2}Uploading de conscience - Faisabilité technique}{87}{section.36.2}%
+\contentsline {section}{\numberline {36.3}Cyborgs et hybridation - Continuité humain-machine}{87}{section.36.3}%
+\contentsline {section}{\numberline {36.4}Immortalité numérique - Promesses et mirages}{87}{section.36.4}%
+\contentsline {section}{\numberline {36.5}Inégalités augmentées - Fracture transhumaniste}{87}{section.36.5}%
+\contentsline {section}{\numberline {36.6}Perte d'humanité - Critiques essentialistes}{87}{section.36.6}%
+\contentsline {chapter}{\numberline {37}Intelligence Collaborative et Coévolution}{89}{chapter.37}%
+\contentsline {section}{\numberline {37.1}Centaures humain-IA - Freestyle chess}{89}{section.37.1}%
+\contentsline {section}{\numberline {37.2}Amplification d'intelligence - IA comme outil}{89}{section.37.2}%
+\contentsline {section}{\numberline {37.3}Symbiose cognitive - Spécialisation complémentaire}{89}{section.37.3}%
+\contentsline {section}{\numberline {37.4}Swarm intelligence - Essaims hybrides}{89}{section.37.4}%
+\contentsline {section}{\numberline {37.5}Démocratisation vs concentration - Modèles de développement}{89}{section.37.5}%
+\contentsline {section}{\numberline {37.6}Open source AGI - Risques et bénéfices}{89}{section.37.6}%
+\contentsline {chapter}{\numberline {38}Dystopies Technologiques et Black Mirror}{91}{chapter.38}%
+\contentsline {section}{\numberline {38.1}Surveillance totale - 1984 algorithmique}{91}{section.38.1}%
+\contentsline {section}{\numberline {38.2}Manipulation comportementale - Brave New World}{91}{section.38.2}%
+\contentsline {section}{\numberline {38.3}Obsolescence humaine - Player Piano de Vonnegut}{91}{section.38.3}%
+\contentsline {section}{\numberline {38.4}Ségrégation algorithmique - Apartheid numérique}{91}{section.38.4}%
+\contentsline {section}{\numberline {38.5}Scénarios d'extinction - AI safety research}{91}{section.38.5}%
+\contentsline {section}{\numberline {38.6}Paperclip maximizer et autres thought experiments}{91}{section.38.6}%
+\contentsline {chapter}{\numberline {39}Vision Personnelle - L'Odyssée Inachevée}{93}{chapter.39}%
+\contentsline {section}{\numberline {39.1}Retour aux origines - La paresse créative constante}{93}{section.39.1}%
+\contentsline {section}{\numberline {39.2}Accélération exponentielle - Vers où ?}{93}{section.39.2}%
+\contentsline {section}{\numberline {39.3}L'humain dans un monde d'IA - Coopération ou remplacement}{93}{section.39.3}%
+\contentsline {section}{\numberline {39.4}Nouvelles formes de paresse créative}{93}{section.39.4}%
+\contentsline {section}{\numberline {39.5}Délégation totale vs maîtrise humaine}{93}{section.39.5}%
+\contentsline {section}{\numberline {39.6}Sens et purpose dans un monde automatisé}{93}{section.39.6}%
+\contentsline {section}{\numberline {39.7}Redéfinition du travail et de la valeur}{93}{section.39.7}%
+\contentsline {chapter}{\numberline {40}Recommandations pour l'Avenir}{95}{chapter.40}%
+\contentsline {section}{\numberline {40.1}Éducation - Former à l'ère de l'IA}{95}{section.40.1}%
+\contentsline {section}{\numberline {40.2}Régulation adaptative - Équilibre innovation/sécurité}{95}{section.40.2}%
+\contentsline {section}{\numberline {40.3}Recherche en alignement - Priorité absolue}{95}{section.40.3}%
+\contentsline {section}{\numberline {40.4}Gouvernance participative - Démocratie technique}{95}{section.40.4}%
+\contentsline {section}{\numberline {40.5}Résilience sociétale - Préparation aux transitions}{95}{section.40.5}%
+\contentsline {section}{\numberline {40.6}Éthique by design - Intégration dès la conception}{95}{section.40.6}%
+\contentsline {chapter}{\numberline {41}Épilogue - Le Fainéant Ambitieux de Demain}{97}{chapter.41}%
+\contentsline {section}{\numberline {41.1}Continuité anthropologique - 7 millions d'années d'optimisation}{97}{section.41.1}%
+\contentsline {section}{\numberline {41.2}Paresse ultime - Déléguer jusqu'à la pensée ?}{97}{section.41.2}%
+\contentsline {section}{\numberline {41.3}Ambition ultime - Transcender les limites biologiques ?}{97}{section.41.3}%
+\contentsline {section}{\numberline {41.4}Paradoxe final - Créer notre propre obsolescence ?}{97}{section.41.4}%
+\contentsline {section}{\numberline {41.5}L'odyssée continue - Prochaine frontière}{97}{section.41.5}%
+\contentsline {section}{\numberline {41.6}Message final - Sagesse face à la puissance}{97}{section.41.6}%

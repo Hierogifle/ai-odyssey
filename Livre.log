@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.19)  14 OCT 2025 11:10
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.9.19)  15 OCT 2025 12:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ Package french3.ldf Info: Setting StandardEnumerateEnv=true for
 (french3.ldf)             compatibility with enumitem package,
 (french3.ldf)             reported on input line 61.
 
-(Livre.aux)
+No file Livre.aux.
 \openout1 = `Livre.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 61.
@@ -1097,7 +1097,6 @@ LaTeX Font Info:    ... okay on input line 61.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 61.
 LaTeX Font Info:    ... okay on input line 61.
 LaTeX Info: Redefining \degres on input line 61.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -1133,9 +1132,11 @@ LaTeX Info: Redefining \degres on input line 61.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring ON on input line 61.
-(Livre.out) (Livre.out)
 \@outlinefile=\write4
 \openout4 = `Livre.out'.
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
 
 \c@lstlisting=\count369
 File: images/partie1/odysse.png Graphic file (type bmp)
@@ -1177,6 +1178,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 136--145
 
 Package mdframed Info: mdframed works in twoside mode on input line 145.
 
+LaTeX Warning: Reference `mdf@pagelabel-1' on page 3 undefined on input line 14
+7.
+
+
 
 [3
 
@@ -1184,95 +1189,49 @@ Package mdframed Info: mdframed works in twoside mode on input line 145.
 
 [4
 
-] (Livre.toc
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 6
-.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 6
-.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-6.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-6.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 6.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
-
-(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-[5]
-Overfull \hbox (19.77095pt too wide) in paragraph at lines 35--35
-[][][]\T1/lmr/bx/n/14.4 II NAIS-SANCE ET DÉ-VE-LOP-PE-MENT DE L'IA MO-DERNE[][]
- 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 35--35
-[]  
- []
-
-
-
-[6]
-
-[7]
-Missing character: There is no œ in font ec-lmr12!
-
-
-[8]
-
-[9])
+]
+No file Livre.toc.
 \tf@toc=\write5
 \openout5 = `Livre.toc'.
 
 
 
+[5]
+
+[6
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--166
+
+ []
+
+
+
+[7]
+
+[8
+
+]
+
+[9]
+
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 157--166
-
- []
-
+Chapitre 1.
 
 
 [11
@@ -1282,21 +1241,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 157--166
 [12
 
 ]
+Chapitre 2.
+
 
 [13]
 
-[14]
-Chapitre 1.
-
-
-[15
+[14
 
 ]
+Chapitre 3.
+
+Overfull \hbox (18.86618pt too wide) in paragraph at lines 188--188
+[]\T1/lmr/bx/n/17.28 Inde - Ma-thé-ma-tiques, lo-gique et pre-miers concepts
+ []
+
+
+
+[15]
 
 [16
 
 ]
-Chapitre 2.
+Chapitre 4.
 
 
 [17]
@@ -1304,12 +1270,7 @@ Chapitre 2.
 [18
 
 ]
-Chapitre 3.
-
-Overfull \hbox (18.86618pt too wide) in paragraph at lines 183--183
-[]\T1/lmr/bx/n/17.28 Inde - Ma-thé-ma-tiques, lo-gique et pre-miers concepts
- []
-
+Chapitre 5.
 
 
 [19]
@@ -1317,7 +1278,7 @@ Overfull \hbox (18.86618pt too wide) in paragraph at lines 183--183
 [20
 
 ]
-Chapitre 4.
+Chapitre 6.
 
 
 [21]
@@ -1325,37 +1286,37 @@ Chapitre 4.
 [22
 
 ]
-Chapitre 5.
-
 
 [23]
 
-[24
+[24]
+Chapitre 7.
+
+
+[25
 
 ]
-Chapitre 6.
-
-
-[25]
 
 [26
 
 ]
+Chapitre 8.
+
 
 [27]
 
-[28]
-Chapitre 7.
-
-
-[29
+[28
 
 ]
+Chapitre 9.
+
+
+[29]
 
 [30
 
 ]
-Chapitre 8.
+Chapitre 10.
 
 
 [31]
@@ -1363,7 +1324,7 @@ Chapitre 8.
 [32
 
 ]
-Chapitre 9.
+Chapitre 11.
 
 
 [33]
@@ -1371,7 +1332,7 @@ Chapitre 9.
 [34
 
 ]
-Chapitre 10.
+Chapitre 12.
 
 
 [35]
@@ -1379,117 +1340,226 @@ Chapitre 10.
 [36
 
 ]
-Chapitre 11.
-
 
 [37]
 
-[38
+[38]
+Chapitre 13.
+
+Overfull \hbox (2.77847pt too wide) in paragraph at lines 290--290
+[]\T1/lmr/bx/n/17.28 Geoffrey Hin-ton - Ré-veil du deep lear-ning (2006) 
+ []
+
+
+
+[39
 
 ]
-Chapitre 12.
-
-
-[39]
 
 [40
 
 ]
+Chapitre 14.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 [41]
+Overfull \vbox (4.66537pt too high) has occurred while \output is active []
+
+
 
 [42]
-Chapitre 13.
+Chapitre 15.
+
+Overfull \hbox (12.43512pt too wide) in paragraph at lines 307--307
+[]\T1/lmr/bx/n/17.28 "Attention Is All You Need" - Ar-chi-tec-ture Trans-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [43
 
 ]
-
-[44
-
-]
-Chapitre 14.
+Overfull \vbox (74.51259pt too high) has occurred while \output is active []
 
 
-[45]
 
-[46
-
-]
-Chapitre 15.
-
-
-[47]
-
-[48
-
-]
+[44]
 Chapitre 16.
 
-Overfull \hbox (6.66652pt too wide) in paragraph at lines 264--264
+Overfull \hbox (6.66652pt too wide) in paragraph at lines 320--320
 []\T1/lmr/bx/n/17.28 Netflix Re-com-man-da-tions - Ré-vo-lu-tion de la per-
  []
 
 
+Overfull \hbox (18.62488pt too wide) in paragraph at lines 323--323
+[]\T1/lmr/bx/n/17.28 AlphaZero - Ap-pren-tis-sage sans don-nées hu-maines
+ []
 
-[49]
 
-[50
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[45
 
 ]
+Overfull \vbox (105.34978pt too high) has occurred while \output is active []
+
+
+
+[46]
 Chapitre 17.
 
-Overfull \hbox (4.06223pt too wide) in paragraph at lines 270--270
+Overfull \hbox (4.06223pt too wide) in paragraph at lines 331--331
 []\T1/lmr/bx/n/17.28 Accident Tesla Au-to-pi-lot - Li-mites de la conduite
  []
 
 
-Overfull \hbox (11.00449pt too wide) in paragraph at lines 271--271
+Overfull \hbox (11.00449pt too wide) in paragraph at lines 333--333
 []\T1/lmr/bx/n/17.28 Tay de Mi-cro-soft - Dé-ra-page ra-ciste en 24h (2016) 
  []
 
 
-Overfull \hbox (30.79153pt too wide) in paragraph at lines 275--275
+Overfull \hbox (30.79153pt too wide) in paragraph at lines 339--339
 []\T1/lmr/bx/n/17.28 McDonald's Drive-AI - Aban-don com-mer-cial (2024) 
  []
 
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3
+41.
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3
+41.
+
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+341.
+
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+341.
+
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <17.28> on input line 341.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 341.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 341.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 341
+.
+
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 341
+.
+
+(C:\Users\romua\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+! Missing $ inserted.
+<inserted text> 
+                $
+l.341 ...pital - Bug algorithmique à 440M$ (2012)}
+                                                  
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-[51]
+Overfull \hbox (14.78482pt too wide) in paragraph at lines 341--341
+[]\T1/lmr/bx/n/17.28 Knight Ca-pi-tal - Bug al-go-rith-mique à 440M$\OT1/lmr/m/
+n/17.28 (2012)$ 
+ []
 
-[52
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 341.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[47
 
 ]
+Overfull \vbox (102.76004pt too high) has occurred while \output is active []
+
+
+
+[48]
 Chapitre 18.
 
+Overfull \hbox (11.43507pt too wide) in paragraph at lines 345--345
+[]\T1/lmr/bx/n/17.28 Drones Kargu-2 - Pre-mier kill au-to-nome confirmé
+ []
 
-[53]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[49
+
+]
+Overfull \vbox (18.50409pt too high) has occurred while \output is active []
+
+
+
+[50]
+
+[51
+
+]
+
+[52]
+Chapitre 19.
+
+
+[53
+
+]
 
 [54
 
 ]
+Chapitre 20.
+
 
 [55]
 
-[56]
-Chapitre 19.
-
-
-[57
+[56
 
 ]
+Chapitre 21.
 
-[58
-
-]
-Chapitre 20.
-
-Overfull \hbox (19.83237pt too wide) in paragraph at lines 294--294
+Overfull \hbox (19.83237pt too wide) in paragraph at lines 382--382
 []\T1/lmr/bx/n/17.28 Charge cog-ni-tive et op-ti-mi-sa-tion des per-for-mances 
 
  []
 
+
+
+[57]
+
+[58
+
+]
+Chapitre 22.
 
 
 [59]
@@ -1497,94 +1567,274 @@ Overfull \hbox (19.83237pt too wide) in paragraph at lines 294--294
 [60
 
 ]
-Chapitre 21.
+Chapitre 23.
+
+Overfull \hbox (1.2837pt too wide) in paragraph at lines 403--403
+[]\T1/lmr/bx/n/17.28 Yoshua Ben-gio, Yann Le-Cun - Pion-niers du deep
+ []
+
+Missing character: There is no œ in font ec-lmbx12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [61]
-
-[62
-
-]
-Chapitre 22.
-Missing character: There is no œ in font ec-lmbx12!
+Overfull \vbox (64.58461pt too high) has occurred while \output is active []
 
 
-[63]
 
-[64
+[62]
+Chapitre 24.
 
-]
-Chapitre 23.
-
-Overfull \hbox (7.78963pt too wide) in paragraph at lines 309--309
+Overfull \hbox (7.78963pt too wide) in paragraph at lines 412--412
 []\T1/lmr/bx/n/17.28 Remplacement d'em-plois et nou-velles pro-fes-sions 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[65]
+
+
+[63
+
+]
+Overfull \vbox (62.62924pt too high) has occurred while \output is active []
+
+
+
+[64]
+Chapitre 25.
+
+
+[65
+
+]
 
 [66
 
 ]
-Chapitre 24.
+Chapitre 26.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [67]
-
-[68
-
-]
-Chapitre 25.
+Overfull \vbox (23.44395pt too high) has occurred while \output is active []
 
 
-[69]
 
-[70
+[68]
+Chapitre 27.
 
-]
-Chapitre 26.
-
-Overfull \hbox (14.76361pt too wide) in paragraph at lines 328--328
+Overfull \hbox (14.76361pt too wide) in paragraph at lines 446--446
 []\T1/lmr/bx/n/17.28 Empreinte car-bone de l'IA - Da-ta-cen-ters, consom-
  []
 
+Missing character: There is no ₂ in font ec-lmbx12!
+
+Overfull \hbox (17.64929pt too wide) in paragraph at lines 448--448
+[]\T1/lmr/bx/n/17.28 Refroidissement da-ta-cen-ters - In-no-va-tions li-quides 
+
+ []
 
 
-[71]
+Overfull \hbox (9.94753pt too wide) in paragraph at lines 453--453
+[]\T1/lmr/bx/n/17.28 Maintenance pré-dic-tive - Ré-duc-tion du gas-pillage 
+ []
 
-[72
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[69
 
 ]
-Chapitre 27.
+Overfull \vbox (25.39932pt too high) has occurred while \output is active []
 
 
-[73]
+
+[70]
+Chapitre 28.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[71
+
+]
+Overfull \vbox (31.96732pt too high) has occurred while \output is active []
+
+
+
+[72]
+Chapitre 29.
+
+
+[73
+
+]
 
 [74
 
 ]
-Chapitre 28.
+Chapitre 30.
 
-Overfull \hbox (10.3637pt too wide) in paragraph at lines 344--344
-[]\T1/lmr/bx/n/17.28 Discrimination al-go-rith-mique et exa-cer-ba-tion des
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [75]
+Overfull \vbox (306.26433pt too high) has occurred while \output is active []
 
-[76
+
+
+[76]
+Chapitre 31.
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+Missing character: There is no ’ in font ec-lmbx12!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[77
 
 ]
-Chapitre 29.
+Overfull \vbox (240.21623pt too high) has occurred while \output is active []
 
 
-[77] (Livre.aux)
+
+[78]
+Chapitre 32.
+
+Overfull \hbox (19.56311pt too wide) in paragraph at lines 530--530
+[]\T1/lmr/bx/n/17.28 Éthique de la créa-tion - Res-pon-sa-bi-lité des concep-
+ []
+
+
+
+[79
+
+]
+
+[80
+
+]
+Chapitre 33.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[81]
+Overfull \vbox (94.9193pt too high) has occurred while \output is active []
+
+
+
+[82]
+Chapitre 34.
+Missing character: There is no ≠ in font ec-lmbx12!
+
+
+[83
+
+]
+
+[84
+
+]
+Chapitre 35.
+
+
+[85]
+
+[86
+
+]
+Chapitre 36.
+
+Overfull \hbox (3.99092pt too wide) in paragraph at lines 571--571
+[]\T1/lmr/bx/n/17.28 Inégalités aug-men-tées - Frac-ture trans-hu-ma-niste 
+ []
+
+
+
+[87]
+
+[88
+
+]
+Chapitre 37.
+
+
+[89]
+
+[90
+
+]
+Chapitre 38.
+
+Overfull \hbox (27.14685pt too wide) in paragraph at lines 584--584
+[]\T1/lmr/bx/n/17.28 Manipulation com-por-te-men-tale - Brave New World 
+ []
+
+
+
+[91]
+
+[92
+
+]
+Chapitre 39.
+
+Overfull \hbox (20.27159pt too wide) in paragraph at lines 591--591
+[]\T1/lmr/bx/n/17.28 Retour aux ori-gines - La pa-resse créa-tive constante 
+ []
+
+
+
+[93]
+
+[94
+
+]
+Chapitre 40.
+
+
+[95]
+
+[96
+
+]
+Chapitre 41.
+
+Overfull \hbox (13.00534pt too wide) in paragraph at lines 611--611
+[]\T1/lmr/bx/n/17.28 Paradoxe fi-nal - Créer notre propre ob-so-les-cence ? 
+ []
+
+
+
+[97] (Livre.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package rerunfilecheck Warning: File `Livre.out' has changed.
@@ -1592,16 +1842,16 @@ Package rerunfilecheck Warning: File `Livre.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `Livre.out':
-(rerunfilecheck)             Before: 3F8ED1BADF7D9A61BED1385C2C14BDA9;48803
-(rerunfilecheck)             After:  D2C38B58F0DB35C0DE8D63F7C42611CB;48808.
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  9C72F626E0217464A079F8AF149081D5;119448.
  ) 
 Here is how much of TeX's memory you used:
- 30470 strings out of 403249
- 604321 string characters out of 5460860
- 1118324 words of memory out of 5000000
- 58450 multiletter control sequences out of 15000+600000
- 679274 words of font info for 70 fonts, out of 8000000 for 9000
+ 30419 strings out of 403249
+ 603804 string characters out of 5460860
+ 1060642 words of memory out of 5000000
+ 58412 multiletter control sequences out of 15000+600000
+ 676302 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 98i,6n,105p,667b,602s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,5n,105p,667b,419s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Livre.pdf (77 pages).
+Output written on Livre.pdf (97 pages).
